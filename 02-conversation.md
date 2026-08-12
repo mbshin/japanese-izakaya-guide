@@ -90,10 +90,10 @@
 
 ---
 
-## 3. 문자 — [04-kana.md](./04-kana.md) 로 분리했습니다
+## 3. 문자 — [03-kana.md](./03-kana.md) 로 분리했습니다
 
 히라가나·가타카나 전체표, 탁음·요음·촉음·장음, 헷갈리는 짝 구분법, 이름 가타카나 표기,
-일본어 타이핑 설정까지 **[04-kana.md](./04-kana.md)** 에 정리했습니다.
+일본어 타이핑 설정까지 **[03-kana.md](./03-kana.md)** 에 정리했습니다.
 
 > 🎬 **영상으로 보기**: [히라가나 쓰기 읽기 강의](https://www.youtube.com/results?search_query=%ED%9E%88%EB%9D%BC%EA%B0%80%EB%82%98%20%EC%93%B0%EA%B8%B0%20%EC%9D%BD%EA%B8%B0%20%EA%B0%95%EC%9D%98) · [가타카나 강의](https://www.youtube.com/results?search_query=%EA%B0%80%ED%83%80%EC%B9%B4%EB%82%98%20%EA%B0%95%EC%9D%98)
 

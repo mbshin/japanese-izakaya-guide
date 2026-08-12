@@ -170,7 +170,7 @@
 
 | 가이드 섹션 | 볼 채널 / 검색어 |
 | --- | --- |
-| [04-kana.md](./04-kana.md) 문자 | 유하다요, 시원스쿨, PuniPuniJapan / [히라가나 강의](https://www.youtube.com/results?search_query=%ED%9E%88%EB%9D%BC%EA%B0%80%EB%82%98%20%EC%93%B0%EA%B8%B0%20%EC%9D%BD%EA%B8%B0%20%EA%B0%95%EC%9D%98) |
+| [03-kana.md](./03-kana.md) 문자 | 유하다요, 시원스쿨, PuniPuniJapan / [히라가나 강의](https://www.youtube.com/results?search_query=%ED%9E%88%EB%9D%BC%EA%B0%80%EB%82%98%20%EC%93%B0%EA%B8%B0%20%EC%9D%BD%EA%B8%B0%20%EA%B0%95%EC%9D%98) |
 | §4 발음 | [일본어 발음 장음 촉음](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%B0%9C%EC%9D%8C%20%EC%9E%A5%EC%9D%8C%20%EC%B4%89%EC%9D%8C), Onomappu(발음 편) |
 | §5 첫 만남 | [Japanese self introduction beginner](https://www.youtube.com/results?search_query=Japanese%20self%20introduction%20beginner) |
 | §6 자기소개 | [일본어 자기소개](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C) |

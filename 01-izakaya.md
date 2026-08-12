@@ -3,7 +3,7 @@
 > **시나리오**: 일본 여행 중 이자카야·서서마시는집에서 **현지인과 말을 트고 관계를 만든다**
 > **난이도**: 일본어 입문자도 가능. 단, **가게를 잘못 고르면 절대 불가능**합니다
 >
-> 관련: [03-travel.md](./03-travel.md) · [02-conversation.md](./02-conversation.md) · [90-youtube.md](./90-youtube.md)
+> 관련: [04-travel.md](./04-travel.md) · [02-conversation.md](./02-conversation.md) · [90-youtube.md](./90-youtube.md)
 
 ---
 

@@ -11,6 +11,8 @@
 
 ## 0. 먼저 알아야 할 3가지
 
+> 🎬 **영상으로 보기**: [문자 3종류 설명](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%AC%B8%EC%9E%90%20%EC%A2%85%EB%A5%98%20%ED%9E%88%EB%9D%BC%EA%B0%80%EB%82%98%20%EA%B0%80%ED%83%80%EC%B9%B4%EB%82%98%20%ED%95%9C%EC%9E%90) · [일본어 시작하는 법](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%B2%98%EC%9D%8C%20%EC%8B%9C%EC%9E%91%20%EA%B3%B5%EB%B6%80%EB%B2%95)
+
 ### ① 일본어에는 문자가 3종류 있습니다
 
 | 문자 | 예 | 쓰임 |
@@ -44,6 +46,8 @@
 ---
 
 ## 1. 히라가나 46자
+
+> 🎬 **영상으로 보기**: [히라가나 46자 강의](https://www.youtube.com/results?search_query=%ED%9E%88%EB%9D%BC%EA%B0%80%EB%82%98%2046%EC%9E%90%20%EC%9D%BD%EA%B8%B0%20%EA%B0%95%EC%9D%98) · [히라가나 노래](https://www.youtube.com/results?search_query=%ED%9E%88%EB%9D%BC%EA%B0%80%EB%82%98%20%EB%85%B8%EB%9E%98%20%EC%99%B8%EC%9A%B0%EA%B8%B0) · [Hiragana 1시간 (EN)](https://www.youtube.com/results?search_query=Learn%20Hiragana%20in%201%20hour)
 
 ### 기본표
 
@@ -100,6 +104,8 @@
 
 ## 2. 탁음·반탁음 (25자)
 
+> 🎬 **영상으로 보기**: [탁음·반탁음](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%ED%83%81%EC%9D%8C%20%EB%B0%98%ED%83%81%EC%9D%8C%20%EC%84%A4%EB%AA%85) · [が·ざ·だ·ば 발음](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%E3%81%8C%20%E3%81%96%20%E3%81%A0%20%E3%81%B0%20%EB%B0%9C%EC%9D%8C)
+
 점 두 개(゛)나 동그라미(゜)가 붙어 소리가 바뀝니다. **글자를 새로 외우는 게 아닙니다.**
 
 ### 탁음 (゛)
@@ -124,6 +130,8 @@
 
 ## 3. 요음 (작은 ゃ ゅ ょ)
 
+> 🎬 **영상으로 보기**: [요음(작은 ゃゅょ)](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%9A%94%EC%9D%8C%20%EC%9E%91%EC%9D%80%20%EC%95%BC%20%EC%9C%A0%20%EC%9A%94) · [きゃ·しゃ·ちゃ 발음](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%E3%81%8D%E3%82%83%20%E3%81%97%E3%82%83%20%E3%81%A1%E3%82%83%20%EB%B0%9C%EC%9D%8C)
+
 い단 글자 + 작은 や·ゆ·よ = **한 박자**입니다.
 
 | | ゃ | ゅ | ょ |
@@ -147,6 +155,8 @@
 
 ## 4. 촉음 (작은 っ) — 한 박자 멈춤
 
+> 🎬 **영상으로 보기**: [촉음(작은 っ)](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%B4%89%EC%9D%8C%20%EC%9E%91%EC%9D%80%20%E3%81%A4%20%EB%B0%9C%EC%9D%8C) · [촉음 연습](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%B0%9B%EC%B9%A8%20%EB%B0%9C%EC%9D%8C%20%EC%B4%89%EC%9D%8C%20%EC%84%A4%EB%AA%85)
+
 작은 `っ`는 소리가 없습니다. **한 박자를 쉬는** 표시입니다.
 
 ```text
@@ -162,6 +172,8 @@
 ---
 
 ## 5. 장음 (긴 소리) — 한국인이 가장 많이 틀림
+
+> 🎬 **영상으로 보기**: [장음 구분](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%9E%A5%EC%9D%8C%20%EB%B0%9C%EC%9D%8C%20%EA%B5%AC%EB%B6%84) · [장음·단음 차이](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%9E%A5%EC%9D%8C%20%EB%8B%A8%EC%9D%8C%20%EC%B0%A8%EC%9D%B4)
 
 **모음을 2박자 길게** 끕니다. 길이가 뜻을 바꿉니다.
 
@@ -188,6 +200,8 @@
 ---
 
 ## 6. 가타카나 46자
+
+> 🎬 **영상으로 보기**: [가타카나 46자 강의](https://www.youtube.com/results?search_query=%EA%B0%80%ED%83%80%EC%B9%B4%EB%82%98%2046%EC%9E%90%20%EA%B0%95%EC%9D%98) · [シ/ツ, ソ/ン 구분](https://www.youtube.com/results?search_query=%EA%B0%80%ED%83%80%EC%B9%B4%EB%82%98%20%ED%97%B7%EA%B0%88%EB%A6%AC%EB%8A%94%20%EA%B8%80%EC%9E%90%20%E3%82%B7%20%E3%83%84%20%E3%82%BD%20%E3%83%B3) · [Katakana 1시간 (EN)](https://www.youtube.com/results?search_query=Learn%20Katakana%20in%201%20hour)
 
 **소리는 히라가나와 완전히 같습니다.** 모양만 다릅니다.
 
@@ -242,6 +256,8 @@
 
 ## 7. 내 이름을 가타카나로 — 1순위 과제
 
+> 🎬 **영상으로 보기**: [이름 가타카나 표기](https://www.youtube.com/results?search_query=%ED%95%9C%EA%B8%80%20%EC%9D%B4%EB%A6%84%20%EA%B0%80%ED%83%80%EC%B9%B4%EB%82%98%20%ED%91%9C%EA%B8%B0%20%EB%B3%80%ED%99%98) · [한국 이름 일본어 표기](https://www.youtube.com/results?search_query=%ED%95%9C%EA%B5%AD%20%EC%9D%B4%EB%A6%84%20%EC%9D%BC%EB%B3%B8%EC%96%B4%EB%A1%9C%20%EC%93%B0%EB%8A%94%20%EB%B2%95)
+
 일본에서 자기소개할 때 **가장 먼저 필요한 가타카나**입니다.
 
 ### 한글 → 가타카나 변환 기본
@@ -283,6 +299,8 @@
 ---
 
 ## 8. 학습 순서와 방법
+
+> 🎬 **영상으로 보기**: [히라가나 연상 암기법](https://www.youtube.com/results?search_query=%ED%9E%88%EB%9D%BC%EA%B0%80%EB%82%98%20%EC%99%B8%EC%9A%B0%EB%8A%94%20%EB%B2%95%20%EC%97%B0%EC%83%81%EB%B2%95) · [3일 완성 후기](https://www.youtube.com/results?search_query=%ED%9E%88%EB%9D%BC%EA%B0%80%EB%82%98%203%EC%9D%BC%20%EB%A7%8C%EC%97%90%20%EC%99%B8%EC%9A%B0%EA%B8%B0) · [Anki 사용법](https://www.youtube.com/results?search_query=Anki%20%ED%9E%88%EB%9D%BC%EA%B0%80%EB%82%98%20%EB%8D%B1%20%EC%82%AC%EC%9A%A9%EB%B2%95)
 
 ### 추천 순서
 
@@ -335,6 +353,8 @@
 
 ## 9. 읽기 연습 — 실전 단어
 
+> 🎬 **영상으로 보기**: [히라가나 받아쓰기](https://www.youtube.com/results?search_query=%ED%9E%88%EB%9D%BC%EA%B0%80%EB%82%98%20%EB%B0%9B%EC%95%84%EC%93%B0%EA%B8%B0%20%EC%97%B0%EC%8A%B5) · [가타카나 외래어 읽기](https://www.youtube.com/results?search_query=%EA%B0%80%ED%83%80%EC%B9%B4%EB%82%98%20%EC%99%B8%EB%9E%98%EC%96%B4%20%EC%9D%BD%EA%B8%B0) · [단어 읽기 연습](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%8B%A8%EC%96%B4%20%EC%9D%BD%EA%B8%B0%20%EC%97%B0%EC%8A%B5%20%EC%B4%88%EA%B8%89)
+
 ### 히라가나
 
 ```text
@@ -370,6 +390,8 @@
 ---
 
 ## 10. 타이핑 — 폰·PC에서 일본어 입력
+
+> 🎬 **영상으로 보기**: [아이폰 일본어 키보드](https://www.youtube.com/results?search_query=%EC%95%84%EC%9D%B4%ED%8F%B0%20%EC%9D%BC%EB%B3%B8%EC%96%B4%20%ED%82%A4%EB%B3%B4%EB%93%9C%20%EC%84%A4%EC%A0%95%20%EB%B0%A9%EB%B2%95) · [로마자 입력법](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%A1%9C%EB%A7%88%EC%9E%90%20%EC%9E%85%EB%A0%A5%20%EB%B0%A9%EB%B2%95)
 
 여행 중 검색·LINE 대화에 필요합니다.
 
