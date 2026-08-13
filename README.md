@@ -39,7 +39,7 @@
 | **[field/see.md](./field/see.md)** | 👀 현장 | **눈으로 알아볼 것.** 가나표·간판 한자·금액·메뉴 | ⭐⭐ |
 | **[guides/01-izakaya.md](./guides/01-izakaya.md)** | 🎯 **목표 ①** | 이자카야·다치노미 — 가게 선택, 말 거는 법, 마스터 공략, 안전 | ⭐⭐⭐ |
 | **[guides/02-golf.md](./guides/02-golf.md)** | 🎯 **목표 ②** | 골프 — 1人予約, 라운드 표현, 하프타임, 매너 | ⭐⭐⭐ |
-| **[guides/03-conversation.md](./guides/03-conversation.md)** | ⚙️ 엔진 | 아이즈치, 위기 탈출, 자기소개, 존댓말 | ⭐⭐ |
+| **[guides/03-conversation.md](./guides/03-conversation.md)** | ⚙️ 엔진 | 아이즈치, 위기 탈출, 자기소개, 존댓말, **칭찬·거절 신호** | ⭐⭐ |
 | **[guides/04-kana.md](./guides/04-kana.md)** | 🧱 기반 | 히라가나·가타카나 전체, 읽는 법, 이름 표기, 타이핑 | ⭐ |
 | **[guides/05-travel.md](./guides/05-travel.md)** | 🧳 배경 | 교통·식당·편의점·면세, 간판 한자, 숫자 | ⭐ |
 | **[resources/youtube.md](./resources/youtube.md)** | 🎬 도구 | 채널 카탈로그, 4주 커리큘럼, 훈련법 | — |
@@ -103,6 +103,7 @@ guides/03-conversation.md
   §9  위기 탈출 표현
   §6  자기소개 15초
   §10 존댓말/반말
+  §14 칭찬과 호감 표현   ★  「ちょっと…」가 거절이라는 것만은 꼭
 ```
 
 ### 3단계 — 글자 (병행 가능)
