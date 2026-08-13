@@ -106,6 +106,12 @@ button{font:inherit;color:inherit;background:none;border:0;padding:0;cursor:poin
 .search input::placeholder{color:var(--ink-3)}
 .search input:focus{outline:none}
 .clearbtn{color:var(--ink-3);font-size:19px;line-height:1;padding:4px}
+.romtog{
+  flex:none;margin-left:auto;padding:5px 10px;border-radius:999px;
+  border:1px solid var(--line);background:var(--surface);
+  font-size:11.5px;font-weight:700;color:var(--ink-3);
+}
+.romtog[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
 
 /* ============ tabs ============ */
 .tabs{
@@ -142,6 +148,16 @@ main{max-width:720px;margin:0 auto;padding:16px 14px 96px;display:flex;flex-dire
   transition:transform .12s ease, border-color .12s ease;
 }
 .card:active{transform:scale(.985);border-color:var(--accent)}
+.ja{
+  font-size:24px;font-weight:700;letter-spacing:.01em;line-height:1.35;
+  display:flex;align-items:baseline;gap:7px;flex-wrap:wrap;
+}
+.furi{font-size:14px;color:var(--ink-3);margin-top:3px;letter-spacing:.02em}
+.rom{
+  font-size:13px;color:var(--accent);font-weight:700;margin-top:6px;
+  padding-top:6px;border-top:1px dashed var(--line);
+}
+body.hide-rom .rom{display:none}
 .say{
   font-size:19px;font-weight:750;letter-spacing:-.015em;line-height:1.25;
   display:flex;align-items:baseline;gap:7px;flex-wrap:wrap;
@@ -149,6 +165,7 @@ main{max-width:720px;margin:0 auto;padding:16px 14px 96px;display:flex;flex-dire
 .star{font-size:11px;color:var(--accent);letter-spacing:-.08em;transform:translateY(-1px)}
 .mean{font-size:13.5px;color:var(--ink-2);margin-top:3px}
 .orig{font-size:13px;color:var(--ink-3);margin-top:5px;display:flex;align-items:center;gap:6px}
+.mean{font-size:13.5px;color:var(--ink-2);margin-top:6px}
 .orig .tapicon{
   flex:none;font-size:9.5px;font-weight:800;letter-spacing:.1em;
   color:var(--accent);border:1px solid var(--accent-soft);background:var(--accent-soft);
@@ -159,6 +176,7 @@ main{max-width:720px;margin:0 auto;padding:16px 14px 96px;display:flex;flex-dire
 
 /* heard-not-said rows */
 .card.heard{background:var(--surface-2);border-style:dashed}
+.card.heard .ja{font-size:19px;font-weight:650;color:var(--ink-2)}
 .card.heard .say{font-size:16px;font-weight:650;color:var(--ink-2)}
 .card.heard .reply{margin-top:7px;font-size:14px;font-weight:700}
 .card.heard .reply span{color:var(--accent)}
@@ -218,8 +236,10 @@ td,th{padding:0}
 .chip{
   background:var(--surface);border:1px solid var(--line);border-radius:11px;padding:9px 11px;
 }
-.chip .cj{font-size:16px;font-weight:700;letter-spacing:.02em}
-.chip .cr{font-size:12px;color:var(--accent);font-weight:700;margin-top:1px}
+.chip .cj{font-size:19px;font-weight:700;letter-spacing:.02em}
+.chip .cf{font-size:12px;color:var(--ink-3);margin-top:1px}
+.chip .cr{font-size:11.5px;color:var(--accent);font-weight:700;margin-top:2px}
+body.hide-rom .chip .cr{display:none}
 .chip .cm{font-size:12.5px;color:var(--ink-2);margin-top:2px}
 .chip.hot{border-color:var(--accent)}
 
@@ -271,6 +291,7 @@ td,th{padding:0}
   color:var(--ink-3);margin-bottom:16px;
 }
 .showjp{font-size:29px;font-weight:700;line-height:1.4;letter-spacing:.01em}
+.showfuri{margin-top:8px;font-size:16px;color:var(--ink-3)}
 .showmean{margin-top:16px;padding-top:14px;border-top:1px solid var(--line);font-size:14px;color:var(--ink-2)}
 .showsay{margin-top:5px;font-size:16px;font-weight:800;color:var(--accent)}
 .showclose{
@@ -296,7 +317,7 @@ footer a{color:var(--accent)}
   <div class="top-in">
     <div class="brandrow">
       <div class="brand">카운터 <em>카드</em></div>
-      <div class="kicker">일본 · 현장용</div>
+      <button class="romtog" id="romtog" aria-pressed="true">한글 읽기</button>
     </div>
     <div class="search">
       <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.2-3.2"/></svg>
@@ -318,6 +339,7 @@ footer a{color:var(--accent)}
   <div class="showcard">
     <div class="showlabel">상대에게 보여주세요</div>
     <div class="showjp jp" id="showjp"></div>
+    <div class="showfuri jp" id="showfuri"></div>
     <div class="showmean" id="showmean"></div>
     <div class="showsay" id="showsay"></div>
     <button class="showclose" id="showclose">닫기</button>
@@ -326,6 +348,8 @@ footer a{color:var(--accent)}
 
 <script>
 /* p: [읽기, 일본어, 뜻, 별점(0-3)] · h: 듣는 말 [읽기, 일본어, 뜻, 대답] */
+const KANA = {"おすすめは何ですか？": "おすすめはなんですか？", "お会計お願いします": "おかいけいおねがいします", "お手洗い": "おてあらい", "お通し": "おとおし", "お通しはいくらですか？": "おとおしはいくらですか？", "お願いします": "おねがいします", "このお店、長いんですか？": "このおみせ、ながいんですか？", "この住所に行きたいんですが": "このじゅうしょにいきたいんですが", "この辺でおすすめのお店、ありますか？": "このへんでおすすめのおみせ、ありますか？", "これ、お願いします": "これ、おねがいします", "すみません、聞こえなかったです": "すみません、きこえなかったです", "それ、おいしそうですね。何ですか？": "それ、おいしそうですね。なんですか？", "ちょっと待ってください": "ちょっとまってください", "とりあえず、生で": "とりあえず、なまで", "どういう意味ですか？": "どういういみですか？", "また来ます！": "またきます！", "までお願いします": "までおねがいします", "もう一回お願いします": "もういっかいおねがいします", "もう一杯お願いします": "もういっぱいおねがいします", "もつ煮": "もつに", "ゆっくりお願いします": "ゆっくりおねがいします", "よく来るんですか？": "よくくるんですか？", "ウーロン茶": "ウーロンちゃ", "カウンター、空いてますか？": "カウンター、あいてますか？", "カード使えますか？": "カードつかえますか？", "一人ですけど、いいですか？": "ひとりですけど、いいですか？", "一人旅です": "ひとりたびです", "一緒に写真、いいですか？": "いっしょにしゃしん、いいですか？", "両替": "りょうがえ", "並盛": "なみもり", "串カツ": "くしカツ", "乗り換えは必要ですか？": "のりかえはひつようですか？", "乗換": "のりかえ", "乾杯！": "かんぱい！", "予約席": "よやくせき", "以上です": "いじょうです", "何番線ですか？": "なんばんせんですか？", "免税": "めんぜい", "入口": "いりぐち", "冷や": "ひや", "冷奴": "ひややっこ", "出口": "でぐち", "刺身": "さしみ", "割引": "わりびき", "北口": "きたぐち", "南口": "みなみぐち", "各駅停車": "かくえきていしゃ", "唐揚げ": "からあげ", "営業中": "えいぎょうちゅう", "大丈夫です": "だいじょうぶです", "大盛": "おおもり", "定食": "ていしょく", "客引き": "きゃくひき", "小麦": "こむぎ", "席料": "せきりょう", "席料はありますか？": "せきりょうはありますか？", "常連さん、多いんですか？": "じょうれんさん、おおいんですか？", "待ち時間": "まちじかん", "快速": "かいそく", "急行": "きゅうこう", "撮影禁止": "さつえいきんし", "改札": "かいさつ", "日本のお酒、教えてもらえますか？": "にほんのおさけ、おしえてもらえますか？", "日本語、まだ下手なんですけど…": "にほんご、まだへたなんですけど…", "日本酒": "にほんしゅ", "明日、どこ行けばいいですか？": "あした、どこいけばいいですか？", "普通": "ふつう", "書いてもらえますか？": "かいてもらえますか？", "替玉": "かえだま", "有料": "ゆうりょう", "本日休業": "ほんじつきゅうぎょう", "東口": "ひがしぐち", "枝豆": "えだまめ", "梅酒": "うめしゅ", "温めますか？": "あたためますか？", "満席": "まんせき", "準備中": "じゅんびちゅう", "無料": "むりょう", "焼き鳥": "やきとり", "焼酎": "しょうちゅう", "熱燗": "あつかん", "牛肉": "ぎゅうにく", "特急": "とっきゅう", "現金のみ": "げんきんのみ", "生ビール": "なまビール", "番線": "ばんせん", "看板メニューは何ですか？": "かんばんメニューはなんですか？", "私もそれください！": "わたしもそれください！", "税別": "ぜいべつ", "税込": "ぜいこみ", "立入禁止": "たちいりきんし", "精算お願いします": "せいさんおねがいします", "精算機": "せいさんき", "終電は何時ですか？": "しゅうでんはなんじですか？", "練習": "れんしゅう", "英語わかりますか？": "えいごわかりますか？", "落花生": "らっかせい", "袋はご利用ですか？": "ふくろはごりようですか？", "西口": "にしぐち", "警察を呼びます": "けいさつをよびます", "豚肉": "ぶたにく", "韓国から来ました": "かんこくからきました", "韓国に来たら連絡してください": "かんこくにきたられんらくしてください", "食べ放題": "たべほうだい", "飲み放題": "のみほうだい", "鶏肉": "とりにく", "卵": "たまご", "乳": "にゅう", "生": "なま", "男": "おとこ", "女": "おんな", "押": "おす", "引": "ひく", "百": "ひゃく", "千": "せん", "万": "まん", "組": "くみ", "受付": "うけつけ", "昼食": "ちゅうしょく", "精算": "せいさん", "浴場": "よくじょう", "お風呂": "おふろ", "乗用カート": "じょうようカート", "練習場": "れんしゅうじょう", "素振り": "すぶり", "暫定球": "ざんていきゅう", "薄暮": "はくぼ", "早朝": "そうちょう", "惜しい！": "おしい！", "打ちます": "うちます", "お先にどうぞ": "おさきにどうぞ", "お先に失礼します": "おさきにしつれいします", "お疲れさまです": "おつかれさまです", "お上手ですね！": "おじょうずですね！", "飛びますね！": "とびますね！", "何番ですか？": "なんばんですか？", "何打ですか？": "なんだですか？", "予約した": "よやくした", "スタートは何時ですか？": "スタートはなんじですか？", "日本でゴルフ、初めてです": "にほんでゴルフ、はじめてです", "よろしくお願いします": "よろしくおねがいします", "また一緒に回りましょう！": "またいっしょにまわりましょう！", "今日はありがとうございました！": "きょうはありがとうございました！", "楽しかったです！": "たのしかったです！", "交換してもいいですか？": "こうかんしてもいいですか？", "一緒に写真、いいですか": "いっしょにしゃしん、いいですか", "別々でお願いします": "べつべつでおねがいします", "同じものをください": "おなじものをください", "何にしますか？": "なににしますか？", "飲んでもいいですか？": "のんでもいいですか？", "教えてください": "おしえてください", "このコース、初めてですか？": "このコース、はじめてですか？", "どこから来られたんですか？": "どこからこられたんですか？", "よく回られるんですか？": "よくまわられるんですか？", "韓国のゴルフ場、来たことありますか？": "かんこくのゴルフじょう、きたことありますか？", "韓国はスクリーンゴルフが人気です": "かんこくはスクリーンゴルフがにんきです", "韓国のゴルフ場、教えましょうか？": "かんこくのゴルフじょう、おしえましょうか？", "一杯おごらせてください": "いっぱいおごらせてください", "ご馳走します": "ごちそうします", "会社員": "かいしゃいん", "開発者": "かいはつしゃ", "学生": "がくせい", "映画": "えいが", "音楽": "おんがく", "旅行": "りょこう", "料理": "りょうり", "運動": "うんどう", "登山": "とざん", "写真": "しゃしん", "初めまして": "はじめまして", "名前": "なまえ", "何名様ですか？": "なんめいさまですか？", "少々お待ちください": "しょうしょうおまちください", "予約してません": "よやくしてません", "禁煙席お願いします": "きんえんせきおねがいします", "注文お願いします": "ちゅうもんおねがいします", "同じものをください！": "おなじものをください！", "お水ください": "おみずください", "道に迷いました": "みちにまよいました", "荷物をなくしました": "にもつをなくしました", "助けてください": "たすけてください", "警察を呼んでください": "けいさつをよんでください", "病院はどこですか？": "びょういんはどこですか？", "気分が悪いです": "きぶんがわるいです", "薬局はどこですか？": "やっきょくはどこですか？", "観光です": "かんこうです", "五日間です": "いつかかんです", "荷物を預かってもらえますか？": "にもつをあずかってもらえますか？", "何時にチェックアウトですか？": "なんじにチェックアウトですか？", "試着してもいいですか？": "しちゃくしてもいいですか？", "他のサイズありますか？": "ほかのサイズありますか？", "見てるだけです": "みてるだけです", "免税できますか？": "めんぜいできますか？", "免税カウンターはどこですか？": "めんぜいカウンターはどこですか？", "地図で教えてもらえますか？": "ちずでおしえてもらえますか？", "英語で言うと？": "えいごでいうと？", "割り勘でいいですか？": "わりかんでいいですか？", "お酒、飲めますか？": "おさけ、のめますか？", "あまり飲めないんです": "あまりのめないんです", "そろそろ失礼します": "そろそろしつれいします", "宅配便": "たくはいびん", "上り": "のぼり", "下り": "くだり", "切符": "きっぷ", "指定席": "していせき", "自由席": "じゆうせき", "新幹線": "しんかんせん", "辛口": "からくち", "甘口": "あまくち", "小盛": "こもり", "会計": "かいけい", "一名様": "いちめいさま", "二名様": "にめいさま", "IT関係の仕事": "ITかんけいのしごと", "K-POP聞きますか？": "K-POPききますか？", "LINE交換してもいいですか？": "LINEこうかんしてもいいですか？", "○○までお願いします": "○○までおねがいします", "○○駅に行きたいんですが": "○○えきにいきたいんですが", "○番線": "○ばんせん", "〜って、どういう意味ですか？": "〜って、どういういみですか？", "おすすめの店、ありますか？": "おすすめのみせ、ありますか？", "おすすめの店、教えてください": "おすすめのみせ、おしえてください", "おすすめの店ありますか？": "おすすめのみせありますか？", "お仕事は何を？": "おしごとはなにを？", "このイベント、よく来るんですか？": "このイベント、よくくるんですか？", "この辺、詳しいですか？": "このへん、くわしいですか？", "この辺でおすすめの場所ありますか？": "このへんでおすすめのばしょありますか？", "これ、何ですか？": "これ、なんですか？", "これは○○に止まりますか？": "これは○○にとまりますか？", "ご出身はどこですか？": "ごしゅっしんはどこですか？", "すみません、もう一度お願いします": "すみません、もういちどおねがいします", "すみません（注文お願いします）": "すみません（ちゅうもんおねがいします）", "ちょっと分からなかったです": "ちょっとわからなかったです", "ちょっと遠いです": "ちょっととおいです", "どこに泊まりますか？": "どこにとまりますか？", "どのくらい待ちますか？": "どのくらいまちますか？", "どんな感じですか？": "どんなかんじですか？", "また会いましょう！": "またあいましょう！", "もう少しゆっくり話してもらえますか？": "もうすこしゆっくりはなしてもらえますか？", "キャディ付": "キャディつき", "ゴルフ歴どのくらいですか？": "ゴルフれきどのくらいですか？", "スタート時間": "スタートじかん", "チェックインお願いします": "チェックインおねがいします", "ポイントカードはお持ちですか？": "ポイントカードはおもちですか？", "レンタルクラブ、お願いします": "レンタルクラブ、おねがいします", "一週間です": "いっしゅうかんです", "中央口": "ちゅうおうぐち", "予約した○○です": "よやくした○○です", "二人です": "ふたりです", "今度、ごはんでも行きましょう": "こんど、ごはんでもいきましょう", "今度〜行きたいです": "こんど〜いきたいです", "今日、暑いですね": "きょう、あついですね", "今日は楽しかったです！": "きょうはたのしかったです！", "休みの日は何をしてますか？": "やすみのひはなにをしてますか？", "何かあったら連絡してください": "なにかあったられんらくしてください", "何日間ですか？": "なんにちかんですか？", "写真、撮ってもいいですか？": "しゃしん、とってもいいですか？", "分かった": "わかった", "分かりました": "わかりました", "右": "みぎ", "左": "ひだり", "手洗": "てあらい", "水割り": "みずわり", "お湯割り": "おゆわり", "空": "あき", "満": "まん", "各駅停車 · 普通": "かくえきていしゃ · ふつう", "日本、初めてですか？": "にほん、はじめてですか？", "日本酒、おすすめありますか？": "にほんしゅ、おすすめありますか？", "暫定球打ちます": "ざんていきゅううちます", "曲がってください": "まがってください", "最近ハマってることあります？": "さいきんハマってることあります？", "観光ですか？": "かんこうですか？", "趣味は何ですか？": "しゅみはなんですか？", "私もそれください": "わたしもそれください", "韓国、行ったことありますか？": "かんこく、いったことありますか？", "韓国でおすすめの場所、教えましょうか？": "かんこくでおすすめのばしょ、おしえましょうか？", "韓国に来たことありますか？": "かんこくにきたことありますか？", "韓国のお酒、飲んだことありますか？": "かんこくのおさけ、のんだことありますか？", "韓国のどこですか？": "かんこくのどこですか？", "韓国の食べ物で好きなものありますか？": "かんこくのたべものですきなものありますか？", "韓国料理、好きですか？": "かんこくりょうり、すきですか？", "韓国語、勉強したことありますか？": "かんこくご、べんきょうしたことありますか？", "韓国語、教えてください": "かんこくご、おしえてください", "韓国語で〜は、日本語で何と言いますか？": "かんこくごで〜は、にほんごでなんといいますか？", "1人予約ランド": "ひとりよやくランド", "楽天GORA 「1人予約」": "らくてんGORA「ひとりよやく」", "新宿 思い出横丁": "しんじゅく おもいでよこちょう", "新宿 ゴールデン街": "しんじゅく ゴールデンがい", "上野 アメ横 / ガード下": "うえの アメよこ / ガードした", "赤羽 / 立石 / 北千住": "あかばね / たていし / きたせんじゅ", "恵比寿 / 中目黒": "えびす / なかめぐろ", "六本木": "ろっぽんぎ", "新世界 / 天王寺": "しんせかい / てんのうじ", "京橋 / 天満": "きょうばし / てんま", "裏なんば": "うらなんば", "はい、初めてです / 3回目です": "はい、はじめてです / 3かいめです"};
+
 const DATA = [
 {k:'core', tab:'만능', title:'만능 7문장',
  yt:[['여행 필수 표현','일본 여행 회화 필수 표현'],['스미마셍 쓰임','일본어 스미마셍 사용법']], note:'이것만 알면 절반은 됩니다',
@@ -608,14 +632,16 @@ function render(filter,tab){
     }
 
     if(g.items){
-      const rows=g.items.filter(p=>!f||(p[0]+p[1]+p[2]).toLowerCase().includes(f));
+      const rows=g.items.filter(p=>!f||(p[0]+p[1]+p[2]+(KANA[p[1]]||'')).toLowerCase().includes(f));
       if(rows.length){
         body+='<div class="stack">';
         rows.forEach(p=>{
-          body+='<button class="card" data-jp="'+esc(p[1])+'" data-mean="'+esc(p[2])+'" data-say="'+esc(p[0])+'">'
-             +'<div class="say">'+esc(p[0])+(p[3]?'<span class="star">'+stars(p[3])+'</span>':'')+'</div>'
+          const kn=KANA[p[1]]||'';
+          body+='<button class="card" data-jp="'+esc(p[1])+'" data-kana="'+esc(kn)+'" data-mean="'+esc(p[2])+'" data-say="'+esc(p[0])+'">'
+             +'<div class="ja jp">'+esc(p[1])+(p[3]?'<span class="star">'+stars(p[3])+'</span>':'')+'</div>'
+             +(kn?'<div class="furi jp">'+esc(kn)+'</div>':'')
              +'<div class="mean">'+esc(p[2])+'</div>'
-             +'<div class="orig"><span class="tapicon">보여주기</span><span class="jp">'+esc(p[1])+'</span></div>'
+             +'<div class="rom">'+esc(p[0])+'</div>'
              +'</button>';
         });
         body+='</div>';
@@ -627,10 +653,12 @@ function render(filter,tab){
       if(rows.length){
         body+='<div class="stack">';
         rows.forEach(p=>{
+          const kn=KANA[p[1]]||'';
           body+='<div class="card heard">'
-             +'<div class="say">'+esc(p[0])+'</div>'
-             +'<div class="mean">'+esc(p[2])+' <span class="jp">'+esc(p[1])+'</span></div>'
-             +'<div class="reply">→ <span>'+esc(p[3])+'</span></div>'
+             +'<div class="ja jp">'+esc(p[1])+'</div>'
+             +(kn?'<div class="furi jp">'+esc(kn)+'</div>':'')
+             +'<div class="mean">'+esc(p[2])+'</div>'
+             +'<div class="rom">'+esc(p[0])+' → <b>'+esc(p[3])+'</b></div>'
              +'</div>';
         });
         body+='</div>';
@@ -644,7 +672,9 @@ function render(filter,tab){
     if(g.chips){
       const rows=g.chips.filter(c=>!f||(c[0]+c[1]+c[2]).toLowerCase().includes(f));
       if(rows.length) body+='<div class="chips">'+rows.map(c=>
-        '<div class="chip'+(c[3]?' hot':'')+'"><div class="cj jp">'+esc(c[0])+'</div><div class="cr">'+esc(c[1])+'</div><div class="cm">'+esc(c[2])+'</div></div>').join('')+'</div>';
+        '<div class="chip'+(c[3]?' hot':'')+'"><div class="cj jp">'+esc(c[0])+'</div>'
+        +(KANA[c[0]]?'<div class="cf jp">'+esc(KANA[c[0]])+'</div>':'')
+        +'<div class="cm">'+esc(c[2])+'</div><div class="cr">'+esc(c[1])+'</div></div>').join('')+'</div>';
     }
     if(g.nums && !f){
       body+='<div class="nums">'+NUMS.map(n=>'<div class="num"><b>'+esc(n[0])+'</b><span>'+esc(n[1])+'</span></div>').join('')+'</div>';
@@ -685,6 +715,7 @@ clearBtn.addEventListener('click',()=>{ q.value=''; clearBtn.hidden=true; render
 const show=document.getElementById('show');
 function openShow(el){
   document.getElementById('showjp').textContent=el.dataset.jp;
+  document.getElementById('showfuri').textContent=el.dataset.kana||'';
   document.getElementById('showmean').textContent=el.dataset.mean;
   document.getElementById('showsay').textContent=el.dataset.say;
   show.classList.add('on');
@@ -695,6 +726,15 @@ document.getElementById('main').addEventListener('click',e=>{
 });
 show.addEventListener('click',e=>{ if(e.target===show||e.target.id==='showclose') closeShow(); });
 document.addEventListener('keydown',e=>{ if(e.key==='Escape') closeShow(); });
+
+const romtog=document.getElementById('romtog');
+const romOff=localStorage.getItem('romOff')==='1';
+if(romOff){document.body.classList.add('hide-rom');romtog.setAttribute('aria-pressed','false');}
+romtog.addEventListener('click',()=>{
+  const off=document.body.classList.toggle('hide-rom');
+  romtog.setAttribute('aria-pressed',String(!off));
+  localStorage.setItem('romOff',off?'1':'0');
+});
 
 render('','all');
 </script>
