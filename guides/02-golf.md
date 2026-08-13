@@ -273,6 +273,8 @@
 
 ### 점심에서 던질 질문 (§8 참고)
 
+> 🎬 [골프 스몰토크](https://www.youtube.com/results?search_query=%EA%B3%A8%ED%94%84%20%EC%8A%A4%EB%AA%B0%ED%86%A0%ED%81%AC%20%EB%8C%80%ED%99%94) · [일본어 스몰토크](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%8A%A4%EB%AA%B0%ED%86%A0%ED%81%AC%20%EC%A3%BC%EC%A0%9C)
+
 이 시간에 §8의 질문 카드를 쓰세요. **연락처 교환도 여기서 하는 게 가장 자연스럽습니다.**
 
 ---

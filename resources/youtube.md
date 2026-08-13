@@ -10,6 +10,8 @@
 
 ## ⚠️ 먼저 읽어주세요
 
+> 🎬 [유튜브 공부법](https://www.youtube.com/results?search_query=%EC%9C%A0%ED%8A%9C%EB%B8%8C%EB%A1%9C%20%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94%20%EB%B2%95)
+
 - 아래 **채널 링크는 실제 채널 주소**입니다. 다만 유튜브 채널은 이름·핸들이 바뀔 수 있으니, 열리지 않으면 채널명으로 검색하세요.
 - **개별 영상 링크는 일부러 넣지 않았습니다.** 영상은 비공개 전환·삭제가 잦아 링크가 금방 깨집니다. 대신 **검색어 링크**를 넣었으니 클릭하면 항상 최신 영상 목록이 나옵니다.
 - 채널이 많다고 좋은 게 아닙니다. **§2의 "최소 구성 3채널"만 골라서 4주를 버티세요.** 채널 쇼핑은 공부가 아닙니다.
@@ -48,13 +50,19 @@
 
 ### 원칙 ③: 같은 영상을 반복하세요
 
+> 🎬 [반복 학습](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%B0%98%EB%B3%B5%20%ED%95%99%EC%8A%B5%20%EB%B0%A9%EB%B2%95)
+
 새 영상 10개 < 같은 영상 10번. 입문 단계에서는 **한 영상을 씹어먹는 쪽**이 훨씬 빠릅니다.
 
 ---
 
 ## 2. 채널 카탈로그
 
+> 🎬 [채널 추천](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%9C%A0%ED%8A%9C%EB%B8%8C%20%EC%B1%84%EB%84%90%20%EC%B6%94%EC%B2%9C) · [Best channels](https://www.youtube.com/results?search_query=best%20YouTube%20channels%20learn%20Japanese)
+
 ### 🇰🇷 A. 한국어 설명 — 문자·문법 이해용
+
+> 🎬 [한국어 일본어 강의](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EA%B0%95%EC%9D%98%20%ED%95%9C%EA%B5%AD%EC%96%B4%20%EC%84%A4%EB%AA%85%20%EC%99%95%EC%B4%88%EB%B3%B4)
 
 한국어로 설명해 주는 채널입니다. **1~2주차의 주력**입니다.
 
@@ -71,6 +79,8 @@
 ---
 
 ### 🇯🇵 B. 일본어·영어 설명 — 뉘앙스와 실전 회화
+
+> 🎬 [뉘앙스 설명](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%89%98%EC%95%99%EC%8A%A4%20%EC%84%A4%EB%AA%85%20%EC%B1%84%EB%84%90)
 
 **3주차부터의 주력**입니다. 리액션·존댓말·자연스러운 표현은 이쪽이 훨씬 정확합니다.
 
@@ -91,6 +101,8 @@
 ---
 
 ### 🎤 C. 실전 듣기 — "진짜 일본인은 이렇게 말한다"
+
+> 🎬 [길거리 인터뷰](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EA%B8%B8%EA%B1%B0%EB%A6%AC%20%EC%9D%B8%ED%84%B0%EB%B7%B0%20%EC%9D%BC%EB%B3%B8%EC%96%B4) · [Street interview](https://www.youtube.com/results?search_query=Japan%20street%20interview%20Japanese)
 
 **4주차 및 모임 직전**에 보세요. **아이즈치(맞장구)를 관찰하기에 최적**입니다.
 
@@ -183,21 +195,29 @@
 
 ## 4. 본 가이드 섹션 ↔ 유튜브 매핑
 
+> 🎬 [섹션별 검색](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%83%81%ED%99%A9%EB%B3%84%20%ED%9A%8C%ED%99%94%20%ED%91%9C%ED%98%84)
+
 가이드를 보다가 "이거 실제 발음은 어떻지?" 싶을 때 여기로 오세요.
 
 | 가이드 섹션 | 볼 채널 / 검색어 |
 | --- | --- |
-| [04-kana.md](../guides/04-kana.md) 문자 | 유하다요, 시원스쿨, PuniPuniJapan / [히라가나 강의](https://www.youtube.com/results?search_query=%ED%9E%88%EB%9D%BC%EA%B0%80%EB%82%98%20%EC%93%B0%EA%B8%B0%20%EC%9D%BD%EA%B8%B0%20%EA%B0%95%EC%9D%98) |
-| §4 발음 | [일본어 발음 장음 촉음](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%B0%9C%EC%9D%8C%20%EC%9E%A5%EC%9D%8C%20%EC%B4%89%EC%9D%8C), Onomappu(발음 편) |
-| §5 첫 만남 | [Japanese self introduction beginner](https://www.youtube.com/results?search_query=Japanese%20self%20introduction%20beginner) |
-| §6 자기소개 | [일본어 자기소개](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C) |
-| **§7 아이즈치** ⭐ | [Japanese aizuchi reaction](https://www.youtube.com/results?search_query=Japanese%20aizuchi%20reaction), That Japanese Man Yuta, Miku Real Japanese |
-| §8 질문 카드 | [Japanese small talk beginner](https://www.youtube.com/results?search_query=Japanese%20small%20talk%20beginner%20conversation), JapanesePod101 |
-| §9 위기 탈출 | Japanese with Shun, Comprehensible Japanese |
-| **§10 존댓말/반말** ⭐ | **Kaname Naito**, [일본어 반말 존댓말 차이](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%B0%98%EB%A7%90%20%EC%A1%B4%EB%8C%93%EB%A7%90%20%EC%B0%A8%EC%9D%B4) |
-| §11 연락처 교환 | Miku Real Japanese, JapanesePod101 |
-| §12 식사·술자리 | [일본어 술자리 표현](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%88%A0%EC%9E%90%EB%A6%AC%20%ED%91%9C%ED%98%84) |
-| §13 문화 | **오틈일**, Kaname Naito, Nobita from Japan |
+| [04-kana.md](../guides/04-kana.md) 전체 | 유하다요, 시원스쿨, PuniPuniJapan / [히라가나 강의](https://www.youtube.com/results?search_query=%ED%9E%88%EB%9D%BC%EA%B0%80%EB%82%98%2046%EC%9E%90%20%EC%9D%BD%EA%B8%B0%20%EA%B0%95%EC%9D%98) |
+| [03-conversation.md](../guides/03-conversation.md) §4 발음 | [장음·촉음](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%B0%9C%EC%9D%8C%20%EC%9E%A5%EC%9D%8C%20%EC%B4%89%EC%9D%8C), Onomappu |
+| [03-conversation.md](../guides/03-conversation.md) §5 첫 만남 | [Self-introduction](https://www.youtube.com/results?search_query=Japanese%20self%20introduction%20beginner) |
+| [03-conversation.md](../guides/03-conversation.md) §6 자기소개 | [일본어 자기소개](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C) |
+| **[03-conversation.md](../guides/03-conversation.md) §7 아이즈치** ⭐ | [Aizuchi](https://www.youtube.com/results?search_query=Japanese%20aizuchi%20reaction), That Japanese Man Yuta, Miku Real Japanese |
+| [03-conversation.md](../guides/03-conversation.md) §8 질문 카드 | [Small talk](https://www.youtube.com/results?search_query=Japanese%20small%20talk%20beginner%20conversation), JapanesePod101 |
+| [03-conversation.md](../guides/03-conversation.md) §9 위기 탈출 | Japanese with Shun, Comprehensible Japanese |
+| **[03-conversation.md](../guides/03-conversation.md) §10 존댓말/반말** ⭐ | **Kaname Naito**, [반말·존댓말 차이](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%B0%98%EB%A7%90%20%EC%A1%B4%EB%8C%93%EB%A7%90%20%EC%B0%A8%EC%9D%B4) |
+| [03-conversation.md](../guides/03-conversation.md) §11 연락처 교환 | Miku Real Japanese, JapanesePod101 |
+| [03-conversation.md](../guides/03-conversation.md) §13 문화 | **오틈일**, Kaname Naito, Nobita from Japan |
+| **[03-conversation.md](../guides/03-conversation.md) §14 칭찬·거절 신호** ⭐ | Kaname Naito, [褒め方](https://www.youtube.com/results?search_query=%E6%97%A5%E6%9C%AC%E8%AA%9E%20%E8%A4%92%E3%82%81%E6%96%B9%20%E3%83%95%E3%83%AC%E3%83%BC%E3%82%BA), [완곡한 거절](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%99%84%EA%B3%A1%ED%95%9C%20%EA%B1%B0%EC%A0%88%20%ED%91%9C%ED%98%84) |
+| [01-izakaya.md](../guides/01-izakaya.md) §1 가게 선택 | [다치노미](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EB%8B%A4%EC%B9%98%EB%85%B8%EB%AF%B8%20%EC%84%9C%EC%84%9C%20%EB%A7%88%EC%8B%9C%EB%8A%94%20%EA%B0%80%EA%B2%8C), [혼술 브이로그](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%9D%B4%EC%9E%90%EC%B9%B4%EC%95%BC%20%ED%98%BC%EC%88%A0%20%EB%B8%8C%EC%9D%B4%EB%A1%9C%EA%B7%B8) |
+| [01-izakaya.md](../guides/01-izakaya.md) §5 마스터 공략 | [마스터와 대화](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%9D%B4%EC%9E%90%EC%B9%B4%EC%95%BC%20%EB%A7%88%EC%8A%A4%ED%84%B0%20%EB%8C%80%ED%99%94) |
+| **[01-izakaya.md](../guides/01-izakaya.md) §13 만남** | [아이세키야](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%95%84%EC%9D%B4%EC%84%B8%ED%82%A4%EC%95%BC%20%E7%9B%B8%E5%B8%AD%E5%B1%8B), [한일 술문화 차이](https://www.youtube.com/results?search_query=%ED%95%9C%EA%B5%AD%20%EC%9D%BC%EB%B3%B8%20%EC%88%A0%EB%AC%B8%ED%99%94%20%EC%B0%A8%EC%9D%B4) |
+| [02-golf.md](../guides/02-golf.md) §1 1人予約 | [1인 골프 예약](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%201%EC%9D%B8%20%EA%B3%A8%ED%94%84%20%EC%98%88%EC%95%BD), [楽天GORA](https://www.youtube.com/results?search_query=%E6%A5%BD%E5%A4%A9GORA%201%E4%BA%BA%E4%BA%88%E7%B4%84%20%E4%BD%BF%E3%81%84%E6%96%B9) |
+| [05-travel.md](../guides/05-travel.md) §3 간판 한자 | [간판 한자](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EA%B0%84%ED%8C%90%20%ED%95%9C%EC%9E%90%20%EC%9D%BD%EA%B8%B0%20%EC%97%AC%ED%96%89) |
+| [05-travel.md](../guides/05-travel.md) §4 숫자 | [숫자 세는 법](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%88%AB%EC%9E%90%20%EC%84%B8%EB%8A%94%20%EB%B2%95%20%EA%B0%9C%20%EB%AA%85%20%EC%9E%A5) |
 
 ---
 
@@ -218,6 +238,8 @@
 | **10초 되감기** | `←` 키 / 화면 왼쪽 더블탭 | 섀도잉 필수 |
 
 ### 나만의 재생목록 만들기 (강력 추천)
+
+> 🎬 [재생목록 만들기](https://www.youtube.com/results?search_query=%EC%9C%A0%ED%8A%9C%EB%B8%8C%20%EC%9E%AC%EC%83%9D%EB%AA%A9%EB%A1%9D%20%EB%A7%8C%EB%93%9C%EB%8A%94%20%EB%B2%95)
 
 ```text
 📁 01_히라가나        ← 1주차. 끝나면 안 봄

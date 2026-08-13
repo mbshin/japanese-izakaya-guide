@@ -15,7 +15,7 @@ iOS 앱을 만들 때 쓸 시드 데이터입니다. 마크다운 문서가 원�
 | 필드 | 설명 |
 | --- | --- |
 | `id` | `p001` 형식 |
-| `scene` | `core` `izakaya` `react` `help` `golf` `shop` `move` `safe` `read` |
+| `scene` | `core` `izakaya` `meet` `react` `help` `golf` `shop` `move` `safe` `read` |
 | `section` | 원본 문서의 섹션명 |
 | `mode` | `say` = 소리 내어 말함 / `read` = 눈으로 알아보기만 함 |
 | `ja` | **일본어 원문 — 앱에서 가장 크게 보여줄 값** |
@@ -26,7 +26,8 @@ iOS 앱을 만들 때 쓸 시드 데이터입니다. 마크다운 문서가 원�
 
 ## 현재 범위
 
-`web/index.html` 의 현장 카드에서 추출했습니다. **가이드 문서(`guides/`) 전체 문장은 아직 포함돼 있지 않습니다.**
+`web/index.html` 의 현장 카드에서 추출했습니다. 채널 목록(`video`)은 문장이 아니므로 제외합니다.
+**가이드 문서(`guides/`) 전체 문장은 아직 포함돼 있지 않습니다.**
 앱 작업을 시작하면 가이드 표에서 추가 추출하세요.
 
 ## 재생성

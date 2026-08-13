@@ -890,7 +890,7 @@ sumimasen, gofun hodo okuremasu
 | --- | --- | --- |
 | **そんなことないです** | 손나 코토 나이데스 | 그렇지 않아요 ★기본 |
 | **いえいえ、まだまだです** | 이에이에, 마다마다데스 | 아니에요, 아직 멀었어요 |
-| **ありがとうございます、嬉しいです** | 아리가토- 고자이마스, 우레시-데스 | 감사합니다, 기뻐요 (밝게 받고 싶을 때) |
+| **ありがとうございます、嬉しいです**<br>ありがとうございます、うれしいです | 아리가토- 고자이마스, 우레시-데스 | 감사합니다, 기뻐요 (밝게 받고 싶을 때) |
 
 > 💡 `日本語上手ですね`(일본어 잘하시네요)는 **거의 반드시** 듣습니다. → `そんなことないです` 로 받으세요.
 
@@ -942,7 +942,7 @@ sumimasen, gofun hodo okuremasu
 
 | 일본어 | 한글 읽기 | 뜻 |
 | --- | --- | --- |
-| **あ、大丈夫です！** | 아, 다이죠-부데스 | 아, 괜찮아요! |
+| **あ、大丈夫です！**<br>あ、だいじょうぶです！ | 아, 다이죠-부데스 | 아, 괜찮아요! |
 | **無理しないでくださいね**<br>むりしないでくださいね | 무리시나이데 쿠다사이네 | 무리하지 마세요 |
 | **楽しかったです、ありがとうございました**<br>たのしかったです、ありがとうございました | 타노시캇타데스, 아리가토- 고자이마시타 | 즐거웠어요, 감사했습니다 |
 
@@ -979,11 +979,15 @@ sumimasen, gofun hodo okuremasu
 
 ### 문자·기초
 
+> 🎬 [Anki 사용법](https://www.youtube.com/results?search_query=Anki%20%ED%9E%88%EB%9D%BC%EA%B0%80%EB%82%98%20%EB%8D%B1%20%EC%82%AC%EC%9A%A9%EB%B2%95) · [NHK 일본어](https://www.youtube.com/results?search_query=NHK%20Easy%20Japanese%20%EA%B0%95%EC%A2%8C)
+
 - **Anki** — 히라가나/가타카나 덱. 하루 10분
 - **NHK World Easy Japanese** — 무료 입문 강좌 (한국어 지원)
 - **Duolingo / Renshuu** — 게임식 반복
 
 ### 사전·번역
+
+> 🎬 [구글 렌즈](https://www.youtube.com/results?search_query=%EA%B5%AC%EA%B8%80%20%EB%A0%8C%EC%A6%88%20%EB%B2%88%EC%97%AD%20%EC%82%AC%EC%9A%A9%EB%B2%95) · [파파고 일본어](https://www.youtube.com/results?search_query=%ED%8C%8C%ED%8C%8C%EA%B3%A0%20%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%B2%88%EC%97%AD%20%EC%82%AC%EC%9A%A9%EB%B2%95)
 
 - **Jisho.org** — 일영 사전, 한자 필기 검색 지원
 - **Papago** — 한일 번역 정확도 우수
