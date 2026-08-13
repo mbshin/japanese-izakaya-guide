@@ -576,6 +576,7 @@ sumimasen, ~wa doko desu ka?
 저기요, ○○는 어디예요?
 
 この住所に行きたいんですが
+このじゅうしょにいきたいんですが
 kono juusho ni ikitai n desu ga
 이 주소로 가고 싶은데요  ← 폰 화면 보여주며 ⭐
 ```

@@ -226,6 +226,7 @@ nante yobeba ii desu ka?
 
 ```text
 日本語、まだ下手なんですけど…
+にほんご、まだへたなんですけど…
 nihongo, mada heta nan desu kedo...
 (니홍고 마다 헤타난데스케도)
 일본어가 아직 서툴러서요…
@@ -551,6 +552,7 @@ LINE 하세요?
 ↓ 예스면
 
 LINE交換してもいいですか？
+LINEこうかんしてもいいですか？
 rain koukan shitemo ii desu ka?
 (라인 코-칸 시테모 이-데스카)
 LINE 교환해도 될까요?

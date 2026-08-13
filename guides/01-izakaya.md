@@ -92,11 +92,13 @@
 
 ```text
 一人ですけど、いいですか？
+ひとりですけど、いいですか？
 hitori desu kedo, ii desu ka?
 (히토리데스케도 이-데스카)
 혼자인데 괜찮을까요?
 
 カウンター、空いてますか？
+カウンター、あいてますか？
 kauntaa, aitemasu ka?
 카운터 자리 있나요?
 ```
@@ -124,6 +126,7 @@ kauntaa, aitemasu ka?
 
 ```text
 とりあえず、生で
+とりあえず、なまで
 toriaezu, nama de
 (토리아에즈 나마데)
 일단 생맥주로
@@ -174,6 +177,7 @@ toriaezu, nama de
 
 ```text
 おすすめは何ですか？
+おすすめはなんですか？
 osusume wa nan desu ka?
 추천이 뭐예요?
 
@@ -205,6 +209,7 @@ kyou no osusume arimasu ka?
 
 ```text
 それ、おいしそうですね。何ですか？
+それ、おいしそうですね。なんですか？
 sore, oishisou desu ne. nan desu ka?
 (소레 오이시소-데스네. 난데스카)
 그거 맛있어 보이네요. 뭐예요?
@@ -217,6 +222,7 @@ sore, oishisou desu ne. nan desu ka?
 
 ```text
 乾杯！
+かんぱい！
 kanpai!
 ```
 
@@ -264,6 +270,7 @@ sumimasen, kore nan desu ka?
 
 ```text
 日本語、まだ下手なんですけど…
+にほんご、まだへたなんですけど…
 nihongo, mada heta nan desu kedo...
 일본어가 아직 서툰데요…
 
@@ -317,10 +324,12 @@ nihongo, benkyouchuu nan desu
 
 ```text
 このお店、長いんですか？
+このおみせ、ながいんですか？
 kono omise, nagai n desu ka?
 이 가게 오래되셨어요?
 
 看板メニューは何ですか？
+かんばんメニューはなんですか？
 kanban menyuu wa nan desu ka?
 간판 메뉴가 뭐예요?
 ```
@@ -388,10 +397,12 @@ kono omise no jouren-san, ooi n desu ka?
 
 ```text
 明日、どこ行けばいいですか？
+あした、どこいけばいいですか？
 ashita, doko ikeba ii desu ka?
 내일 어디 가면 좋을까요?
 
 この辺でおすすめのお店、ありますか？
+このへんでおすすめのおみせ、ありますか？
 kono hen de osusume no omise, arimasu ka?
 이 근처 추천 가게 있어요?
 ```
@@ -409,6 +420,7 @@ kono hen de osusume no omise, arimasu ka?
 
 ```text
 韓国から来ました
+かんこくからきました
 kankoku kara kimashita
 한국에서 왔어요
 ```
@@ -475,10 +487,12 @@ kankoku kara kimashita
 
 ```text
 すみません、聞こえなかったです
+すみません、きこえなかったです
 sumimasen, kikoenakatta desu
 죄송해요, 안 들렸어요   ← 시끄러운 곳에서 자연스러운 핑계 ⭐
 
 もう一回お願いします
+もういっかいおねがいします
 한 번만 더요
 ```
 
@@ -510,6 +524,7 @@ rain yattemasu ka?
 LINE 하세요?
 
 LINE交換してもいいですか？
+LINEこうかんしてもいいですか？
 rain koukan shitemo ii desu ka?
 LINE 교환해도 될까요?
 
@@ -538,6 +553,7 @@ insuta yattemasu ka?
 
 ```text
 一緒に写真、いいですか？
+いっしょにしゃしん、いいですか？
 issho ni shashin, ii desu ka?
 같이 사진 찍어도 될까요?
 ```
@@ -565,10 +581,12 @@ issho ni shashin, ii desu ka?
 
 ```text
 お会計お願いします
+おかいけいおねがいします
 okaikei onegaishimasu
 계산해 주세요
 
 カード使えますか？
+カードつかえますか？
 kaado tsukaemasu ka?
 카드 되나요?
 ```
@@ -637,10 +655,12 @@ arigatou gozaimasu! gochisousama desu
 
 ```text
 お通しはいくらですか？
+おとおしはいくらですか？
 otooshi wa ikura desu ka?
 오토시 얼마예요?
 
 席料はありますか？
+せきりょうはありますか？
 sekiryou wa arimasu ka?
 자릿세 있나요?
 
