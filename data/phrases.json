@@ -10,7 +10,7 @@
     "priority": "0~3, 높을수록 자주 씀",
     "mode": "say = 내가 소리 내어 말함 / read = 눈으로 알아보기만 함 (간판·메뉴)"
   },
-  "count": 97,
+  "count": 112,
   "phrases": [
     {
       "id": "p001",
@@ -1048,6 +1048,171 @@
     },
     {
       "id": "p095",
+      "scene": "video",
+      "scene_label": "영상",
+      "section": "한국어 설명 채널",
+      "mode": "say",
+      "ko_reading": "유하다요",
+      "ja": "왕초보 커리큘럼이 잘 짜여 있음",
+      "ko_meaning": "https://www.youtube.com/channel/UCmKVnKCKWy4d1EpOVml2doA",
+      "priority": 3
+    },
+    {
+      "id": "p096",
+      "scene": "video",
+      "scene_label": "영상",
+      "section": "한국어 설명 채널",
+      "mode": "say",
+      "ko_reading": "시원스쿨 일본어",
+      "ja": "무료 강의 분량이 많음",
+      "ko_meaning": "https://www.youtube.com/@siwonjapan",
+      "priority": 2
+    },
+    {
+      "id": "p097",
+      "scene": "video",
+      "scene_label": "영상",
+      "section": "한국어 설명 채널",
+      "mode": "say",
+      "ko_reading": "해커스일본어",
+      "ja": "JLPT~회화 폭넓게",
+      "ko_meaning": "https://www.youtube.com/@%ED%95%B4%EC%BB%A4%EC%8A%A4%EC%9D%BC%EB%B3%B8%EC%96%B4",
+      "priority": 1
+    },
+    {
+      "id": "p098",
+      "scene": "video",
+      "scene_label": "영상",
+      "section": "한국어 설명 채널",
+      "mode": "say",
+      "ko_reading": "다락원 일본어",
+      "ja": "교재 출판사 공식",
+      "ko_meaning": "https://www.youtube.com/channel/UCumUP1MXkHUmCXNq1HQkHpA",
+      "priority": 1
+    },
+    {
+      "id": "p099",
+      "scene": "video",
+      "scene_label": "영상",
+      "section": "한국어 설명 채널",
+      "mode": "say",
+      "ko_reading": "오오기와 틈틈이 일본어",
+      "ja": "일본인이 한국어로 진행 · 한일 문화 차이",
+      "ko_meaning": "https://www.youtube.com/channel/UCPtN_D043WoQ2uTWsK6ftIg",
+      "priority": 2
+    },
+    {
+      "id": "p100",
+      "scene": "video",
+      "scene_label": "영상",
+      "section": "뉘앙스·실전 회화",
+      "mode": "say",
+      "ko_reading": "Kaname Naito",
+      "ja": "뉘앙스 설명 최강 · 존댓말/실례되는 표현",
+      "ko_meaning": "https://www.youtube.com/@kanamenaito",
+      "priority": 3
+    },
+    {
+      "id": "p101",
+      "scene": "video",
+      "scene_label": "영상",
+      "section": "뉘앙스·실전 회화",
+      "mode": "say",
+      "ko_reading": "Comprehensible Japanese",
+      "ja": "일본어만으로 이해시킴 · 귀 만들기",
+      "ko_meaning": "https://www.youtube.com/c/ComprehensibleJapanese",
+      "priority": 3
+    },
+    {
+      "id": "p102",
+      "scene": "video",
+      "scene_label": "영상",
+      "section": "뉘앙스·실전 회화",
+      "mode": "say",
+      "ko_reading": "Japanese with Shun",
+      "ja": "천천히·쉬운 단어 · 섀도잉 소재",
+      "ko_meaning": "https://www.youtube.com/@JapanesewithShun",
+      "priority": 2
+    },
+    {
+      "id": "p103",
+      "scene": "video",
+      "scene_label": "영상",
+      "section": "뉘앙스·실전 회화",
+      "mode": "say",
+      "ko_reading": "Onomappu",
+      "ja": "캐주얼 표현·의성어·슬랭",
+      "ko_meaning": "https://www.youtube.com/channel/UCLuymDHiOySsAQ9Nc-4NoEQ",
+      "priority": 2
+    },
+    {
+      "id": "p104",
+      "scene": "video",
+      "scene_label": "영상",
+      "section": "뉘앙스·실전 회화",
+      "mode": "say",
+      "ko_reading": "Miku Real Japanese",
+      "ja": "실제 회화 속도 · 길거리 인터뷰",
+      "ko_meaning": "https://www.youtube.com/channel/UCsQCbl3a9FtYvA55BxdzYiQ",
+      "priority": 2
+    },
+    {
+      "id": "p105",
+      "scene": "video",
+      "scene_label": "영상",
+      "section": "뉘앙스·실전 회화",
+      "mode": "say",
+      "ko_reading": "Japanese Ammo with Misa",
+      "ja": "문법을 깊게 (영어 설명)",
+      "ko_meaning": "https://www.youtube.com/channel/UCBSyd8tXJoEJKIXfrwkPdbA",
+      "priority": 1
+    },
+    {
+      "id": "p106",
+      "scene": "video",
+      "scene_label": "영상",
+      "section": "뉘앙스·실전 회화",
+      "mode": "say",
+      "ko_reading": "日本語の森",
+      "ja": "일본어로 배우는 문법 · 방대함",
+      "ko_meaning": "https://www.youtube.com/channel/UCVx6RFaEAg46xfAsD2zz16w",
+      "priority": 1
+    },
+    {
+      "id": "p107",
+      "scene": "video",
+      "scene_label": "영상",
+      "section": "실전 듣기 — 아이즈치 관찰용",
+      "mode": "say",
+      "ko_reading": "That Japanese Man Yuta",
+      "ja": "도쿄 길거리 인터뷰 · 초면 대화의 리듬",
+      "ko_meaning": "https://www.youtube.com/user/YPlusShow",
+      "priority": 3
+    },
+    {
+      "id": "p108",
+      "scene": "video",
+      "scene_label": "영상",
+      "section": "실전 듣기 — 아이즈치 관찰용",
+      "mode": "say",
+      "ko_reading": "Ask Japanese",
+      "ja": "다국어 자막 인터뷰",
+      "ko_meaning": "https://www.youtube.com/channel/UCOMZWkPo7ao6yGaXc954U0w",
+      "priority": 2
+    },
+    {
+      "id": "p109",
+      "scene": "video",
+      "scene_label": "영상",
+      "section": "실전 듣기 — 아이즈치 관찰용",
+      "mode": "say",
+      "ko_reading": "Nobita from Japan",
+      "ja": "문화 차이 대담",
+      "ko_meaning": "https://www.youtube.com/channel/UCcIsxujzLRO5qY5f9buahCQ",
+      "priority": 1
+    },
+    {
+      "id": "p110",
       "scene": "safe",
       "scene_label": "안전",
       "section": "안전 — 가게 들어가기 전",
@@ -1058,7 +1223,7 @@
       "priority": 3
     },
     {
-      "id": "p096",
+      "id": "p111",
       "scene": "safe",
       "scene_label": "안전",
       "section": "안전 — 가게 들어가기 전",
@@ -1069,7 +1234,7 @@
       "priority": 3
     },
     {
-      "id": "p097",
+      "id": "p112",
       "scene": "safe",
       "scene_label": "안전",
       "section": "안전 — 가게 들어가기 전",

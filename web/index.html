@@ -18,6 +18,7 @@
   --danger-soft:#F8DED9;
   --shadow:0 1px 2px rgba(60,40,20,.10),0 8px 24px -12px rgba(60,40,20,.22);
   --overlay-scrim:rgba(28,20,14,.62);
+  --yt:#C4302B;
 }
 @media (prefers-color-scheme: dark){
   :root:not([data-theme="light"]){
@@ -37,6 +38,7 @@
     --danger-soft:#3A1C18;
     --shadow:0 1px 2px rgba(0,0,0,.5),0 10px 28px -14px rgba(0,0,0,.8);
     --overlay-scrim:rgba(8,6,5,.78);
+    --yt:#E85D57;
   }
 }
 :root[data-theme="dark"]{
@@ -56,6 +58,7 @@
   --danger-soft:#3A1C18;
   --shadow:0 1px 2px rgba(0,0,0,.5),0 10px 28px -14px rgba(0,0,0,.8);
   --overlay-scrim:rgba(8,6,5,.78);
+  --yt:#E85D57;
 }
 
 /* ============ base ============ */
@@ -167,6 +170,35 @@ main{max-width:720px;margin:0 auto;padding:16px 14px 96px;display:flex;flex-dire
 }
 .note.warn{border-left-color:var(--danger);background:var(--danger-soft)}
 .note b{font-weight:800}
+
+
+/* ============ youtube ============ */
+.ytrow{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none;margin:0 -14px 2px;padding:0 14px 2px}
+.ytrow::-webkit-scrollbar{display:none}
+.yt{
+  flex:none;display:inline-flex;align-items:center;gap:6px;
+  background:var(--surface);border:1px solid var(--line);border-radius:999px;
+  padding:6px 11px 6px 8px;font-size:12.5px;font-weight:650;color:var(--ink-2);
+  text-decoration:none;white-space:nowrap;
+}
+.yt:active{border-color:var(--yt)}
+.yt .play{
+  flex:none;width:17px;height:12px;border-radius:3px;background:var(--yt);
+  display:grid;place-items:center;
+}
+.yt .play::after{content:"";border-left:5px solid #fff;border-top:3.5px solid transparent;border-bottom:3.5px solid transparent;margin-left:1px}
+.chan{display:flex;flex-direction:column;gap:7px}
+.chanrow{
+  display:flex;align-items:center;gap:11px;text-decoration:none;color:inherit;
+  background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:11px 12px;
+}
+.chanrow:active{border-color:var(--yt)}
+.chanrow .play{flex:none;width:26px;height:19px;border-radius:5px;background:var(--yt);display:grid;place-items:center}
+.chanrow .play::after{content:"";border-left:8px solid #fff;border-top:5.5px solid transparent;border-bottom:5.5px solid transparent;margin-left:2px}
+.chanrow>span:nth-child(2){display:flex;flex-direction:column;min-width:0}
+.chanrow .cn{font-size:14.5px;font-weight:750;letter-spacing:-.01em}
+.chanrow .cd{font-size:12.5px;color:var(--ink-2);margin-top:1px}
+.chanrow .cstar{margin-left:auto;flex:none;font-size:11px;color:var(--accent);letter-spacing:-.08em}
 
 /* ============ read: kana ============ */
 .scroller{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:0 -14px;padding:0 14px}
@@ -295,7 +327,8 @@ footer a{color:var(--accent)}
 <script>
 /* p: [읽기, 일본어, 뜻, 별점(0-3)] · h: 듣는 말 [읽기, 일본어, 뜻, 대답] */
 const DATA = [
-{k:'core', tab:'만능', title:'만능 7문장', note:'이것만 알면 절반은 됩니다',
+{k:'core', tab:'만능', title:'만능 7문장',
+ yt:[['여행 필수 표현','일본 여행 회화 필수 표현'],['스미마셍 쓰임','일본어 스미마셍 사용법']], note:'이것만 알면 절반은 됩니다',
  items:[
   ['스미마셍','すみません','저기요 · 죄송 · 감사',3],
   ['코레, 오네가이시마스','これ、お願いします','이거 주세요 (가리키며)',2],
@@ -307,7 +340,8 @@ const DATA = [
  ],
  tips:[['note','<b>다이죠-부데스</b>는 <b>거절</b>로 해석됩니다. 필요하면 <b>오네가이시마스</b>.']]},
 
-{k:'izakaya', tab:'이자카야', title:'이자카야 — 입장·주문', note:'혼자, 카운터석',
+{k:'izakaya', tab:'이자카야', title:'이자카야 — 입장·주문',
+ yt:[['이자카야 주문','이자카야 주문 일본어'],['혼술 브이로그','일본 이자카야 혼술 브이로그'],['다치노미란?','일본 다치노미 서서 마시는 가게']], note:'혼자, 카운터석',
  items:[
   ['히토리데스케도, 이-데스카?','一人ですけど、いいですか？','혼자인데 괜찮을까요?',2],
   ['카운타-, 아이테마스카?','カウンター、空いてますか？','카운터 자리 있나요?',2],
@@ -316,7 +350,8 @@ const DATA = [
   ['모- 입파이 오네가이시마스','もう一杯お願いします','한 잔 더 주세요',1],
  ]},
 
-{k:'izakaya', title:'말 거는 첫 마디', note:'사람 말고 사물에 대해 말할 것',
+{k:'izakaya', title:'말 거는 첫 마디',
+ yt:[['말 거는 법','일본인에게 말 거는 법'],['현지인과 대화','일본 이자카야에서 현지인과 대화']], note:'사람 말고 사물에 대해 말할 것',
  items:[
   ['소레, 오이시소-데스네. 난데스카?','それ、おいしそうですね。何ですか？','그거 맛있어 보이네요. 뭐예요?',3],
   ['와타시모 소레 쿠다사이!','私もそれください！','저도 그거 주세요!',2],
@@ -327,7 +362,8 @@ const DATA = [
  ],
  tips:[['note','<b>「소레, 오이시소-데스네」는 실패율이 거의 0입니다.</b> 일본인은 자기가 먹는 걸 설명하기 좋아합니다.']]},
 
-{k:'izakaya', title:'마스터 공략', note:'거절당할 위험이 없는 유일한 상대',
+{k:'izakaya', title:'마스터 공략',
+ yt:[['마스터와 대화','일본 이자카야 마스터 대화'],['단골 만들기','일본 단골 가게 만들기']], note:'거절당할 위험이 없는 유일한 상대',
  items:[
   ['코노 오미세, 나가인데스카?','このお店、長いんですか？','이 가게 오래되셨어요?',2],
   ['캄반 메뉴-와 난데스카?','看板メニューは何ですか？','간판 메뉴가 뭐예요?',1],
@@ -337,6 +373,7 @@ const DATA = [
  tips:[['note','<b>「죠-렌상, 오-인데스카?」</b> 는 마스터가 옆 손님을 소개해 주게 만드는 질문입니다.']]},
 
 {k:'izakaya', title:'나를 소개 · 마무리',
+ yt:[['일본어 자기소개','일본어 자기소개'],['LINE 교환','일본 라인 교환 일본어']],
  items:[
   ['캉코쿠카라 키마시타','韓国から来ました','한국에서 왔어요',2],
   ['히토리타비데스','一人旅です','혼자 여행 중이에요',1],
@@ -350,7 +387,8 @@ const DATA = [
   ['마타 키마스!','また来ます！','또 올게요!',2],
  ]},
 
-{k:'react', tab:'리액션', title:'리액션 — 2~3초마다', note:'대화의 50%',
+{k:'react', tab:'리액션', title:'리액션 — 2~3초마다',
+ yt:[['맞장구 표현','일본어 맞장구 리액션'],['あいづち 練習','日本語 あいづち 練習'],['Aizuchi (EN)','Japanese aizuchi reaction']], note:'대화의 50%',
  items:[
   ['웅 / 하이','うん / はい','응 / 네',2],
   ['소-난데스네','そうなんですね','그렇군요 (만능)',3],
@@ -364,7 +402,8 @@ const DATA = [
  ],
  tips:[['note','아무 반응 없이 들으면 <b>"관심 없나?"</b>로 받아들여집니다. 한국어보다 훨씬 자주 넣으세요.']]},
 
-{k:'help', tab:'위기', title:'못 알아들었을 때', note:'웃으며 넘기는 게 최악',
+{k:'help', tab:'위기', title:'못 알아들었을 때',
+ yt:[['못 알아들었을 때','일본어 못 알아들었을 때 표현'],['다시 말해주세요','일본어 다시 말해주세요']], note:'웃으며 넘기는 게 최악',
  items:[
   ['스미마셍, 키코에나캇타데스','すみません、聞こえなかったです','안 들렸어요 (시끄러운 곳 만능)',3],
   ['모- 익카이 오네가이시마스','もう一回お願いします','한 번만 더요',2],
@@ -377,7 +416,8 @@ const DATA = [
  ],
  tips:[['note','<b>「키코에나캇타데스」(안 들렸어요)</b> 는 실력 탓이 아니라 <b>소음 탓</b>으로 돌릴 수 있어 부담 없이 반복해도 됩니다.']]},
 
-{k:'golf', tab:'골프', title:'골프 — 하루 종일 쓰는 5개', note:'1人予約 = 모르는 3명과 한 조',
+{k:'golf', tab:'골프', title:'골프 — 하루 종일 쓰는 5개',
+ yt:[['골프 일본어 용어','골프 일본어 용어'],['일본 골프 문화','일본 골프 문화 차이'],['골프 여행 브이로그','일본 골프 여행 브이로그']], note:'1人予約 = 모르는 3명과 한 조',
  items:[
   ['나이스 숏토!','ナイスショット！','나이스 샷! (하루 50번)',3],
   ['돈마이!','ドンマイ！','괜찮아요! (미스했을 때)',3],
@@ -388,6 +428,7 @@ const DATA = [
  tips:[['note','<b>「나이스 숏토」와 「돈마이」 두 개면 5시간이 갑니다.</b> 제때 크게 외치면 조원들이 좋아합니다.']]},
 
 {k:'golf', title:'골프 — 진행·대화',
+ yt:[['1인 골프 예약','일본 1인 골프 예약'],['楽天GORA 使い方','楽天GORA 1人予約 使い方'],['복장 규정','일본 골프장 복장 규정']],
  items:[
   ['요로시쿠 오네가이시마스','よろしくお願いします','잘 부탁드립니다 (첫 티에서 필수)',3],
   ['오사키니 도-조','お先にどうぞ','먼저 치세요',2],
@@ -400,7 +441,8 @@ const DATA = [
  ],
  tips:[['warn','<b>재킷을 챙기세요.</b> 클럽하우스 입·퇴장 시 필요합니다. 청바지·샌들은 금지입니다.']]},
 
-{k:'shop', tab:'식당·편의점', title:'식당', note:'팁 없음 · 계산은 카운터에서',
+{k:'shop', tab:'식당·편의점', title:'식당',
+ yt:[['식당 주문','일본 식당 주문 일본어'],['식권 자판기','일본 식권 자판기 사용법']], note:'팁 없음 · 계산은 카운터에서',
  items:[
   ['후타리데스','ふたりです','두 명이요',2],
   ['이죠-데스','以上です','주문 끝이에요',2],
@@ -409,14 +451,16 @@ const DATA = [
  ],
  counts:true},
 
-{k:'shop', title:'편의점 — 점원이 묻는 말', note:'듣기만 하면 됩니다',
+{k:'shop', title:'편의점 — 점원이 묻는 말',
+ yt:[['편의점 계산','일본 편의점 계산 일본어'],['편의점 추천','일본 편의점 추천']], note:'듣기만 하면 됩니다',
  heard:[
   ['후쿠로와 고리요-데스카?','袋はご利用ですか？','봉투 필요하세요?','다이죠-부데스 (아뇨) / 오네가이시마스 (네)'],
   ['아타타메마스카?','温めますか？','데워드릴까요?','다이죠-부데스 / 오네가이시마스'],
   ['포인토 카-도와?','ポイントカードは？','포인트카드 있으세요?','다이죠-부데스'],
  ]},
 
-{k:'move', tab:'교통', title:'교통', note:'막차는 대체로 자정 전후',
+{k:'move', tab:'교통', title:'교통',
+ yt:[['전철 타는 법','일본 전철 타는 법 IC카드'],['모바일 스이카','모바일 스이카 발급 방법'],['택시 이용','일본 택시 이용 일본어']], note:'막차는 대체로 자정 전후',
  items:[
   ['난반센데스카?','何番線ですか？','몇 번 승강장이에요?',2],
   ['노리카에와 히츠요-데스카?','乗り換えは必要ですか？','환승해야 하나요?',1],
@@ -427,9 +471,12 @@ const DATA = [
  ],
  tips:[['note','주소는 <b>폰 화면을 보여주는 게</b> 가장 확실합니다. 택시 뒷문은 <b>자동으로 열립니다.</b>']]},
 
-{k:'read', tab:'읽기', title:'가나 46자', note:'같은 소리, 두 모양', kana:'base'},
-{k:'read', title:'탁음 · 반탁음', kana:'daku'},
-{k:'read', title:'간판 한자', note:'말할 일 없음 · 모양만',
+{k:'read', tab:'읽기', title:'가나 46자',
+ yt:[['히라가나 46자','히라가나 46자 읽기 강의'],['가타카나 46자','가타카나 46자 강의'],['히라가나 노래','히라가나 노래 외우기'],['Hiragana 1시간','Learn Hiragana in 1 hour']], note:'같은 소리, 두 모양', kana:'base'},
+{k:'read', title:'탁음 · 반탁음',
+ yt:[['탁음·반탁음','일본어 탁음 반탁음 설명'],['シ/ツ 구분','가타카나 헷갈리는 글자 シ ツ ソ ン']], kana:'daku'},
+{k:'read', title:'간판 한자',
+ yt:[['간판 한자 읽기','일본 간판 한자 읽기 여행'],['역 표지판','일본 역 표지판 보는 법']], note:'말할 일 없음 · 모양만',
  chips:[
   ['出口','데구치','출구',0],['入口','이리구치','입구',0],
   ['改札','카이사츠','개찰구',0],['乗換','노리카에','환승',0],
@@ -443,9 +490,38 @@ const DATA = [
   ['大盛 / 並盛','오-모리 / 나미모리','곱빼기 / 보통',0],['お手洗い','오테아라이','화장실',0],
   ['押 / 引','오스 / 히쿠','미시오 / 당기시오',0],['男 / 女','오토코 / 온나','남 / 여',0],
  ]},
-{k:'read', title:'숫자 · 금액', note:'못 들으면 「카이테 모라에마스카?」', nums:true},
+{k:'read', title:'숫자 · 금액',
+ yt:[['숫자 세는 법','일본어 숫자 세는 법 개 명 장'],['금액 듣기','일본어 금액 듣기 엔']], note:'못 들으면 「카이테 모라에마스카?」', nums:true},
 
-{k:'safe', tab:'안전', title:'안전 — 가게 들어가기 전', note:'얼버무리면 그냥 나오세요',
+{k:'video', tab:'영상', title:'한국어 설명 채널', note:'1~2주차 주력',
+ chans:[
+  ['유하다요','왕초보 커리큘럼이 잘 짜여 있음','https://www.youtube.com/channel/UCmKVnKCKWy4d1EpOVml2doA',3],
+  ['시원스쿨 일본어','무료 강의 분량이 많음','https://www.youtube.com/@siwonjapan',2],
+  ['해커스일본어','JLPT~회화 폭넓게','https://www.youtube.com/@%ED%95%B4%EC%BB%A4%EC%8A%A4%EC%9D%BC%EB%B3%B8%EC%96%B4',1],
+  ['다락원 일본어','교재 출판사 공식','https://www.youtube.com/channel/UCumUP1MXkHUmCXNq1HQkHpA',1],
+  ['오오기와 틈틈이 일본어','일본인이 한국어로 진행 · 한일 문화 차이','https://www.youtube.com/channel/UCPtN_D043WoQ2uTWsK6ftIg',2],
+ ]},
+{k:'video', title:'뉘앙스·실전 회화', note:'3주차부터',
+ chans:[
+  ['Kaname Naito','뉘앙스 설명 최강 · 존댓말/실례되는 표현','https://www.youtube.com/@kanamenaito',3],
+  ['Comprehensible Japanese','일본어만으로 이해시킴 · 귀 만들기','https://www.youtube.com/c/ComprehensibleJapanese',3],
+  ['Japanese with Shun','천천히·쉬운 단어 · 섀도잉 소재','https://www.youtube.com/@JapanesewithShun',2],
+  ['Onomappu','캐주얼 표현·의성어·슬랭','https://www.youtube.com/channel/UCLuymDHiOySsAQ9Nc-4NoEQ',2],
+  ['Miku Real Japanese','실제 회화 속도 · 길거리 인터뷰','https://www.youtube.com/channel/UCsQCbl3a9FtYvA55BxdzYiQ',2],
+  ['Japanese Ammo with Misa','문법을 깊게 (영어 설명)','https://www.youtube.com/channel/UCBSyd8tXJoEJKIXfrwkPdbA',1],
+  ['日本語の森','일본어로 배우는 문법 · 방대함','https://www.youtube.com/channel/UCVx6RFaEAg46xfAsD2zz16w',1],
+ ]},
+{k:'video', title:'실전 듣기 — 아이즈치 관찰용', note:'맞장구를 몇 번 넣는지 세어보세요',
+ chans:[
+  ['That Japanese Man Yuta','도쿄 길거리 인터뷰 · 초면 대화의 리듬','https://www.youtube.com/user/YPlusShow',3],
+  ['Ask Japanese','다국어 자막 인터뷰','https://www.youtube.com/channel/UCOMZWkPo7ao6yGaXc954U0w',2],
+  ['Nobita from Japan','문화 차이 대담','https://www.youtube.com/channel/UCcIsxujzLRO5qY5f9buahCQ',1],
+ ],
+ tips:[['note','<b>채널은 3개만 고르세요.</b> 한국어 1 · 인풋 1 · 실전 1. 채널 쇼핑은 공부가 아닙니다.'],
+       ['note','<b>아이즈치 더빙 훈련</b> — 일본인 둘이 대화하는 영상을 켜고, <b>듣는 사람 역할</b>을 맡아 말이 끊길 때마다 「소-난데스네」「헤-」를 내 입으로 넣으세요. 하루 5분, 2주면 반사적으로 나옵니다.']]},
+
+{k:'safe', tab:'안전', title:'안전 — 가게 들어가기 전',
+ yt:[['호객꾼·바가지 주의','가부키초 호객꾼 바가지 주의'],['사기 사례','일본 여행 사기 주의 신주쿠']], note:'얼버무리면 그냥 나오세요',
  items:[
   ['오토-시와 이쿠라데스카?','お通しはいくらですか？','오토시(기본안주) 얼마예요?',3],
   ['세키료-와 아리마스카?','席料はありますか？','자릿세 있나요?',3],
@@ -505,6 +581,18 @@ function kanaTable(rows){
   return h+'</table></div>';
 }
 
+function ytRow(list){
+  return '<div class="ytrow">'+list.map(y=>
+    '<a class="yt" target="_blank" rel="noopener" href="https://www.youtube.com/results?search_query='
+    +encodeURIComponent(y[1])+'"><span class="play"></span>'+esc(y[0])+'</a>').join('')+'</div>';
+}
+function chanList(list){
+  return '<div class="chan">'+list.map(c=>
+    '<a class="chanrow" target="_blank" rel="noopener" href="'+esc(c[2])+'">'
+    +'<span class="play"></span><span><span class="cn">'+esc(c[0])+'</span>'
+    +'<span class="cd">'+esc(c[1])+'</span></span>'
+    +(c[3]?'<span class="cstar">'+stars(c[3])+'</span>':'')+'</a>').join('')+'</div>';
+}
 function render(filter,tab){
   const f=(filter||'').trim().toLowerCase();
   const main=document.getElementById('main');
@@ -513,6 +601,11 @@ function render(filter,tab){
   DATA.forEach(g=>{
     if(tab!=='all' && g.k!==tab) return;
     let body='';
+    if(g.yt && !f) body+=ytRow(g.yt);
+    if(g.chans){
+      const rows=g.chans.filter(c=>!f||(c[0]+c[1]).toLowerCase().includes(f));
+      if(rows.length) body+=chanList(rows);
+    }
 
     if(g.items){
       const rows=g.items.filter(p=>!f||(p[0]+p[1]+p[2]).toLowerCase().includes(f));
