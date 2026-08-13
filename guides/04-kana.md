@@ -15,6 +15,8 @@
 
 ### ① 일본어에는 문자가 3종류 있습니다
 
+> 🎬 [문자 3종류](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%AC%B8%EC%9E%90%20%EC%A2%85%EB%A5%98%20%ED%9E%88%EB%9D%BC%EA%B0%80%EB%82%98%20%EA%B0%80%ED%83%80%EC%B9%B4%EB%82%98%20%ED%95%9C%EC%9E%90)
+
 | 문자 | 예 | 쓰임 |
 |---|---|---|
 | **히라가나** ひらがな | あ い う | 문법 요소, 일본 고유어. **가장 먼저** |
@@ -26,6 +28,8 @@
 
 ### ② 히라가나와 가타카나는 **같은 소리**입니다
 
+> 🎬 [가나 차이](https://www.youtube.com/results?search_query=%ED%9E%88%EB%9D%BC%EA%B0%80%EB%82%98%20%EA%B0%80%ED%83%80%EC%B9%B4%EB%82%98%20%EC%B0%A8%EC%9D%B4)
+
 ```text
 あ = ア = a
 か = カ = ka
@@ -35,6 +39,8 @@
 소리를 먼저 익히면 가타카나는 훨씬 빨리 끝납니다.
 
 ### ③ 일본어 소리는 "자음 + 모음" 한 덩어리
+
+> 🎬 [박자 모라](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%B0%95%EC%9E%90%20%EB%AA%A8%EB%9D%BC%20%EB%B0%9C%EC%9D%8C)
 
 한글의 받침 개념이 없습니다. **한 글자 = 한 박자**입니다.
 
@@ -50,6 +56,8 @@
 > 🎬 **영상으로 보기**: [히라가나 46자 강의](https://www.youtube.com/results?search_query=%ED%9E%88%EB%9D%BC%EA%B0%80%EB%82%98%2046%EC%9E%90%20%EC%9D%BD%EA%B8%B0%20%EA%B0%95%EC%9D%98) · [히라가나 노래](https://www.youtube.com/results?search_query=%ED%9E%88%EB%9D%BC%EA%B0%80%EB%82%98%20%EB%85%B8%EB%9E%98%20%EC%99%B8%EC%9A%B0%EA%B8%B0) · [Hiragana 1시간 (EN)](https://www.youtube.com/results?search_query=Learn%20Hiragana%20in%201%20hour)
 
 ### 기본표
+
+> 🎬 [히라가나 46자](https://www.youtube.com/results?search_query=%ED%9E%88%EB%9D%BC%EA%B0%80%EB%82%98%2046%EC%9E%90%20%EC%9D%BD%EA%B8%B0%20%EA%B0%95%EC%9D%98) · [히라가나 노래](https://www.youtube.com/results?search_query=%ED%9E%88%EB%9D%BC%EA%B0%80%EB%82%98%20%EB%85%B8%EB%9E%98%20%EC%99%B8%EC%9A%B0%EA%B8%B0)
 
 | | あ단 (a) | い단 (i) | う단 (u) | え단 (e) | お단 (o) |
 |---|---|---|---|---|---|
@@ -67,6 +75,8 @@
 
 ### ⚠️ 불규칙 4개 — 이것만 따로 외우세요
 
+> 🎬 [し ち つ ふ](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%E3%81%97%20%E3%81%A1%20%E3%81%A4%20%E3%81%B5%20%EB%B0%9C%EC%9D%8C)
+
 ```text
 し = shi   (si ❌)
 ち = chi   (ti ❌)
@@ -75,6 +85,8 @@
 ```
 
 ### 특수 글자 2개
+
+> 🎬 [ん 발음](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%E3%82%93%20%EB%B0%9C%EC%9D%8C%20%EB%B0%9B%EC%B9%A8)
 
 | 글자 | 설명 |
 |---|---|
@@ -88,6 +100,8 @@
 ```
 
 ### 🔍 헷갈리는 짝 — 여기서 대부분 막힙니다
+
+> 🎬 [헷갈리는 글자](https://www.youtube.com/results?search_query=%ED%9E%88%EB%9D%BC%EA%B0%80%EB%82%98%20%ED%97%B7%EA%B0%88%EB%A6%AC%EB%8A%94%20%EA%B8%80%EC%9E%90%20%EA%B5%AC%EB%B6%84)
 
 | 짝 | 구분법 |
 |---|---|
@@ -110,6 +124,8 @@
 
 ### 탁음 (゛)
 
+> 🎬 [탁음](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%ED%83%81%EC%9D%8C%20%EB%B0%98%ED%83%81%EC%9D%8C%20%EC%84%A4%EB%AA%85)
+
 | | | | | |
 |---|---|---|---|---|
 | **が** ga | ぎ gi | ぐ gu | げ ge | ご go |
@@ -118,6 +134,8 @@
 | **ば** ba | び bi | ぶ bu | べ be | ぼ bo |
 
 ### 반탁음 (゜)
+
+> 🎬 [반탁음](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%B0%98%ED%83%81%EC%9D%8C%20%E3%81%B1%20%ED%96%89)
 
 | | | | | |
 |---|---|---|---|---|
@@ -186,6 +204,8 @@
 
 ### 표기 규칙
 
+> 🎬 [장음 규칙](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%9E%A5%EC%9D%8C%20%ED%91%9C%EA%B8%B0%20%EA%B7%9C%EC%B9%99)
+
 ```text
 あ단 + あ    おかあさん  okaasan   어머니
 い단 + い    おにいさん  oniisan   형/오빠
@@ -224,6 +244,8 @@
 
 ### ⚠️ 가타카나 장음은 「ー」 막대기
 
+> 🎬 [가타카나 장음](https://www.youtube.com/results?search_query=%EA%B0%80%ED%83%80%EC%B9%B4%EB%82%98%20%EC%9E%A5%EC%9D%8C%20%EB%A7%89%EB%8C%80%EA%B8%B0)
+
 ```text
 コーヒー  koohii   커피
 ビール    biiru    맥주
@@ -232,6 +254,8 @@
 ```
 
 ### 🔍 가타카나 최대 함정 — 4쌍
+
+> 🎬 [シ ツ ソ ン](https://www.youtube.com/results?search_query=%EA%B0%80%ED%83%80%EC%B9%B4%EB%82%98%20%ED%97%B7%EA%B0%88%EB%A6%AC%EB%8A%94%20%EA%B8%80%EC%9E%90%20%E3%82%B7%20%E3%83%84%20%E3%82%BD%20%E3%83%B3)
 
 | 짝 | 구분법 |
 |---|---|
@@ -243,6 +267,8 @@
 > 💡 シ/ツ, ソ/ン 은 일본인도 손글씨에서 헷갈립니다. **문맥으로 판단**하는 게 빠릅니다.
 
 ### 확장 가타카나 (외래어 전용)
+
+> 🎬 [외래어 가타카나](https://www.youtube.com/results?search_query=%EA%B0%80%ED%83%80%EC%B9%B4%EB%82%98%20%EC%99%B8%EB%9E%98%EC%96%B4%20%EC%9D%BD%EA%B8%B0)
 
 | 표기 | 소리 | 예 |
 |---|---|---|
@@ -262,6 +288,8 @@
 
 ### 한글 → 가타카나 변환 기본
 
+> 🎬 [이름 가타카나](https://www.youtube.com/results?search_query=%ED%95%9C%EA%B8%80%20%EC%9D%B4%EB%A6%84%20%EA%B0%80%ED%83%80%EC%B9%B4%EB%82%98%20%ED%91%9C%EA%B8%B0%20%EB%B3%80%ED%99%98)
+
 | 한글 | 가타카나 | 한글 | 가타카나 |
 |---|---|---|---|
 | 가/카 | カ | 나 | ナ |
@@ -276,6 +304,8 @@
 
 ### 받침 처리
 
+> 🎬 [이름 표기](https://www.youtube.com/results?search_query=%ED%95%9C%EA%B8%80%20%EC%9D%B4%EB%A6%84%20%EA%B0%80%ED%83%80%EC%B9%B4%EB%82%98%20%ED%91%9C%EA%B8%B0%20%EB%B3%80%ED%99%98)
+
 | 받침 | 표기 | 예 |
 |---|---|---|
 | ㄴ, ㅁ, ㅇ | **ン** | 민 → ミン / 정 → ジョン |
@@ -285,6 +315,8 @@
 | ㅅ, ㅈ, ㅌ | **ッ** 또는 **ス** | 갓 → カッ |
 
 ### 예시
+
+> 🎬 [한국 이름 일본어](https://www.youtube.com/results?search_query=%ED%95%9C%EA%B5%AD%20%EC%9D%B4%EB%A6%84%20%EC%9D%BC%EB%B3%B8%EC%96%B4%EB%A1%9C%20%EC%93%B0%EB%8A%94%20%EB%B2%95)
 
 ```text
 신모범  →  シン・モボム
@@ -304,6 +336,8 @@
 
 ### 추천 순서
 
+> 🎬 [3일 완성](https://www.youtube.com/results?search_query=%ED%9E%88%EB%9D%BC%EA%B0%80%EB%82%98%203%EC%9D%BC%20%EB%A7%8C%EC%97%90%20%EC%99%B8%EC%9A%B0%EA%B8%B0)
+
 ```text
 1일차  あ행~さ행 (15자)      + 그날 배운 글자로 된 단어 읽기
 2일차  た행~は행 (15자)      + 1일차 복습
@@ -315,6 +349,8 @@
 ```
 
 ### 효과적인 방법 3가지
+
+> 🎬 [Anki 사용법](https://www.youtube.com/results?search_query=Anki%20%ED%9E%88%EB%9D%BC%EA%B0%80%EB%82%98%20%EB%8D%B1%20%EC%82%AC%EC%9A%A9%EB%B2%95)
 
 **① 쓰기보다 읽기 — 앱으로 반복**
 
@@ -341,6 +377,8 @@
 
 ### ✅ 통과 기준
 
+> 🎬 [받아쓰기 테스트](https://www.youtube.com/results?search_query=%ED%9E%88%EB%9D%BC%EA%B0%80%EB%82%98%20%EB%B0%9B%EC%95%84%EC%93%B0%EA%B8%B0%20%EC%97%B0%EC%8A%B5)
+
 ```text
 □ よろしくおねがいします 를 더듬거려도 읽을 수 있다
 □ コーヒー / ビール / ラーメン 을 바로 읽는다
@@ -357,6 +395,8 @@
 
 ### 히라가나
 
+> 🎬 [받아쓰기](https://www.youtube.com/results?search_query=%ED%9E%88%EB%9D%BC%EA%B0%80%EB%82%98%20%EB%B0%9B%EC%95%84%EC%93%B0%EA%B8%B0%20%EC%97%B0%EC%8A%B5)
+
 ```text
 ありがとう      arigatou      감사합니다
 すみません      sumimasen     저기요/죄송
@@ -369,6 +409,8 @@
 ```
 
 ### 가타카나 (여행에서 실제로 만남)
+
+> 🎬 [외래어 읽기](https://www.youtube.com/results?search_query=%EA%B0%80%ED%83%80%EC%B9%B4%EB%82%98%20%EC%99%B8%EB%9E%98%EC%96%B4%20%EC%9D%BD%EA%B8%B0)
 
 ```text
 コーヒー        koohii        커피
@@ -397,10 +439,14 @@
 
 ### 설정
 
+> 🎬 [아이폰 일본어 키보드](https://www.youtube.com/results?search_query=%EC%95%84%EC%9D%B4%ED%8F%B0%20%EC%9D%BC%EB%B3%B8%EC%96%B4%20%ED%82%A4%EB%B3%B4%EB%93%9C%20%EC%84%A4%EC%A0%95%20%EB%B0%A9%EB%B2%95)
+
 - **iOS**: 설정 → 일반 → 키보드 → 키보드 추가 → 일본어 → **로마자 입력(ローマ字)**
 - **macOS**: 시스템 설정 → 키보드 → 입력 소스 → 일본어 → ひらがな
 
 ### 입력 규칙
+
+> 🎬 [로마자 입력](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%A1%9C%EB%A7%88%EC%9E%90%20%EC%9E%85%EB%A0%A5%20%EB%B0%A9%EB%B2%95)
 
 ```text
 로마자 그대로 치면 히라가나로 변환됩니다

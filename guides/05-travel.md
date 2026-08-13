@@ -21,6 +21,8 @@
 
 ### 👉 여행 목적이라면 학습 순서를 이렇게 바꾸세요
 
+> 🎬 [여행 회화 우선순위](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%97%AC%ED%96%89%20%ED%9A%8C%ED%99%94%20%ED%95%84%EC%88%98%20%ED%91%9C%ED%98%84)
+
 ```text
 1순위  간판·메뉴 한자 읽기      ← §3. 투자 대비 효과 압도적
 2순위  숫자와 세는 말           ← §4. 계산·주문·인원수 전부 여기서 막힘
@@ -75,6 +77,8 @@
 
 ### ⭐ `すみません` 하나로 되는 일
 
+> 🎬 [스미마셍](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%8A%A4%EB%AF%B8%EB%A7%88%EC%85%8D%20%EC%82%AC%EC%9A%A9%EB%B2%95)
+
 ```text
 점원 부르기        すみません！
 길 물어보기 시작   すみません、駅はどこですか？
@@ -86,6 +90,8 @@
 일본 여행에서 **가장 많이 쓸 단어**입니다. 발음: 스미마셍 (`すいません sui-masen` 도 구어로 흔히 씁니다)
 
 ### ⭐ `大丈夫です` 의 이중성 — 주의
+
+> 🎬 [다이죠부](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%8B%A4%EC%9D%B4%EC%A3%A0%EB%B6%80%20%EB%9C%BB%20%EC%82%AC%EC%9A%A9%EB%B2%95)
 
 ```text
 店員: 袋はいりますか？  (봉투 필요하세요?)
@@ -109,6 +115,8 @@
 
 ### 역·교통
 
+> 🎬 [역 표지판](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%97%AD%20%ED%91%9C%EC%A7%80%ED%8C%90%20%EB%B3%B4%EB%8A%94%20%EB%B2%95)
+
 | 한자 | 읽기 | 뜻 |
 | --- | --- | --- |
 | 出口<br>でぐち | deguchi | 출구 |
@@ -124,6 +132,8 @@
 
 ### 열차 종류 — 잘못 타면 낭패
 
+> 🎬 [열차 종류](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%A0%84%EC%B2%A0%20%EC%A2%85%EB%A5%98%20%ED%8A%B9%EA%B8%89%20%EA%B8%89%ED%96%89%20%EC%B0%A8%EC%9D%B4)
+
 | 한자 | 읽기 | 뜻 |
 | --- | --- | --- |
 | 各駅停車 / 普通<br>かくえきていしゃ / ふつう | kakueki teisha / futsuu | 모든 역 정차 (완행) |
@@ -136,6 +146,8 @@
 > ⚠️ **`特急` 은 대부분 특급권(特急券)이 별도로 필요합니다.** 모르고 타면 차내에서 추가 징수됩니다.
 
 ### 식당·메뉴
+
+> 🎬 [메뉴판 읽기](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EB%A9%94%EB%89%B4%ED%8C%90%20%EC%9D%BD%EB%8A%94%20%EB%B2%95)
 
 | 한자 | 읽기 | 뜻 |
 | --- | --- | --- |
@@ -154,6 +166,8 @@
 
 ### 생활·안내
 
+> 🎬 [표지판](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%97%AC%ED%96%89%20%ED%91%9C%EC%A7%80%ED%8C%90%20%EB%AA%A8%EC%9D%8C)
+
 | 한자 | 뜻 | 한자 | 뜻 |
 | --- | --- | --- | --- |
 | 男 / 女<br>おとこ / おんな | 남 / 여 | 手洗 / お手洗い<br>てあらい / おてあらい | 화장실 |
@@ -167,6 +181,8 @@
 > 💡 **`現金のみ` (현금만)** 는 여행 중 반드시 마주칩니다. 이 4글자는 꼭 기억하세요.
 
 ### 알레르기·식성 (해당된다면 필수)
+
+> 🎬 [알레르기 표기](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%95%8C%EB%A0%88%EB%A5%B4%EA%B8%B0%20%ED%91%9C%EA%B8%B0%20%ED%99%95%EC%9D%B8)
 
 | 한자 | 뜻 |
 | --- | --- |
@@ -197,6 +213,8 @@
 
 ### 기본 숫자
 
+> 🎬 [숫자 읽기](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%88%AB%EC%9E%90%20%EC%9D%BD%EA%B8%B0%201~10)
+
 | 1 | 2 | 3 | 4 | 5 |
 | --- | --- | --- | --- | --- |
 | いち ichi | に ni | さん san | **よん yon** | ご go |
@@ -208,6 +226,8 @@
 > `4 = し(shi)`, `7 = しち(shichi)`, `9 = く(ku)` 도 있지만, **여행에서는 よん/なな/きゅう 를 쓰면 됩니다.** 헷갈림이 적습니다.
 
 ### 큰 단위 — 금액 알아듣기
+
+> 🎬 [금액 듣기](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EA%B8%88%EC%95%A1%20%EB%93%A3%EA%B8%B0%20%EC%97%94)
 
 | 일본어 | 읽기 | 값 |
 | --- | --- | --- |
@@ -235,6 +255,8 @@
 
 ### 🛟 숫자를 못 알아들을 때의 필살기
 
+> 🎬 [숫자 듣기](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%88%AB%EC%9E%90%20%EB%93%A3%EA%B8%B0%20%ED%9B%88%EB%A0%A8)
+
 ```text
 すみません、書いてもらえますか？
 sumimasen, kaite moraemasu ka?
@@ -245,6 +267,8 @@ sumimasen, kaite moraemasu ka?
 가장 확실한 방법: **1만 엔짜리를 내고 거스름돈을 받으세요.** 못 알아들었을 때의 안전장치입니다.
 
 ### 물건 세기 — 「〜つ」 하나면 됩니다
+
+> 🎬 [개수 세기](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EA%B0%9C%EC%88%98%20%EC%84%B8%EB%8A%94%20%EB%B2%95%20%ED%9E%88%ED%86%A0%EC%B8%A0)
 
 | 개수 | 일본어 | 읽기 |
 | --- | --- | --- |
@@ -263,6 +287,8 @@ kore, futatsu onegaishimasu
 > 💡 일본어에는 물건 종류별 세는 단위(枚·本·杯…)가 수십 개지만, **여행에서는 `〜つ` 로 거의 다 통합니다.** 외우려 하지 마세요.
 
 ### 인원수 — 식당 입구에서 반드시 나옴
+
+> 🎬 [인원 세기](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%9D%B8%EC%9B%90%20%EC%84%B8%EB%8A%94%20%EB%B2%95%20%ED%9E%88%ED%86%A0%EB%A6%AC%20%ED%9B%84%ED%83%80%EB%A6%AC)
 
 | 인원 | 일본어 | 읽기 |
 | --- | --- | --- |
@@ -286,6 +312,8 @@ kore, futatsu onegaishimasu
 
 ### 도착 전 준비 — Visit Japan Web
 
+> 🎬 [Visit Japan Web](https://www.youtube.com/results?search_query=Visit%20Japan%20Web%20%EC%82%AC%EC%9A%A9%EB%B2%95)
+
 입국 심사와 세관 신고를 **QR 코드 하나로** 처리하는 시스템입니다 (`vjw.digital.go.jp`).
 
 - **필수는 아닙니다.** 기내에서 종이 신고서도 계속 배포되고 모든 공항에서 받아 줍니다.
@@ -293,6 +321,8 @@ kore, futatsu onegaishimasu
 - **착륙 최소 6시간 전**에 등록을 끝내 두세요.
 
 ### 입국 심사에서 듣는 말
+
+> 🎬 [입국심사](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC%20%EC%A0%88%EC%B0%A8)
 
 | 일본어 | 뜻 | 대답 |
 | --- | --- | --- |
@@ -303,6 +333,8 @@ kore, futatsu onegaishimasu
 > 💡 대부분 영어로 진행되거나 아예 아무것도 안 묻습니다. **호텔 예약 확인서만 폰에 열어 둘 수 있으면 충분합니다.**
 
 ### 공항에서 할 일
+
+> 🎬 [공항 도착 후](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EA%B3%B5%ED%95%AD%20%EB%8F%84%EC%B0%A9%20%ED%9B%84%20%ED%95%A0%20%EC%9D%BC)
 
 ```text
 □ IC 카드 구입 또는 모바일 발급 (§6)
@@ -319,6 +351,8 @@ kore, futatsu onegaishimasu
 
 ### IC 카드 선택 (2026년 기준)
 
+> 🎬 [모바일 스이카](https://www.youtube.com/results?search_query=%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EC%8A%A4%EC%9D%B4%EC%B9%B4%20%EB%B0%9C%EA%B8%89%20%EB%B0%A9%EB%B2%95) · [IC카드 비교](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20IC%EC%B9%B4%EB%93%9C%20%EC%8A%A4%EC%9D%B4%EC%B9%B4%20%ED%8C%8C%EC%8A%A4%EB%AA%A8%20%EB%B9%84%EA%B5%90)
+
 | 종류 | 특징 |
 | --- | --- |
 | **모바일 Suica / PASMO** (Apple Pay·Google Pay) | ⭐ **가장 편함.** 줄 설 필요 없고, 카드로 즉시 충전. 잔액 소멸 없음 |
@@ -334,6 +368,8 @@ kore, futatsu onegaishimasu
 
 ### 역에서 쓰는 표현
 
+> 🎬 [전철 타는 법](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%A0%84%EC%B2%A0%20%ED%83%80%EB%8A%94%20%EB%B2%95%20IC%EC%B9%B4%EB%93%9C)
+
 | 일본어 | 뜻 |
 | --- | --- |
 | ○○駅に行きたいんですが<br>○○えきにいきたいんですが | ○○역에 가고 싶은데요 |
@@ -346,6 +382,8 @@ kore, futatsu onegaishimasu
 
 ### 요금이 부족할 때
 
+> 🎬 [정산기](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%A0%84%EC%B2%A0%20%EC%A0%95%EC%82%B0%EA%B8%B0%20%EC%82%AC%EC%9A%A9%EB%B2%95)
+
 개찰구에서 막히면 당황하지 말고 **`精算機`(정산기)** 에서 충전하거나, 역무원에게:
 
 ```text
@@ -355,6 +393,8 @@ sumimasen, seisan onegaishimasu
 ```
 
 ### 택시
+
+> 🎬 [택시 이용](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%ED%83%9D%EC%8B%9C%20%EC%9D%B4%EC%9A%A9%20%EC%9D%BC%EB%B3%B8%EC%96%B4)
 
 ```text
 ○○までお願いします      ~made onegaishimasu    ~까지 가주세요
@@ -373,6 +413,8 @@ sumimasen, seisan onegaishimasu
 
 ### 체크인
 
+> 🎬 [호텔 체크인](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%ED%98%B8%ED%85%94%20%EC%B2%B4%ED%81%AC%EC%9D%B8%20%EC%9D%BC%EB%B3%B8%EC%96%B4)
+
 | 일본어 | 뜻 |
 | --- | --- |
 | チェックインお願いします<br>チェックインおねがいします | 체크인 부탁드립니다 |
@@ -382,6 +424,8 @@ sumimasen, seisan onegaishimasu
 | Wi-Fiのパスワードは？ | 와이파이 비번은요? |
 
 ### 알아두면 좋은 것
+
+> 🎬 [비즈니스 호텔](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%ED%98%B8%ED%85%94%20%ED%9B%84%EA%B8%B0)
 
 - **체크인은 대체로 15시, 체크아웃은 10~11시**로 한국보다 이릅니다.
 - 짐 보관(荷物預かり)은 대부분 무료로 해 줍니다. 체크인 전·체크아웃 후 모두 가능.
@@ -395,6 +439,8 @@ sumimasen, seisan onegaishimasu
 > 🎬 **영상으로 보기**: [일본 식당 주문](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%8B%9D%EB%8B%B9%20%EC%A3%BC%EB%AC%B8%20%EC%9D%BC%EB%B3%B8%EC%96%B4) · [식권 자판기 사용법](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%8B%9D%EA%B6%8C%20%EC%9E%90%ED%8C%90%EA%B8%B0%20%EC%82%AC%EC%9A%A9%EB%B2%95)
 
 ### 입장
+
+> 🎬 [식당 입장](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%8B%9D%EB%8B%B9%20%EC%9E%85%EC%9E%A5%20%EC%9D%BC%EB%B3%B8%EC%96%B4)
 
 ```text
 店員: 何名様ですか？       몇 분이세요?
@@ -411,6 +457,8 @@ sumimasen, seisan onegaishimasu
 
 ### 券売機 (식권 자판기) — 라멘집·정식집에서 흔함
 
+> 🎬 [식권 자판기](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%8B%9D%EA%B6%8C%20%EC%9E%90%ED%8C%90%EA%B8%B0%20%EC%82%AC%EC%9A%A9%EB%B2%95)
+
 입구에 자판기가 있으면 **먼저 표를 사서 자리에 앉는 방식**입니다.
 
 ```text
@@ -423,6 +471,8 @@ sumimasen, seisan onegaishimasu
 > 모르겠으면: `すみません、使い方がわかりません` (사용법을 모르겠어요)
 
 ### 주문
+
+> 🎬 [식당 주문](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%8B%9D%EB%8B%B9%20%EC%A3%BC%EB%AC%B8%20%EC%9D%BC%EB%B3%B8%EC%96%B4)
 
 | 일본어 | 뜻 |
 | --- | --- |
@@ -437,6 +487,8 @@ sumimasen, seisan onegaishimasu
 
 ### 식사 중·계산
 
+> 🎬 [계산 방법](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%8B%9D%EB%8B%B9%20%EA%B3%84%EC%82%B0%20%EB%B0%A9%EB%B2%95)
+
 | 일본어 | 뜻 |
 | --- | --- |
 | おいしいです！ | 맛있어요! |
@@ -446,6 +498,8 @@ sumimasen, seisan onegaishimasu
 | ごちそうさまでした | 잘 먹었습니다 (나가면서) |
 
 ### ⚠️ 한국과 다른 점
+
+> 🎬 [식당 매너](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%8B%9D%EB%8B%B9%20%EB%A7%A4%EB%84%88%20%EC%A3%BC%EC%9D%98%EC%82%AC%ED%95%AD)
 
 | 항목 | 일본 |
 | --- | --- |
@@ -476,6 +530,8 @@ sumimasen, seisan onegaishimasu
 
 ### 편의점 활용 팁
 
+> 🎬 [편의점 활용](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%ED%8E%B8%EC%9D%98%EC%A0%90%20%ED%99%9C%EC%9A%A9%EB%B2%95)
+
 - **ATM**: 세븐일레븐 ATM은 해외 카드 인출이 가장 잘 됩니다
 - **택배**: 호텔로 짐을 보내거나 공항으로 부칠 수 있습니다
 - **티켓**: 로손·패밀리마트 단말기에서 각종 티켓 구매 가능
@@ -488,6 +544,8 @@ sumimasen, seisan onegaishimasu
 > 🎬 **영상으로 보기**: [일본 면세 받는 법](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EB%A9%B4%EC%84%B8%20%EB%B0%9B%EB%8A%94%20%EB%B2%95%202026) · [쇼핑 표현](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%87%BC%ED%95%91%20%EC%9D%BC%EB%B3%B8%EC%96%B4%20%ED%91%9C%ED%98%84)
 
 ### 🚨 2026년 11월 1일부터 면세 방식이 바뀝니다
+
+> 🎬 [면세 제도 변경](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EB%A9%B4%EC%84%B8%20%EC%A0%9C%EB%8F%84%202026%20%EB%B3%80%EA%B2%BD)
 
 | | ~2026.10.31 | **2026.11.1~** |
 | --- | --- | --- |
@@ -505,6 +563,8 @@ sumimasen, seisan onegaishimasu
 
 ### 면세 관련 표현
 
+> 🎬 [면세 받는 법](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EB%A9%B4%EC%84%B8%20%EB%B0%9B%EB%8A%94%20%EB%B2%95)
+
 | 일본어 | 뜻 |
 | --- | --- |
 | 免税できますか？<br>めんぜいできますか？ | 면세 되나요? |
@@ -514,6 +574,8 @@ sumimasen, seisan onegaishimasu
 **면세를 받으려면 여권 실물이 필요합니다.** 사본·사진은 안 됩니다. 쇼핑 나갈 때 꼭 챙기세요.
 
 ### 쇼핑 표현
+
+> 🎬 [쇼핑 일본어](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%87%BC%ED%95%91%20%EC%9D%BC%EB%B3%B8%EC%96%B4%20%ED%91%9C%ED%98%84)
 
 | 일본어 | 뜻 |
 | --- | --- |
@@ -534,6 +596,8 @@ sumimasen, seisan onegaishimasu
 
 ### 추천 조합
 
+> 🎬 [결제 수단](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%97%AC%ED%96%89%20%EA%B2%B0%EC%A0%9C%20%EC%88%98%EB%8B%A8%20%EC%8B%A0%EC%9A%A9%EC%B9%B4%EB%93%9C%20%ED%98%84%EA%B8%88)
+
 ```text
 ① 해외결제 되는 신용카드 (Visa / Mastercard)  ← 주력
 ② IC 카드 (Suica/PASMO)                      ← 교통 + 편의점 + 자판기
@@ -543,6 +607,8 @@ sumimasen, seisan onegaishimasu
 이 세 가지면 **여행의 85~90%** 가 커버됩니다.
 
 ### 현금이 꼭 필요한 곳
+
+> 🎬 [현금 필요](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%97%AC%ED%96%89%20%ED%98%84%EA%B8%88%20%EC%96%BC%EB%A7%88%EB%82%98)
 
 ```text
 신사·절의 부적, 새전(賽銭)
@@ -554,9 +620,13 @@ sumimasen, seisan onegaishimasu
 
 ### PayPay는?
 
+> 🎬 [PayPay 사용](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%ED%8E%98%EC%9D%B4%ED%8E%98%EC%9D%B4%20%EC%99%B8%EA%B5%AD%EC%9D%B8%20%EC%82%AC%EC%9A%A9)
+
 일본 QR 결제 시장의 압도적 1위지만, **일본 전화번호가 필요한 경우가 많아** 단기 여행자에게는 진입 장벽이 있습니다. 굳이 준비하지 않아도 됩니다.
 
 ### 환전
+
+> 🎬 [환전 ATM](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20ATM%20%ED%98%84%EA%B8%88%20%EC%9D%B8%EC%B6%9C%20%EB%B0%A9%EB%B2%95)
 
 - 한국에서 미리 환전하는 편이 대체로 유리합니다
 - 부족하면 **세븐일레븐 ATM**에서 해외 카드로 인출 (수수료 있지만 편함)
@@ -569,6 +639,8 @@ sumimasen, seisan onegaishimasu
 > 🎬 **영상으로 보기**: [일본어 길 묻기](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EA%B8%B8%20%EB%AC%BB%EA%B8%B0%20%ED%91%9C%ED%98%84) · [응급 상황 표현](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%97%AC%ED%96%89%20%EC%9D%91%EA%B8%89%20%EC%83%81%ED%99%A9%20%EC%9D%BC%EB%B3%B8%EC%96%B4)
 
 ### 길 묻기
+
+> 🎬 [길 묻기](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EA%B8%B8%20%EB%AC%BB%EA%B8%B0%20%ED%91%9C%ED%98%84)
 
 ```text
 すみません、○○はどこですか？
@@ -594,6 +666,8 @@ kono juusho ni ikitai n desu ga
 > 💡 **말로 설명을 들어도 못 알아들을 가능성이 큽니다.** 지도 앱 화면을 보여주고 손가락으로 가리켜 달라고 하는 게 훨씬 확실합니다: `地図で教えてもらえますか？`
 
 ### 곤란한 상황
+
+> 🎬 [응급 상황](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%97%AC%ED%96%89%20%EC%9D%91%EA%B8%89%20%EC%83%81%ED%99%A9%20%EC%9D%BC%EB%B3%B8%EC%96%B4)
 
 | 일본어 | 뜻 |
 | --- | --- |
@@ -676,6 +750,8 @@ kono juusho ni ikitai n desu ga
 
 ### 폰에 깔아둘 앱
 
+> 🎬 [필수 앱](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%97%AC%ED%96%89%20%ED%95%84%EC%88%98%20%EC%95%B1)
+
 ```text
 □ Google 지도 (경로·환승 안내가 가장 정확)
 □ 파파고 또는 구글 번역 (오프라인 팩 미리 다운로드)
@@ -707,6 +783,8 @@ kono juusho ni ikitai n desu ga
 - [Japanese travel phrases restaurant ordering](https://www.youtube.com/results?search_query=Japanese%20travel%20phrases%20restaurant%20ordering)
 
 ### 2주 속성 커리큘럼
+
+> 🎬 [2주 공부](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%202%EC%A3%BC%20%EB%B2%BC%EB%9D%BD%EC%B9%98%EA%B8%B0%20%EC%97%AC%ED%96%89%ED%9A%8C%ED%99%94)
 
 | 주 | 일 | 할 것 |
 | --- | --- | --- |

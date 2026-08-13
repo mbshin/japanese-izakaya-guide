@@ -23,6 +23,8 @@
 
 ### 골프가 네트워킹에 강한 진짜 이유
 
+> 🎬 [일본 골프 문화](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EA%B3%A8%ED%94%84%20%EB%AC%B8%ED%99%94%20%EC%B0%A8%EC%9D%B4)
+
 ```text
 ① 5시간 동안 같은 조 = 말을 안 걸 수가 없는 구조
 ② 화제가 저절로 생김 — "나이스 샷!" 한마디면 대화가 시작됨
@@ -42,6 +44,8 @@
 
 ### 이게 뭔가
 
+> 🎬 [1인 골프 예약](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%201%EC%9D%B8%20%EA%B3%A8%ED%94%84%20%EC%98%88%EC%95%BD) · [楽天GORA](https://www.youtube.com/results?search_query=%E6%A5%BD%E5%A4%A9GORA%201%E4%BA%BA%E4%BA%88%E7%B4%84%20%E4%BD%BF%E3%81%84%E6%96%B9)
+
 **혼자 예약하면, 같은 시간에 혼자 예약한 다른 사람들과 한 조(4명)로 묶어주는 서비스**입니다.
 
 ```text
@@ -53,6 +57,8 @@
 
 ### 서비스
 
+> 🎬 [골프 예약 사이트](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EA%B3%A8%ED%94%84%EC%9E%A5%20%EC%98%88%EC%95%BD%20%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EB%B9%84%EA%B5%90)
+
 | 서비스 | 특징 |
 |---|---|
 | **楽天GORA 「1人予約」**<br>らくてんGORA「ひとりよやく」 | 전국 1,900여 코스. 초보자가 쓰기 가장 쉬움. 라쿠텐 포인트 적립 |
@@ -60,6 +66,8 @@
 | **1人予約ランド**<br>ひとりよやくランド | 매칭 특화 |
 
 ### 진행 방식
+
+> 🎬 [1인 예약 흐름](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%201%EC%9D%B8%20%EA%B3%A8%ED%94%84%20%EC%98%88%EC%95%BD%20%EB%B0%A9%EB%B2%95)
 
 ```text
 1. 사이트에서 코스·날짜·시간 선택 후 혼자 예약
@@ -72,6 +80,8 @@
 > 💰 평일 얼리버드·薄暮(박모, 트와일라잇) 요금이면 **3,000~5,000엔**대도 나옵니다.
 
 ### 사이트가 일본어뿐일 때
+
+> 🎬 [일본 사이트 번역](https://www.youtube.com/results?search_query=%ED%81%AC%EB%A1%AC%20%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EB%B2%88%EC%97%AD)
 
 - 크롬 브라우저 **자동 번역**으로 대부분 진행됩니다
 - 회원가입에 일본 전화번호가 필요한 경우가 있습니다 — 안 되면 아래 대안으로
@@ -86,6 +96,8 @@
 
 ### ⚠️ 복장 — 한국보다 엄격합니다
 
+> 🎬 [골프 복장 규정](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EA%B3%A8%ED%94%84%EC%9E%A5%20%EB%B3%B5%EC%9E%A5%20%EA%B7%9C%EC%A0%95)
+
 | 항목 | 일본 |
 |---|---|
 | **클럽하우스 입·퇴장** | **재킷 착용이 기본.** 명문 코스일수록 엄격 |
@@ -97,6 +109,8 @@
 > ⚠️ **재킷을 안 가져가면 입장을 거절당할 수 있습니다.** 퍼블릭 코스는 완화된 곳이 많지만, 예약 시 코스 홈페이지의 `ドレスコード`(도레스코-도)를 반드시 확인하세요.
 
 ### 장비
+
+> 🎬 [렌탈 클럽](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EA%B3%A8%ED%94%84%20%EB%A0%8C%ED%83%88%20%ED%81%B4%EB%9F%BD) · [골프백 택배](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EA%B3%A8%ED%94%84%EB%B0%B1%20%ED%83%9D%EB%B0%B0)
 
 | 방법 | 설명 |
 |---|---|
@@ -143,6 +157,8 @@
 
 ### 접수
 
+> 🎬 [골프장 접수](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EA%B3%A8%ED%94%84%EC%9E%A5%20%EC%A0%91%EC%88%98%20%EC%B2%B4%ED%81%AC%EC%9D%B8)
+
 | 일본어 | 한글 읽기 | 뜻 |
 |---|---|---|
 | **予約した○○です**<br>よやくした○○です | 요야쿠시타 ○○데스 | 예약한 ○○입니다 |
@@ -153,6 +169,8 @@
 
 ### ★ 첫 티에서 — 이 한마디가 전부입니다
 
+> 🎬 [첫 티 인사](https://www.youtube.com/results?search_query=%EA%B3%A8%ED%94%84%20%EC%B2%AB%ED%99%80%20%EC%9D%B8%EC%82%AC%20%EB%A7%A4%EB%84%88)
+
 ```text
 よろしくお願いします！
 요로시쿠 오네가이시마스!
@@ -162,6 +180,8 @@
 > 첫 홀 티잉그라운드에서 조원들과 **반드시** 주고받는 인사입니다. 이걸 하면 그 순간부터 한 팀입니다.
 
 ### 자기소개 — 첫 홀에서
+
+> 🎬 [일본어 자기소개](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C)
 
 | 일본어 | 한글 읽기 | 뜻 |
 |---|---|---|
@@ -178,6 +198,8 @@
 
 ### ⭐ 최다 사용 5개
 
+> 🎬 [골프 일본어](https://www.youtube.com/results?search_query=%EA%B3%A8%ED%94%84%20%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%9A%A9%EC%96%B4)
+
 | 일본어 | 한글 읽기 | 언제 |
 |---|---|---|
 | **ナイスショット！** | 나이스 숏토! | 남이 잘 쳤을 때 ★★★ 하루에 50번 |
@@ -191,6 +213,8 @@
 
 ### 순서·진행
 
+> 🎬 [골프 매너](https://www.youtube.com/results?search_query=%EA%B3%A8%ED%94%84%20%EC%97%90%ED%8B%B0%EC%BC%93%20%EA%B8%B0%EB%B3%B8)
+
 | 일본어 | 한글 읽기 | 뜻 |
 |---|---|---|
 | **お先にどうぞ**<br>おさきにどうぞ | 오사키니 도-조 | 먼저 치세요 |
@@ -200,6 +224,8 @@
 | **暫定球打ちます**<br>ざんていきゅううちます | 잔테-큐- 우치마스 | 잠정구 치겠습니다 |
 
 ### 칭찬 — 네트워킹의 핵심
+
+> 🎬 [일본어 칭찬](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%B9%AD%EC%B0%AC%20%ED%91%9C%ED%98%84%20%ED%9A%8C%ED%99%94)
 
 | 일본어 | 한글 읽기 | 뜻 |
 |---|---|---|
@@ -211,6 +237,8 @@
 > 💡 **일본에서 칭찬은 관계의 윤활유입니다.** 좋은 샷마다 반응해 주세요. 과하다 싶을 정도가 적당합니다.
 
 ### 물어보기
+
+> 🎬 [골프 일본어](https://www.youtube.com/results?search_query=%EA%B3%A8%ED%94%84%20%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%9A%A9%EC%96%B4)
 
 | 일본어 | 한글 읽기 | 뜻 |
 |---|---|---|
@@ -230,6 +258,8 @@
 **이 1시간이 이 문서에서 가장 중요한 시간입니다.** 플레이 중에는 짧게밖에 못 하던 대화를 여기서 제대로 합니다.
 
 ### 점심 자리 표현
+
+> 🎬 [골프장 점심](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EA%B3%A8%ED%94%84%EC%9E%A5%20%EC%A0%90%EC%8B%AC%20%EB%AC%B8%ED%99%94)
 
 | 일본어 | 한글 읽기 | 뜻 |
 |---|---|---|
@@ -253,6 +283,8 @@
 
 ### 목욕(お風呂) — 두 번째 골든타임
 
+> 🎬 [골프장 목욕탕](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EA%B3%A8%ED%94%84%EC%9E%A5%20%EB%AA%A9%EC%9A%95%ED%83%95) · [목욕 매너](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EB%AA%A9%EC%9A%95%ED%83%95%20%EC%9D%B4%EC%9A%A9%EB%B2%95%20%EB%A7%A4%EB%84%88)
+
 라운드 후 클럽하우스 목욕탕에서 씻는 것이 **일본 골프의 기본 코스**입니다. 수건·비누·샴푸는 대부분 비치돼 있습니다.
 
 ```text
@@ -266,6 +298,8 @@
 
 ### 정산
 
+> 🎬 [골프장 정산](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EA%B3%A8%ED%94%84%EC%9E%A5%20%EC%A0%95%EC%82%B0%20%EB%B0%A9%EB%B2%95)
+
 | 일본어 | 한글 읽기 | 뜻 |
 |---|---|---|
 | **精算お願いします**<br>せいさんおねがいします | 세-산 오네가이시마스 | 정산 부탁합니다 |
@@ -276,6 +310,8 @@
 > 💴 **팁은 없습니다.** 캐디에게도 주지 마세요.
 
 ### ★ 헤어질 때 — 관계를 만드는 순간
+
+> 🎬 [LINE 교환](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EB%9D%BC%EC%9D%B8%20%EA%B5%90%ED%99%98%20%EC%9D%BC%EB%B3%B8%EC%96%B4)
 
 | 일본어 | 한글 읽기 | 뜻 |
 |---|---|---|
@@ -295,6 +331,8 @@
 
 ### 안전한 질문 (카트 안·점심에서)
 
+> 🎬 [골프 스몰토크](https://www.youtube.com/results?search_query=%EA%B3%A8%ED%94%84%20%EC%8A%A4%EB%AA%B0%ED%86%A0%ED%81%AC%20%EB%8C%80%ED%99%94)
+
 | 일본어 | 한글 읽기 | 뜻 |
 |---|---|---|
 | **ゴルフ歴どのくらいですか？**<br>ゴルフれきどのくらいですか？ | 고루후레키 도노쿠라이데스카? | 골프 얼마나 치셨어요? |
@@ -306,6 +344,8 @@
 
 ### 🇰🇷 한국인 카드
 
+> 🎬 [스크린골프 일본 반응](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%9D%B8%20%EC%8A%A4%ED%81%AC%EB%A6%B0%EA%B3%A8%ED%94%84%20%EB%B0%98%EC%9D%91)
+
 | 일본어 | 한글 읽기 | 뜻 |
 |---|---|---|
 | **韓国のゴルフ場、来たことありますか？**<br>かんこくのゴルフじょう、きたことありますか？ | 캉코쿠노 고루후조-, 키타 코토 아리마스카? | 한국 골프장 와보신 적 있어요? |
@@ -316,6 +356,8 @@
 > 한국 골프장 추천·그린피 비교도 좋은 화제입니다.
 
 ### 🚫 피할 화제
+
+> 🎬 [하면 안되는 말](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%97%90%EC%84%9C%20%ED%95%98%EB%A9%B4%20%EC%95%88%EB%90%98%EB%8A%94%20%EB%A7%90)
 
 ```text
 스코어로 상대 평가하기      "그것밖에 못 치세요?" 절대 금물
@@ -379,6 +421,8 @@
 
 ### 하루 종일 쓰는 5개
 
+> 🎬 [나이스샷](https://www.youtube.com/results?search_query=%EA%B3%A8%ED%94%84%20%EB%82%98%EC%9D%B4%EC%8A%A4%EC%83%B7%20%EC%9D%BC%EB%B3%B8%EC%96%B4)
+
 ```text
 나이스 숏토!     ナイスショット！   나이스 샷!    ★★★
 돈마이!          ドンマイ！         괜찮아요!     ★★
@@ -388,6 +432,8 @@
 ```
 
 ### 접수·스타트
+
+> 🎬 [골프장 접수](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EA%B3%A8%ED%94%84%EC%9E%A5%20%EC%A0%91%EC%88%98%20%EC%B2%B4%ED%81%AC%EC%9D%B8)
 
 ```text
 요야쿠시타 ○○데스        予約した○○です       예약한 ○○입니다
@@ -399,6 +445,8 @@
 
 ### 대화
 
+> 🎬 [골프 스몰토크](https://www.youtube.com/results?search_query=%EA%B3%A8%ED%94%84%20%EC%8A%A4%EB%AA%B0%ED%86%A0%ED%81%AC%20%EB%8C%80%ED%99%94)
+
 ```text
 고루후레키 도노쿠라이데스카?   ゴルフ歴どのくらいですか？  골프 얼마나 치셨어요?
 요쿠 마와라레룬데스카?         よく回られるんですか？      자주 치세요?
@@ -408,6 +456,8 @@
 ```
 
 ### 마무리 ★
+
+> 🎬 [LINE 교환](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EB%9D%BC%EC%9D%B8%20%EA%B5%90%ED%99%98%20%EC%9D%BC%EB%B3%B8%EC%96%B4)
 
 ```text
 쿄-와 아리가토- 고자이마시타!  今日はありがとうございました！ 오늘 감사했습니다

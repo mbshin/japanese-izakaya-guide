@@ -17,6 +17,8 @@
 
 ### 읽기 훈련하는 법
 
+> 🎬 [일본어 읽기 연습](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%9D%BD%EA%B8%B0%20%EC%97%B0%EC%8A%B5%20%EC%B4%88%EA%B8%89) · [섀도잉 방법](https://www.youtube.com/results?search_query=%EC%84%80%EB%8F%84%EC%9E%89%20%ED%95%98%EB%8A%94%20%EB%B2%95%20%EC%9D%BC%EB%B3%B8%EC%96%B4)
+
 ```text
 1주차   일본어 → 가나 → 한글 읽기 순으로 눈이 간다
 2주차   가나까지만 보고 소리 낸다. 한글은 확인용
@@ -63,6 +65,8 @@
 
 ### ① 입장·주문
 
+> 🎬 [이자카야 입장](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%9D%B4%EC%9E%90%EC%B9%B4%EC%95%BC%20%EC%9E%85%EC%9E%A5%20%EC%A3%BC%EB%AC%B8) · [다치노미](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EB%8B%A4%EC%B9%98%EB%85%B8%EB%AF%B8%20%EC%84%9C%EC%84%9C%20%EB%A7%88%EC%8B%9C%EB%8A%94%20%EA%B0%80%EA%B2%8C)
+
 | 일본어 | 한글 읽기 | 뜻 |
 | --- | --- | --- |
 | **一人ですけど、いいですか？**<br>ひとりですけど、いいですか？ | 히토리데스케도, 이-데스카? | 혼자인데 괜찮을까요? |
@@ -72,6 +76,8 @@
 | **もう一杯お願いします**<br>もういっぱいおねがいします | 모- 입파이 오네가이시마스 | 한 잔 더 주세요 |
 
 ### ② 말 거는 첫 마디 ★★★
+
+> 🎬 [말 거는 법](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%9D%B8%EC%97%90%EA%B2%8C%20%EB%A7%90%20%EA%B1%B0%EB%8A%94%20%EB%B2%95) · [현지인과 대화](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%9D%B4%EC%9E%90%EC%B9%B4%EC%95%BC%20%ED%98%84%EC%A7%80%EC%9D%B8%20%EB%8C%80%ED%99%94)
 
 | 일본어 | 한글 읽기 | 뜻 |
 | --- | --- | --- |
@@ -84,6 +90,8 @@
 
 ### ③ 마스터 공략 ★★
 
+> 🎬 [마스터와 대화](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%9D%B4%EC%9E%90%EC%B9%B4%EC%95%BC%20%EB%A7%88%EC%8A%A4%ED%84%B0%20%EB%8C%80%ED%99%94) · [단골 만들기](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EB%8B%A8%EA%B3%A8%20%EA%B0%80%EA%B2%8C%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
+
 | 일본어 | 한글 읽기 | 뜻 |
 | --- | --- | --- |
 | **このお店、長いんですか？**<br>このおみせ、ながいんですか？ | 코노 오미세, 나가인데스카? | 이 가게 오래되셨어요? |
@@ -93,6 +101,8 @@
 
 ### ④ 나를 소개
 
+> 🎬 [일본어 자기소개](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C)
+
 | 일본어 | 한글 읽기 | 뜻 |
 | --- | --- | --- |
 | **韓国から来ました**<br>かんこくからきました | 캉코쿠카라 키마시타 | 한국에서 왔어요 |
@@ -101,6 +111,8 @@
 | **いえいえ、まだまだです** | 이에이에, 마다마다데스 | 아니에요, 아직 멀었어요 |
 
 ### ⑤ 마무리
+
+> 🎬 [LINE 교환](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EB%9D%BC%EC%9D%B8%20%EA%B5%90%ED%99%98%20%EC%9D%BC%EB%B3%B8%EC%96%B4) · [일본어 작별 인사](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%ED%97%A4%EC%96%B4%EC%A7%88%20%EB%95%8C%20%EC%9D%B8%EC%82%AC)
 
 | 일본어 | 한글 읽기 | 뜻 |
 | --- | --- | --- |
@@ -165,6 +177,8 @@
 
 ### 식당
 
+> 🎬 [식당 주문](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%8B%9D%EB%8B%B9%20%EC%A3%BC%EB%AC%B8%20%EC%9D%BC%EB%B3%B8%EC%96%B4)
+
 | 일본어 | 한글 읽기 | 뜻 |
 | --- | --- | --- |
 | **ふたりです** | 후타리데스 | 두 명이요 |
@@ -176,6 +190,8 @@
 
 ### 개수·인원 세기
 
+> 🎬 [개수 세는 법](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EA%B0%9C%EC%88%98%20%EC%84%B8%EB%8A%94%20%EB%B2%95%20%ED%9E%88%ED%86%A0%EC%B8%A0)
+
 | 개수 | 읽기 | | 인원 | 읽기 |
 | --- | --- | --- | --- | --- |
 | 1개 | **히토츠** | | 1명 | **히토리** |
@@ -186,6 +202,8 @@
 > 💡 `코레, 후타츠 오네가이시마스` = 이거 두 개 주세요. 손가락으로 표시해도 100% 통합니다.
 
 ### 편의점 — 점원이 묻는 말 3개
+
+> 🎬 [편의점 계산](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%ED%8E%B8%EC%9D%98%EC%A0%90%20%EA%B3%84%EC%82%B0%20%EC%9D%BC%EB%B3%B8%EC%96%B4)
 
 **듣기만 하면 됩니다.** 대답은 둘 중 하나.
 

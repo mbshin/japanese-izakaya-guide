@@ -32,6 +32,8 @@
 
 ### 대화의 황금 비율 (입문자 기준)
 
+> 🎬 [리액션 중요성](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%9D%B8%EA%B3%BC%20%EB%8C%80%ED%99%94%ED%95%98%EB%8A%94%20%EB%B2%95%20%EB%A6%AC%EC%95%A1%EC%85%98)
+
 ```text
 리액션(맞장구)  50%   ← 여기가 제일 중요
 질문             30%
@@ -41,6 +43,8 @@
 **입문자의 가장 흔한 실수**: 자기소개 문장을 열심히 외워 놓고, 그걸 다 말한 뒤 침묵. 자기소개는 15초면 끝납니다. 그 다음 **50분을 버티는 건 리액션과 질문**입니다.
 
 ### 3대 생존 무기
+
+> 🎬 [초보 회화](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%B4%88%EB%B3%B4%20%ED%9A%8C%ED%99%94%20%EB%A7%88%EC%9D%B8%EB%93%9C)
 
 1. **아이즈치(相槌)** — 맞장구. §7에서 집중 훈련
 2. **질문 카드** — 미리 외워 간 질문 20개. §8
@@ -56,6 +60,8 @@
 
 ### 1주차 — 문자와 소리
 
+> 🎬 [히라가나 강의](https://www.youtube.com/results?search_query=%ED%9E%88%EB%9D%BC%EA%B0%80%EB%82%98%2046%EC%9E%90%20%EC%9D%BD%EA%B8%B0%20%EA%B0%95%EC%9D%98)
+
 | 일 | 할 일 | 시간 |
 | --- | --- | --- |
 | 1–2일 | 히라가나 46자 읽기 (§3) | 각 40분 |
@@ -67,6 +73,8 @@
 
 ### 2주차 — 첫 만남 세트
 
+> 🎬 [일본어 자기소개](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C)
+
 | 일 | 할 일 |
 | --- | --- |
 | 1–2일 | §5 첫 만남 30초 스크립트 **통째로 암기** |
@@ -77,6 +85,8 @@
 
 ### 3주차 — 리액션 (가장 중요한 주)
 
+> 🎬 [맞장구](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%A7%9E%EC%9E%A5%EA%B5%AC%20%EB%A6%AC%EC%95%A1%EC%85%98)
+
 | 일 | 할 일 |
 | --- | --- |
 | 1–3일 | §7 아이즈치 12개 암기 + **일본 유튜브/드라마 보며 실시간 따라 하기** |
@@ -86,6 +96,8 @@
 ✅ **통과 기준**: 상대 말이 끝날 때 0.5초 안에 リアクション이 반사적으로 나온다
 
 ### 4주차 — 실전 시뮬레이션
+
+> 🎬 [초면 회화](https://www.youtube.com/results?search_query=%E6%97%A5%E6%9C%AC%E8%AA%9E%20%E5%88%9D%E5%AF%BE%E9%9D%A2%20%E4%BC%9A%E8%A9%B1)
 
 | 일 | 할 일 |
 | --- | --- |
@@ -115,6 +127,8 @@
 
 ### ① 장음 (긴 소리) — 최우선
 
+> 🎬 [장음 구분](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%9E%A5%EC%9D%8C%20%EB%B0%9C%EC%9D%8C%20%EA%B5%AC%EB%B6%84)
+
 한국어에는 없어서 가장 많이 틀립니다.
 
 | 짧게 | 뜻 | 길게 | 뜻 |
@@ -127,14 +141,20 @@
 
 ### ② つ (tsu)
 
+> 🎬 [つ 발음](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%E3%81%A4%20%EB%B0%9C%EC%9D%8C%20%EB%B0%A9%EB%B2%95)
+
 `쓰`도 `츠`도 아닙니다. **`ㅊ` 없이 `ㅅ` 앞에 `ㅌ`를 살짝**. `t + su` 를 붙여서 한 번에.
 
 ### ③ 어두 유성음 (が·ざ·だ·ば)
+
+> 🎬 [탁음 발음](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%E3%81%8C%20%E3%81%96%20%E3%81%A0%20%E3%81%B0%20%EB%B0%9C%EC%9D%8C)
 
 한국어는 단어 첫머리 `ㄱㅈㄷㅂ`가 무성음이라, `がっこう`가 `캇코-`로 들립니다.
 👉 **목에 손을 대고 성대가 떨리는지 확인**하며 연습하세요.
 
 ### ④ ざ / じゃ 구분
+
+> 🎬 [ざ じゃ 구분](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%E3%81%96%20%E3%81%98%E3%82%83%20%EB%B0%9C%EC%9D%8C%20%EA%B5%AC%EB%B6%84)
 
 ```text
 ざ (za)  ← 한국인이 자꾸 じゃ(ja)로 발음
@@ -142,6 +162,8 @@
 ```
 
 ### ⑤ 억양 (고저 악센트)
+
+> 🎬 [고저 악센트](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%95%85%EC%84%BC%ED%8A%B8%20%EC%96%B5%EC%96%91)
 
 일본어는 **높낮이**로 뜻이 갈립니다.
 
@@ -153,6 +175,8 @@
 입문 단계에서 전부 외울 필요는 없지만, **한국어처럼 문장 끝을 올리는 습관**은 고치세요. 일본어 평서문은 끝을 내립니다.
 
 ### 연습법: 섀도잉
+
+> 🎬 [섀도잉 방법](https://www.youtube.com/results?search_query=%EC%84%80%EB%8F%84%EC%9E%89%20%ED%95%98%EB%8A%94%20%EB%B2%95%20%EC%9D%BC%EB%B3%B8%EC%96%B4)
 
 1. 일본어 영상 30초 구간 선택 (자막 있는 것)
 2. 자막 보며 3회 따라 읽기
@@ -170,6 +194,8 @@
 모임에서 처음 만난 사람과의 첫 30초입니다. **이건 생각하지 말고 반사적으로 나와야 합니다.**
 
 ### 스크립트
+
+> 🎬 [첫 인사](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%9D%B8%EC%82%AC%20%ED%91%9C%ED%98%84%20%EC%B2%AB%EB%A7%8C%EB%82%A8)
 
 **① 첫인사**
 
@@ -236,6 +262,8 @@ nihongo, mada heta nan desu kedo...
 
 ### 전체 흐름 예시
 
+> 🎬 [초면 회화](https://www.youtube.com/results?search_query=%E6%97%A5%E6%9C%AC%E8%AA%9E%20%E5%88%9D%E5%AF%BE%E9%9D%A2%20%E4%BC%9A%E8%A9%B1)
+
 ```text
 A: はじめまして。ミンスです。よろしくお願いします。
 B: はじめまして！たなかです。よろしくお願いします。
@@ -275,6 +303,8 @@ nihongo wa mada benkyouchuu desu (일본어는 아직 공부 중이에요)
 
 ### 빈칸 채우기 재료
 
+> 🎬 [취미 말하기](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%B7%A8%EB%AF%B8%20%EB%A7%90%ED%95%98%EA%B8%B0)
+
 **출신지**
 
 | 한국어 | 일본어 | 읽기 |
@@ -311,6 +341,8 @@ nihongo wa mada benkyouchuu desu (일본어는 아직 공부 중이에요)
 
 ### 🎣 **후크(hook) 심기 — 고급 기술**
 
+> 🎬 [자기소개 팁](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%20%EC%9E%98%ED%95%98%EB%8A%94%20%EB%B2%95)
+
 자기소개에 **일부러 질문받고 싶은 미끼**를 하나 넣으세요.
 
 ```text
@@ -332,6 +364,8 @@ nihongo wa mada benkyouchuu desu (일본어는 아직 공부 중이에요)
 
 ### 레벨 1 — 무조건 외울 4개
 
+> 🎬 [맞장구 기본](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%A7%9E%EC%9E%A5%EA%B5%AC%20%EA%B8%B0%EB%B3%B8%20%ED%91%9C%ED%98%84)
+
 | 일본어 | 읽기 | 언제 |
 | --- | --- | --- |
 | うん / はい | un / hai | 계속 들으며 (가장 빈번) |
@@ -342,6 +376,8 @@ nihongo wa mada benkyouchuu desu (일본어는 아직 공부 중이에요)
 > `そうなんですね` 하나만 제대로 써도 대화가 굴러갑니다. **이번 주 안에 무조건 암기.**
 
 ### 레벨 2 — 감정 표현 (모임 분위기를 만드는 것들)
+
+> 🎬 [리액션 표현](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%A6%AC%EC%95%A1%EC%85%98%20%ED%91%9C%ED%98%84)
 
 | 일본어 | 읽기 | 뜻 |
 | --- | --- | --- |
@@ -356,6 +392,8 @@ nihongo wa mada benkyouchuu desu (일본어는 아직 공부 중이에요)
 
 ### 레벨 3 — 반말 버전 (친해진 뒤)
 
+> 🎬 [반말 표현](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%B0%98%EB%A7%90%20%ED%83%80%EB%A9%94%EA%B5%AC%EC%B9%98)
+
 | 정중체 | 반말 |
 | --- | --- |
 | そうなんですね | そうなんだ |
@@ -364,6 +402,8 @@ nihongo wa mada benkyouchuu desu (일본어는 아직 공부 중이에요)
 | わかります | わかる〜 |
 
 ### ⚠️ 아이즈치 3대 주의사항
+
+> 🎬 [맞장구 주의](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%A7%9E%EC%9E%A5%EA%B5%AC%20%ED%95%98%EC%9D%B4%20%EB%82%A8%EB%B0%9C)
 
 **① `はい` 를 남발하지 마세요**
 `はい、はい、はい` 는 한국어의 "네네네"처럼 **재촉/무성의**로 들립니다. `うん` `そうなんですね` `へえ` 를 섞어 쓰세요.
@@ -375,6 +415,8 @@ nihongo wa mada benkyouchuu desu (일본어는 아직 공부 중이에요)
 못 알아듣고 `なるほど` 하면 대화가 산으로 갑니다. 모르면 §9로.
 
 ### 훈련법
+
+> 🎬 [아이즈치 연습](https://www.youtube.com/results?search_query=%E6%97%A5%E6%9C%AC%E8%AA%9E%20%E3%81%82%E3%81%84%E3%81%A5%E3%81%A1%20%E7%B7%B4%E7%BF%92)
 
 일본어 영상(팟캐스트·브이로그·인터뷰)을 틀어 놓고,
 **말이 끊길 때마다 소리 내어 아이즈치를 넣으세요.** 하루 5분, 2주.
@@ -391,6 +433,8 @@ nihongo wa mada benkyouchuu desu (일본어는 아직 공부 중이에요)
 
 ### 안전한 주제 (첫 만남)
 
+> 🎬 [스몰토크](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%8A%A4%EB%AA%B0%ED%86%A0%ED%81%AC%20%EC%A3%BC%EC%A0%9C)
+
 | 일본어 | 읽기 | 뜻 |
 | --- | --- | --- |
 | ご出身はどこですか？<br>ごしゅっしんはどこですか？ | goshusshin wa doko desu ka | 고향이 어디세요? |
@@ -403,6 +447,8 @@ nihongo wa mada benkyouchuu desu (일본어는 아직 공부 중이에요)
 | おすすめの店ありますか？<br>おすすめのみせありますか？ | osusume no mise arimasu ka | 추천 가게 있어요? |
 
 ### 대화를 늘리는 마법의 후속 질문
+
+> 🎬 [되묻기](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%90%98%EB%AC%BB%EA%B8%B0%20%ED%91%9C%ED%98%84)
 
 이 4개면 **어떤 대답에도 이어갈 수 있습니다.**
 
@@ -417,6 +463,8 @@ nihongo wa mada benkyouchuu desu (일본어는 아직 공부 중이에요)
 
 ### 한국인이라는 점을 활용하기 (강력)
 
+> 🎬 [한국 화제](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%9D%B8%EC%9D%B4%20%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94%20%ED%95%9C%EA%B5%AD%20%ED%99%94%EC%A0%9C)
+
 일본인 모임에서 **한국인은 그 자체로 대화 소재**입니다. 먼저 던지세요.
 
 | 일본어 | 뜻 |
@@ -429,6 +477,8 @@ nihongo wa mada benkyouchuu desu (일본어는 아직 공부 중이에요)
 **마지막 문장이 가장 강력합니다.** 정보를 주는 사람이 되면 관계가 이어집니다.
 
 ### 🚫 첫 만남에 피할 질문
+
+> 🎬 [하면 안되는 질문](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%97%90%EC%84%9C%20%ED%95%98%EB%A9%B4%20%EC%95%88%EB%90%98%EB%8A%94%20%EC%A7%88%EB%AC%B8)
 
 | 피할 것 | 이유 |
 | --- | --- |
@@ -461,6 +511,8 @@ nihongo wa mada benkyouchuu desu (일본어는 아직 공부 중이에요)
 
 ### 시간 벌기 필러
 
+> 🎬 [필러 표현](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%E3%81%88%E3%83%BC%E3%81%A8%20%E3%81%82%E3%81%AE%20%ED%95%84%EB%9F%AC)
+
 말이 막힐 때 침묵 대신 이걸 쓰세요. 일본인도 실제로 자주 씁니다.
 
 ```text
@@ -470,6 +522,8 @@ nihongo wa mada benkyouchuu desu (일본어는 아직 공부 중이에요)
 ```
 
 ### 💡 실전 팁
+
+> 🎬 [번역앱 사용](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%97%AC%ED%96%89%20%EB%B2%88%EC%97%AD%EC%95%B1%20%EC%82%AC%EC%9A%A9%EB%B2%95)
 
 - **번역 앱을 꺼내는 건 실례가 아닙니다.** "ちょっと待ってください" 하고 폰을 꺼내세요. 오히려 성실해 보입니다.
 - **모르는 척 웃으며 넘기는 게 최악입니다.** 나중에 대화가 완전히 어긋납니다.
@@ -483,6 +537,8 @@ nihongo wa mada benkyouchuu desu (일본어는 아직 공부 중이에요)
 
 ### 기본 원칙
 
+> 🎬 [존댓말 반말](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%B0%98%EB%A7%90%20%EC%A1%B4%EB%8C%93%EB%A7%90%20%EC%B0%A8%EC%9D%B4)
+
 ```text
 초면       → です・ます체 (정중체)  ※ 무조건
 친해진 후   → タメ口(반말)          ※ 상대가 먼저 제안하기 전엔 유지
@@ -491,6 +547,8 @@ nihongo wa mada benkyouchuu desu (일본어는 아직 공부 중이에요)
 한국과 다른 점: **나이가 많다고 반말을 쓰지 않습니다.** 친밀도만이 기준입니다.
 
 ### 반말 전환 신호
+
+> 🎬 [타메구치](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%ED%83%80%EB%A9%94%EA%B5%AC%EC%B9%98%20%EC%A0%84%ED%99%98)
 
 상대가 이렇게 말하면 반말 OK 신호입니다.
 
@@ -511,6 +569,8 @@ tameguchi demo ii desu ka?
 
 ### 호칭 규칙 — 반드시 지킬 것
 
+> 🎬 [호칭](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%ED%98%B8%EC%B9%AD%20%EC%82%B0%20%EC%BF%A4%20%EC%A7%B1)
+
 | 형태 | 사용 |
 | --- | --- |
 | 田中さん (tanaka-san) | **기본값.** 성 + さん. 초면부터 계속 |
@@ -522,6 +582,8 @@ tameguchi demo ii desu ka?
 > `なんて呼べばいいですか？` (§5-⑤)로 물어보는 게 가장 안전합니다.
 
 ### 정중체 → 반말 변환표
+
+> 🎬 [반말 변환](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%B0%98%EB%A7%90%20%EB%B3%80%ED%99%98%20%EB%B0%A9%EB%B2%95)
 
 | 정중체 | 반말 |
 | --- | --- |
@@ -542,6 +604,8 @@ tameguchi demo ii desu ka?
 **모임의 성패는 여기서 갈립니다.** 대화가 아무리 좋아도 연락처를 안 남기면 끝입니다.
 
 ### LINE 교환 (일본 필수 메신저)
+
+> 🎬 [LINE 사용법](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EB%9D%BC%EC%9D%B8%20LINE%20%EC%82%AC%EC%9A%A9%EB%B2%95)
 
 ```text
 LINEやってますか？
@@ -569,6 +633,8 @@ LINE 교환 안 하실래요?
 
 ### 자연스러운 타이밍
 
+> 🎬 [연락처 교환](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EB%9D%BC%EC%9D%B8%20%EA%B5%90%ED%99%98%20%ED%83%80%EC%9D%B4%EB%B0%8D)
+
 ```text
 ❌ 인사한 지 3분 만에 → 부담스러움
 ⭕ 대화가 잘 통했다고 느낀 직후
@@ -576,6 +642,8 @@ LINE 교환 안 하실래요?
 ```
 
 ### 다음을 만드는 문장
+
+> 🎬 [다음 약속](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%8B%A4%EC%9D%8C%EC%97%90%20%EB%A7%8C%EB%82%98%EC%9A%94%20%ED%91%9C%ED%98%84)
 
 | 일본어 | 뜻 |
 | --- | --- |
@@ -586,6 +654,8 @@ LINE 교환 안 하실래요?
 | 何かあったら連絡してください<br>なにかあったられんらくしてください | 무슨 일 있으면 연락 주세요 |
 
 ### ⚠️ `今度〜しましょう` 의 진짜 의미
+
+> 🎬 [사교적 인사](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EA%B3%A4%EB%8F%84%20%EC%9D%B8%EC%82%AC%20%EC%A7%84%EC%A7%9C%20%EC%9D%98%EB%AF%B8)
 
 일본어의 `今度ごはん行きましょう` 는 **한국어의 "언제 밥 한번 먹자"와 똑같습니다.**
 사교적 인사이지 실제 약속이 아닙니다.
@@ -601,6 +671,8 @@ ii desu ne! raishuu no doyou toka dou desu ka?
 날짜를 꺼내는 사람이 관계를 만듭니다.
 
 ### 모임 다음 날 메시지 (골든 타임)
+
+> 🎬 [LINE 메시지](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%9D%BC%EC%9D%B8%20%EB%A9%94%EC%8B%9C%EC%A7%80%20%ED%91%9C%ED%98%84)
 
 만난 다음 날 **아침~점심 사이**에 짧게 보내세요.
 
@@ -643,15 +715,21 @@ ii desu ne! raishuu no doyou toka dou desu ka?
 
 ### ① 過剰な謙遜은 필요 없지만, 자기 자랑은 금물
 
+> 🎬 [겸손 문화](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EA%B2%B8%EC%86%90%20%EB%AC%B8%ED%99%94%20%EC%BC%84%EC%86%90)
+
 일본에서는 자기 어필이 **한국보다 훨씬 절제**되어 있습니다. 회사·학벌·연봉 이야기는 먼저 꺼내지 마세요.
 
 ### ② 「空気を読む」 — 분위기 읽기
+
+> 🎬 [공기 읽기](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%BF%A0%ED%82%A4%EC%98%A4%20%EC%9A%94%EB%AC%B4%20%EA%B3%B5%EA%B8%B0%20%EC%9D%BD%EA%B8%B0)
 
 - 모두가 웃는데 혼자 진지한 주제로 전환 ❌
 - 한 사람이 말할 때 끊고 들어가기 ❌
 - **말이 끊긴 짧은 침묵은 괜찮습니다.** 억지로 채우려 하지 마세요.
 
 ### ③ 거절은 돌려서
+
+> 🎬 [완곡한 거절](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%99%84%EA%B3%A1%ED%95%9C%20%EA%B1%B0%EC%A0%88%20%ED%91%9C%ED%98%84)
 
 일본인은 `いいえ` `だめです` 같은 직접 거절을 거의 안 씁니다.
 
@@ -666,11 +744,15 @@ ii desu ne! raishuu no doyou toka dou desu ka?
 
 ### ④ 스킨십과 거리
 
+> 🎬 [일본 매너](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%97%AC%ED%96%89%20%EB%A7%A4%EB%84%88%20%EC%A3%BC%EC%9D%98%EC%82%AC%ED%95%AD)
+
 - 어깨 두드리기, 팔 잡기 등 **신체 접촉은 하지 마세요.**
 - 악수도 흔하지 않습니다. **가벼운 목례(会釈)** 가 기본입니다.
 - 대화 거리는 한국보다 조금 멉니다.
 
 ### ⑤ 시간 엄수
+
+> 🎬 [시간 약속](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%8B%9C%EA%B0%84%20%EC%95%BD%EC%86%8D%20%EB%AC%B8%ED%99%94)
 
 모임 시간 **정각보다 5분 일찍** 도착이 기본입니다. 지각은 한국보다 훨씬 부정적으로 받아들여집니다.
 늦을 것 같으면 **미리** 연락하세요:
@@ -682,6 +764,8 @@ sumimasen, gofun hodo okuremasu
 ```
 
 ### ⑥ 첫 만남에 피할 화제 (재확인)
+
+> 🎬 [금기 주제](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%97%90%EC%84%9C%20%ED%95%98%EB%A9%B4%20%EC%95%88%EB%90%98%EB%8A%94%20%EB%A7%90)
 
 ```text
 정치 / 역사 문제 / 독도·위안부 / 종교 / 연봉 / 외모 평가
@@ -695,6 +779,8 @@ sumimasen, gofun hodo okuremasu
 ```
 
 ### ⑦ 반대로, 일본인이 좋아하는 화제
+
+> 🎬 [일본인 화제](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%9D%B8%EC%9D%B4%20%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94%20%EB%8C%80%ED%99%94%20%EC%A3%BC%EC%A0%9C)
 
 ```text
 음식 (라멘·이자카야·지역 명물)  ← 최강
@@ -712,6 +798,8 @@ sumimasen, gofun hodo okuremasu
 > 🎬 **영상으로 보기**: [일본어 칭찬 표현](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%B9%AD%EC%B0%AC%20%ED%91%9C%ED%98%84%20%ED%9A%8C%ED%99%94) · [일본인이 좋아하는 말](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%9D%B8%EC%9D%B4%20%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94%20%EC%B9%AD%EC%B0%AC) · [日本語 褒め方](https://www.youtube.com/results?search_query=%E6%97%A5%E6%9C%AC%E8%AA%9E%20%E8%A4%92%E3%82%81%E6%96%B9%20%E3%83%95%E3%83%AC%E3%83%BC%E3%82%BA)
 
 ### 원칙: 일본의 칭찬은 **외모가 아니라 선택·취향·노력**을 향합니다
+
+> 🎬 [일본어 칭찬](https://www.youtube.com/results?search_query=%E6%97%A5%E6%9C%AC%E8%AA%9E%20%E8%A4%92%E3%82%81%E6%96%B9%20%E3%83%95%E3%83%AC%E3%83%BC%E3%82%BA)
 
 한국에서 흔한 "예쁘시네요"류의 외모 칭찬은, 일본에서 **처음 만난 사이에 쓰면 거의 실패**합니다.
 칭찬 자체를 안 하는 게 아니라 **겨누는 곳이 다릅니다.**
@@ -750,6 +838,8 @@ sumimasen, gofun hodo okuremasu
 > 일본어가 서툰 사람이 이 말을 하면 진심으로 들립니다.
 
 ### 한 단계 깊은 칭찬 — 어느 정도 대화가 된 뒤
+
+> 🎬 [칭찬 표현](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%B9%AD%EC%B0%AC%20%ED%91%9C%ED%98%84%20%ED%9A%8C%ED%99%94)
 
 | 일본어 | 한글 읽기 | 뜻 |
 | --- | --- | --- |
@@ -791,6 +881,8 @@ sumimasen, gofun hodo okuremasu
 ---
 
 ### 🇯🇵 칭찬을 받았을 때 — 일본식으로 받기
+
+> 🎬 [겸손 표현](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EA%B2%B8%EC%86%90%20%ED%91%9C%ED%98%84%20%EC%86%90%EB%82%98%EC%BD%94%ED%86%A0%EB%82%98%EC%9D%B4)
 
 일본에서 칭찬을 그대로 받으면 어색합니다. **한 번 낮추는 것**이 기본입니다.
 

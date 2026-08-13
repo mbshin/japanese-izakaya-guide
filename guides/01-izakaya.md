@@ -32,6 +32,8 @@
 
 ### 난이도표
 
+> 🎬 [다치노미](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EB%8B%A4%EC%B9%98%EB%85%B8%EB%AF%B8%20%EC%84%9C%EC%84%9C%20%EB%A7%88%EC%8B%9C%EB%8A%94%20%EA%B0%80%EA%B2%8C) · [요코초](https://www.youtube.com/results?search_query=%EC%8B%A0%EC%A3%BC%EC%BF%A0%20%EC%9A%94%EC%BD%94%EC%B4%88%20%EA%B3%A8%EB%AA%A9)
+
 | 가게 유형 | 일본어 | 말 트기 | 비고 |
 | --- | --- | --- | --- |
 | **立ち飲み屋** (다치노미야, 서서 마시는 집) | ⭐⭐⭐⭐⭐ | **최상** | 테이블 없이 다닥다닥 서서 마심. 대화가 기본 전제인 공간 |
@@ -49,6 +51,8 @@
 체인 이자카야는 밥 먹기엔 좋지만 **네트워킹 목적이라면 시간 낭비**입니다.
 
 ### 좋은 가게 알아보는 법 (밖에서)
+
+> 🎬 [가게 고르는 법](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%9D%B4%EC%9E%90%EC%B9%B4%EC%95%BC%20%EA%B0%80%EA%B2%8C%20%EA%B3%A0%EB%A5%B4%EB%8A%94%20%EB%B2%95) · [현지인 가게](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EB%A1%9C%EC%BB%AC%20%EC%9D%B4%EC%9E%90%EC%B9%B4%EC%95%BC%20%EC%B0%BE%EB%8A%94%20%EB%B2%95)
 
 ```text
 ✅ 들어가기 좋은 신호
@@ -68,6 +72,8 @@
 ```
 
 ### 시간대
+
+> 🎬 [이자카야 브이로그](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%9D%B4%EC%9E%90%EC%B9%B4%EC%95%BC%20%ED%98%BC%EC%88%A0%20%EB%B8%8C%EC%9D%B4%EB%A1%9C%EA%B7%B8)
 
 | 시간 | 상황 |
 | --- | --- |
@@ -90,6 +96,8 @@
 
 ### 입장 표현
 
+> 🎬 [이자카야 입장](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%9D%B4%EC%9E%90%EC%B9%B4%EC%95%BC%20%EC%9E%85%EC%9E%A5%20%EC%9D%BC%EB%B3%B8%EC%96%B4)
+
 ```text
 一人ですけど、いいですか？
 ひとりですけど、いいですか？
@@ -108,6 +116,8 @@ kauntaa, aitemasu ka?
 
 ### 앉는 위치의 기술
 
+> 🎬 [카운터석 혼술](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%9D%B4%EC%9E%90%EC%B9%B4%EC%95%BC%20%EC%B9%B4%EC%9A%B4%ED%84%B0%EC%84%9D%20%ED%98%BC%EB%B0%A5)
+
 ```text
 카운터 끝자리   → 한쪽만 사람. 대화 기회 절반
 카운터 중앙     → ⭐ 양옆 다 사람. 마스터와도 가까움
@@ -124,6 +134,8 @@ kauntaa, aitemasu ka?
 
 ### 일단 이것만
 
+> 🎬 [とりあえず生](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%9D%B4%EC%9E%90%EC%B9%B4%EC%95%BC%20%EC%83%9D%EB%A7%A5%EC%A3%BC%20%EC%A3%BC%EB%AC%B8)
+
 ```text
 とりあえず、生で
 とりあえず、なまで
@@ -135,6 +147,8 @@ toriaezu, nama de
 ```
 
 ### 음료
+
+> 🎬 [일본 술 종류](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%88%A0%20%EC%A2%85%EB%A5%98%20%ED%95%98%EC%9D%B4%EB%B3%BC%20%EC%82%AC%EC%99%80)
 
 | 일본어 | 읽기 | 뜻 |
 | --- | --- | --- |
@@ -151,6 +165,8 @@ toriaezu, nama de
 
 ### 안주
 
+> 🎬 [이자카야 안주](https://www.youtube.com/results?search_query=%EC%9D%B4%EC%9E%90%EC%B9%B4%EC%95%BC%20%EC%95%88%EC%A3%BC%20%EC%B6%94%EC%B2%9C)
+
 | 일본어 | 읽기 | 뜻 |
 | --- | --- | --- |
 | 枝豆<br>えだまめ | edamame | 삶은 풋콩 (기본 안주) |
@@ -164,6 +180,8 @@ toriaezu, nama de
 
 ### ⚠️ お通し (오토시) — 반드시 알아두세요
 
+> 🎬 [오토시란](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%98%A4%ED%86%A0%EC%8B%9C%20%E3%81%8A%E9%80%9A%E3%81%97)
+
 앉으면 **주문하지 않은 작은 안주**가 나옵니다. 이건 서비스가 아니라 **자릿세 겸 기본요금(300~500엔)** 입니다.
 
 ```text
@@ -174,6 +192,8 @@ toriaezu, nama de
 > ⚠️ 단, **お通し가 1,000엔을 넘거나 메뉴에 표기가 없다면** 경계 신호입니다. §11 참고.
 
 ### 추천 물어보기 — 대화의 시작점
+
+> 🎬 [추천 묻기](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%B6%94%EC%B2%9C%20%EB%AC%BC%EC%96%B4%EB%B3%B4%EA%B8%B0%20%ED%91%9C%ED%98%84)
 
 ```text
 おすすめは何ですか？
@@ -198,12 +218,16 @@ kyou no osusume arimasu ka?
 
 ### 원칙: 사람이 아니라 **사물**에 대해 말하세요
 
+> 🎬 [말 거는 법](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%9D%B8%EC%97%90%EA%B2%8C%20%EB%A7%90%20%EA%B1%B0%EB%8A%94%20%EB%B2%95)
+
 ```text
 ❌ "안녕하세요, 어디서 오셨어요?"   → 갑작스럽고 부담스러움
 ⭕ "그거 뭐예요? 맛있어 보이네요"   → 자연스럽고 거절당할 일 없음
 ```
 
 ### 🥇 최강의 첫 마디 3개
+
+> 🎬 [말 거는 법](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%9D%B8%EC%97%90%EA%B2%8C%20%EB%A7%90%20%EA%B1%B0%EB%8A%94%20%EB%B2%95) · [첫 마디](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%B2%98%EC%9D%8C%20%EB%A7%90%20%EA%B1%B0%EB%8A%94%20%ED%91%9C%ED%98%84)
 
 #### ① 옆사람이 먹는 것을 보고
 
@@ -241,6 +265,8 @@ sumimasen, kore nan desu ka?
 
 ### 나에게 말을 걸어오게 만드는 법 (더 쉬움)
 
+> 🎬 [혼술 브이로그](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%ED%98%BC%EC%88%A0%20%EB%A7%90%20%EA%B1%B8%EB%A6%AC%EB%8A%94%20%EB%B8%8C%EC%9D%B4%EB%A1%9C%EA%B7%B8)
+
 일본인 쪽에서 먼저 말을 걸도록 판을 까는 게 훨씬 편합니다.
 
 | 방법 | 효과 |
@@ -255,6 +281,8 @@ sumimasen, kore nan desu ka?
 
 ### 말을 걸어왔을 때 첫 대답
 
+> 🎬 [일본어 자기소개](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C)
+
 ```text
 外国の方ですか？   (외국분이세요?)
 → はい、韓国から来ました！ (네, 한국에서 왔어요!)
@@ -267,6 +295,8 @@ sumimasen, kore nan desu ka?
 ```
 
 ### 🛟 방어막 — 초반에 반드시
+
+> 🎬 [일본어 못한다 표현](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%84%9C%ED%88%B4%EB%9F%AC%EC%9A%94%20%ED%91%9C%ED%98%84)
 
 ```text
 日本語、まだ下手なんですけど…
@@ -291,6 +321,8 @@ nihongo, benkyouchuu nan desu
 
 ### 왜 마스터인가
 
+> 🎬 [마스터와 대화](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%9D%B4%EC%9E%90%EC%B9%B4%EC%95%BC%20%EB%A7%88%EC%8A%A4%ED%84%B0%20%EB%8C%80%ED%99%94)
+
 ```text
 마스터는 그날 가게의 모든 손님을 압니다
 마스터가 나를 좋아하면 → 손님들에게 소개해 줍니다
@@ -302,6 +334,8 @@ nihongo, benkyouchuu nan desu
 
 ### 호칭
 
+> 🎬 [일본 호칭](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%ED%98%B8%EC%B9%AD%20%EC%82%B0%20%EC%BF%A4%20%EC%A7%B1)
+
 | 호칭 | 대상 |
 | --- | --- |
 | **マスター** (masutaa) | 바·작은 가게 주인 |
@@ -312,6 +346,8 @@ nihongo, benkyouchuu nan desu
 > 애매하면 `すみません` 으로 부르면 됩니다. 안전합니다.
 
 ### 마스터와의 대화 3단계
+
+> 🎬 [가게 이야기](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%9D%B4%EC%9E%90%EC%B9%B4%EC%95%BC%20%EC%82%AC%EC%9E%A5%20%EC%9D%B8%ED%84%B0%EB%B7%B0)
 
 #### 1단계 — 추천 받기 (착석 직후)
 
@@ -350,6 +386,8 @@ kanban menyuu wa nan desu ka?
 
 ### 결정타 — 소개 요청
 
+> 🎬 [단골 문화](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EB%8B%A8%EA%B3%A8%20%EC%A3%A0%EB%A0%8C%20%EB%AC%B8%ED%99%94)
+
 마스터와 어느 정도 대화가 된 뒤:
 
 ```text
@@ -369,6 +407,8 @@ kono omise no jouren-san, ooi n desu ka?
 
 ### 이자카야에서 잘 통하는 주제
 
+> 🎬 [스몰토크 주제](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%8A%A4%EB%AA%B0%ED%86%A0%ED%81%AC%20%EC%A3%BC%EC%A0%9C)
+
 | 주제 | 왜 좋은가 | 표현 |
 | --- | --- | --- |
 | **지금 먹는 음식** ⭐ | 눈앞에 있어 대화가 쉬움 | これ、おいしいですね！ |
@@ -380,6 +420,8 @@ kono omise no jouren-san, ooi n desu ka?
 | 날씨·계절 | 무난한 채우기 | 今日、暑いですね<br>きょう、あついですね |
 
 ### 이자카야 전용 표현
+
+> 🎬 [이자카야 회화](https://www.youtube.com/results?search_query=%EC%9D%B4%EC%9E%90%EC%B9%B4%EC%95%BC%20%EC%9D%BC%EB%B3%B8%EC%96%B4%20%ED%9A%8C%ED%99%94)
 
 | 일본어 | 읽기 | 뜻 |
 | --- | --- | --- |
@@ -394,6 +436,8 @@ kono omise no jouren-san, ooi n desu ka?
 | 강권 거절: もう十分です | mou juubun desu | 이제 충분해요 |
 
 ### 🎣 여행자만의 무기 — "추천해 주세요"
+
+> 🎬 [추천 받기](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%ED%98%84%EC%A7%80%EC%9D%B8%20%EC%B6%94%EC%B2%9C%20%EB%B0%9B%EA%B8%B0)
 
 ```text
 明日、どこ行けばいいですか？
@@ -427,6 +471,8 @@ kankoku kara kimashita
 
 ### 이어지는 단골 질문과 대답
 
+> 🎬 [일본인 질문](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%9D%B8%EC%9D%B4%20%EC%9E%90%EC%A3%BC%20%EB%AC%BB%EB%8A%94%20%EC%A7%88%EB%AC%B8)
+
 | 상대의 질문 | 대답 예시 |
 | --- | --- |
 | 韓国のどこですか？<br>かんこくのどこですか？ | ソウルです |
@@ -435,6 +481,8 @@ kankoku kara kimashita
 | 韓国語、教えてください<br>かんこくご、おしえてください | (한국어 한마디 가르쳐 주기) ⭐ |
 
 ### 내가 던지는 질문
+
+> 🎬 [한국 이야기](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%9D%B8%EC%9D%B4%20%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94%20%ED%95%9C%EA%B5%AD%20%ED%99%94%EC%A0%9C)
 
 | 일본어 | 뜻 |
 | --- | --- |
@@ -448,6 +496,8 @@ kankoku kara kimashita
 > 상대가 따라 하고, 웃고, 사진 찍고 — 여기서 관계가 만들어집니다.
 
 ### ⚠️ 피해야 할 주제 (술자리에서 특히)
+
+> 🎬 [하면 안되는 말](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%97%90%EC%84%9C%20%ED%95%98%EB%A9%B4%20%EC%95%88%EB%90%98%EB%8A%94%20%EB%A7%90)
 
 ```text
 역사 문제 / 독도 / 위안부 / 정치
@@ -469,6 +519,8 @@ kankoku kara kimashita
 
 ### 이자카야용 아이즈치 (짧고 큰 소리로)
 
+> 🎬 [맞장구](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%A7%9E%EC%9E%A5%EA%B5%AC%20%EB%A6%AC%EC%95%A1%EC%85%98)
+
 ```text
 うん / はい          응 / 네
 そうなんですね        그렇군요        ★만능
@@ -481,6 +533,8 @@ kankoku kara kimashita
 ```
 
 ### 🚨 이자카야에서의 함정: 못 알아들었는데 웃고 넘기기
+
+> 🎬 [못 알아들었을 때](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%AA%BB%20%EC%95%8C%EC%95%84%EB%93%A4%EC%97%88%EC%9D%84%20%EB%95%8C%20%ED%91%9C%ED%98%84)
 
 시끄럽고 취해 있으면 **못 알아들은 걸 못 알아들었다고 말하기가 더 어려워집니다.**
 그래도 말하세요. 안 그러면 대화가 완전히 어긋납니다.
@@ -500,6 +554,8 @@ sumimasen, kikoenakatta desu
 
 ### 번역 앱은 이자카야에서 오히려 환영받습니다
 
+> 🎬 [번역앱 사용](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%97%AC%ED%96%89%20%EB%B2%88%EC%97%AD%EC%95%B1%20%EC%82%AC%EC%9A%A9%EB%B2%95)
+
 취기가 있으면 사람들이 번역 앱 쓰는 걸 **재미있어합니다.** 같이 폰에 대고 말하면서 놀게 됩니다. 부끄러워하지 마세요.
 
 ---
@@ -510,6 +566,8 @@ sumimasen, kikoenakatta desu
 
 ### 타이밍
 
+> 🎬 [연락처 교환](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EB%9D%BC%EC%9D%B8%20%EA%B5%90%ED%99%98%20%ED%83%80%EC%9D%B4%EB%B0%8D)
+
 ```text
 ❌ 말 튼 지 10분      → 부담
 ⭕ 한 시간쯤 지나 분위기 좋을 때
@@ -517,6 +575,8 @@ sumimasen, kikoenakatta desu
 ```
 
 ### 표현
+
+> 🎬 [LINE 교환](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EB%9D%BC%EC%9D%B8%20%EA%B5%90%ED%99%98%20%EC%9D%BC%EB%B3%B8%EC%96%B4)
 
 ```text
 LINEやってますか？
@@ -539,6 +599,8 @@ insuta yattemasu ka?
 
 ### 다음을 만드는 문장
 
+> 🎬 [다음 약속](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%8B%A4%EC%9D%8C%EC%97%90%20%EB%A7%8C%EB%82%98%EC%9A%94%20%ED%91%9C%ED%98%84)
+
 | 일본어 | 뜻 |
 | --- | --- |
 | 今日は楽しかったです！<br>きょうはたのしかったです！ | 오늘 즐거웠어요! |
@@ -551,6 +613,8 @@ insuta yattemasu ka?
 
 ### 사진
 
+> 🎬 [사진 부탁](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%82%AC%EC%A7%84%20%EC%B0%8D%EC%96%B4%EC%A3%BC%EC%84%B8%EC%9A%94%20%ED%91%9C%ED%98%84)
+
 ```text
 一緒に写真、いいですか？
 いっしょにしゃしん、いいですか？
@@ -561,6 +625,8 @@ issho ni shashin, ii desu ka?
 > 사진을 찍으면 **보내줄 명분이 생겨** LINE 교환이 자연스러워집니다.
 
 ### 🔁 재방문 — 관계를 만드는 진짜 방법
+
+> 🎬 [단골 만들기](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EB%8B%A8%EA%B3%A8%20%EA%B0%80%EA%B2%8C%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
 **같은 가게에 두 번 가세요.** 이게 이 문서에서 세 번째로 중요한 조언입니다.
 
@@ -579,6 +645,8 @@ issho ni shashin, ii desu ka?
 
 ### 계산
 
+> 🎬 [일본 계산](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%8B%9D%EB%8B%B9%20%EA%B3%84%EC%82%B0%20%EB%B0%A9%EB%B2%95)
+
 ```text
 お会計お願いします
 おかいけいおねがいします
@@ -596,6 +664,8 @@ kaado tsukaemasu ka?
 
 ### 얻어먹게 됐을 때
 
+> 🎬 [한턱 문화](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%ED%95%9C%ED%84%B1%20%EC%98%A4%EA%B3%A0%EB%A3%A8%20%EB%AC%B8%ED%99%94)
+
 일본 이자카야에서 **현지인이 여행자에게 한 잔 사주는 일**은 꽤 자주 있습니다.
 
 ```text
@@ -608,6 +678,8 @@ arigatou gozaimasu! gochisousama desu
 > 내가 사고 싶다면: `一杯おごらせてください` (한 잔 사게 해주세요)
 
 ### 퇴장
+
+> 🎬 [작별 인사](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%ED%97%A4%EC%96%B4%EC%A7%88%20%EB%95%8C%20%EC%9D%B8%EC%82%AC)
 
 ```text
 そろそろ失礼します       슬슬 가볼게요
@@ -628,6 +700,8 @@ arigatou gozaimasu! gochisousama desu
 
 ### 🚨 절대 규칙: 호객꾼을 따라가지 마세요
 
+> 🎬 [호객꾼 주의](https://www.youtube.com/results?search_query=%EA%B0%80%EB%B6%80%ED%82%A4%EC%B4%88%20%ED%98%B8%EA%B0%9D%EA%BE%BC%20%EB%B0%94%EA%B0%80%EC%A7%80%20%EC%A3%BC%EC%9D%98) · [사기 사례](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%97%AC%ED%96%89%20%EC%82%AC%EA%B8%B0%20%EC%A3%BC%EC%9D%98%20%EC%8B%A0%EC%A3%BC%EC%BF%A0)
+
 ```text
 客引き / キャッチ (kyakuhiki / kyatchi) = 길거리 호객꾼
 ```
@@ -642,6 +716,8 @@ arigatou gozaimasu! gochisousama desu
 
 ### 안전 체크리스트
 
+> 🎬 [밤거리 안전](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EB%B0%A4%EA%B1%B0%EB%A6%AC%20%EC%95%88%EC%A0%84%20%EC%A3%BC%EC%9D%98)
+
 ```text
 □ 가격이 가게 밖 또는 메뉴에 명확히 표시돼 있다
 □ 호객꾼을 통해 들어가지 않았다
@@ -652,6 +728,8 @@ arigatou gozaimasu! gochisousama desu
 ```
 
 ### 들어가기 전에 물어볼 것
+
+> 🎬 [오토시 자릿세](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%98%A4%ED%86%A0%EC%8B%9C%20%EC%9E%90%EB%A6%BF%EC%84%B8%20%ED%99%95%EC%9D%B8)
 
 ```text
 お通しはいくらですか？
@@ -673,6 +751,8 @@ chaaji wa arimasu ka?
 
 ### 만약 당했다면
 
+> 🎬 [바가지 대처](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EB%B0%94%EA%B0%80%EC%A7%80%20%EC%88%A0%EC%A7%91%20%EB%8C%80%EC%B2%98)
+
 ```text
 1. 그 자리에서 지불하지 말 것
 2. 「警察を呼びます」(경찰 부르겠습니다) 라고 말하고 110에 전화
@@ -686,6 +766,8 @@ chaaji wa arimasu ka?
 ```
 
 ### 그 밖의 안전 수칙
+
+> 🎬 [밤거리 안전](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EB%B0%A4%EA%B1%B0%EB%A6%AC%20%EC%95%88%EC%A0%84%20%EC%A3%BC%EC%9D%98) · [막차 주의](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EB%A7%89%EC%B0%A8%20%EC%8A%88%EB%8D%B4%20%EC%8B%9C%EA%B0%84)
 
 - **술을 두고 자리를 비우지 마세요**
 - **과음하지 마세요.** 네트워킹이 목적이라면 취하면 목적을 못 이룹니다
@@ -703,6 +785,8 @@ chaaji wa arimasu ka?
 
 ### 도쿄
 
+> 🎬 [오모이데요코초](https://www.youtube.com/results?search_query=%EC%8B%A0%EC%A3%BC%EC%BF%A0%20%EC%98%A4%EB%AA%A8%EC%9D%B4%EB%8D%B0%EC%9A%94%EC%BD%94%EC%B4%88) · [골든가이](https://www.youtube.com/results?search_query=%EC%8B%A0%EC%A3%BC%EC%BF%A0%20%EA%B3%A8%EB%93%A0%EA%B0%80%EC%9D%B4)
+
 | 지역 | 특징 |
 | --- | --- |
 | **新宿 思い出横丁**<br>しんじゅく おもいでよこちょう | 좁은 골목의 작은 가게 밀집. 관광객도 많지만 대화하기 좋음 |
@@ -714,6 +798,8 @@ chaaji wa arimasu ka?
 
 ### 오사카
 
+> 🎬 [오사카 텐마](https://www.youtube.com/results?search_query=%EC%98%A4%EC%82%AC%EC%B9%B4%20%ED%85%90%EB%A7%88%20%EC%88%A0%EC%A7%91%20%EA%B3%A8%EB%AA%A9) · [신세카이](https://www.youtube.com/results?search_query=%EC%98%A4%EC%82%AC%EC%B9%B4%20%EC%8B%A0%EC%84%B8%EC%B9%B4%EC%9D%B4%20%EC%BF%A0%EC%8B%9C%EC%B9%B4%EC%B8%A0)
+
 | 지역 | 특징 |
 | --- | --- |
 | **新世界 / 天王寺**<br>しんせかい / てんのうじ | 串カツ와 서서마시는집. 오사카 특유의 붙임성 |
@@ -723,6 +809,8 @@ chaaji wa arimasu ka?
 > 💡 **오사카는 도쿄보다 낯선 사람에게 말을 잘 겁니다.** 네트워킹 난이도가 확실히 낮습니다. 여행 일정에 오사카가 있다면 그곳에서 먼저 연습하세요.
 
 ### 가게 찾는 법
+
+> 🎬 [타베로그 사용법](https://www.youtube.com/results?search_query=%ED%83%80%EB%B2%A0%EB%A1%9C%EA%B7%B8%20%EC%82%AC%EC%9A%A9%EB%B2%95%20%EC%9D%BC%EB%B3%B8%20%EB%A7%9B%EC%A7%91)
 
 - **食べログ** (tabelog.com) — 일본 최대 맛집 리뷰. 3.5 이상이면 준수
 - **구글맵** — 리뷰 수가 적지만 로컬 가게일수록 좋은 신호
@@ -801,6 +889,8 @@ chaaji wa arimasu ka?
 > 🎬 **영상으로 보기**: [혼자 여행 준비물](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%ED%98%BC%EC%9E%90%20%EC%97%AC%ED%96%89%20%EC%A4%80%EB%B9%84%EB%AC%BC) · [LINE 설치·사용법](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%97%AC%ED%96%89%20%EB%9D%BC%EC%9D%B8%20LINE%20%EC%84%A4%EC%B9%98)
 
 ### 출발 전
+
+> 🎬 [여행 준비물](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%97%AC%ED%96%89%20%EC%A4%80%EB%B9%84%EB%AC%BC%20%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8)
 
 ```text
 □ LINE 계정 + QR 코드 화면 위치 숙지

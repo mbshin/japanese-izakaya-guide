@@ -39,7 +39,21 @@ data/       phrases.json — iOS 앱 시드 (web/index.html 의 DATA 배열에�
 4. **모든 섹션에 유튜브 링크**를 답니다
    - 개별 영상 링크 금지. **퍼센트 인코딩된 검색어 링크**만 사용
      (`https://www.youtube.com/results?search_query=...`) — 영상은 삭제·비공개 전환이 잦습니다
-   - 형식: `> 🎬 **영상으로 보기**: [라벨](url) · [라벨](url)`
+   - 형식: `> 🎬 **영상으로 보기**: [라벨](url) · [라벨](url)` — 하위 섹션은 `> 🎬 [라벨](url)` 로 짧게
+   - **`##` 뿐 아니라 내용이 있는 `###` 하위 섹션에도 답니다.** 체크리스트·출처·치트시트 포인터만 예외
+   - 새 섹션을 추가하면 링크도 같이 답니다. 감사 명령:
+
+  ```bash
+  python3 - <<'EOF'
+  import glob
+  for p in sorted(glob.glob('field/*.md')+glob.glob('guides/*.md')+glob.glob('resources/*.md')):
+      L=open(p,encoding='utf-8').read().split('\n'); f=False
+      for i,ln in enumerate(L):
+          if ln.strip().startswith('```'): f=not f
+          if f or not ln.startswith(('## ','### ')): continue
+          if '🎬' not in ' '.join(L[i+1:i+5]): print(p, ln.strip()[:50])
+  EOF
+  ```
 5. **치트시트는 `field/say.md` / `field/see.md` 두 개로만** 유지합니다. 문서마다 만들지 않습니다
 6. 2026년 기준 제도 정보(면세·IC카드·입국·예약)는 **출처 링크**를 문서 하단에 답니다
 

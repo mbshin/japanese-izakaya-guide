@@ -22,6 +22,8 @@
 
 ### 원칙 ①: 채널 수를 줄이세요
 
+> 🎬 [공부법](https://www.youtube.com/results?search_query=%EC%9C%A0%ED%8A%9C%EB%B8%8C%EB%A1%9C%20%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94%20%EB%B2%95)
+
 입문자가 실패하는 가장 흔한 패턴은 **좋아 보이는 채널을 20개 구독하고 아무것도 안 보는 것**입니다.
 
 ```text
@@ -33,6 +35,8 @@
 ```
 
 ### 원칙 ②: "보는 것"과 "훈련하는 것"을 구분하세요
+
+> 🎬 [섀도잉](https://www.youtube.com/results?search_query=%EC%84%80%EB%8F%84%EC%9E%89%20%ED%95%98%EB%8A%94%20%EB%B2%95%20%EC%9D%BC%EB%B3%B8%EC%96%B4)
 
 | 활동 | 효과 | 하루 배분 |
 | --- | --- | --- |
@@ -103,9 +107,13 @@
 
 ## 3. 4주 유튜브 커리큘럼
 
+> 🎬 [4주 커리큘럼](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%ED%95%9C%EB%8B%AC%20%EA%B3%B5%EB%B6%80%20%ED%9B%84%EA%B8%B0) · [독학 방법](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%8F%85%ED%95%99%20%EB%B0%A9%EB%B2%95%20%EC%B4%88%EB%B3%B4)
+
 본 가이드 §2의 4주 플랜에 유튜브를 붙였습니다. **하루 30~40분** 기준.
 
 ### 1주차 — 문자와 소리
+
+> 🎬 [히라가나](https://www.youtube.com/results?search_query=%ED%9E%88%EB%9D%BC%EA%B0%80%EB%82%98%2046%EC%9E%90%20%EC%9D%BD%EA%B8%B0%20%EA%B0%95%EC%9D%98)
 
 | 일 | 볼 것 | 할 것 | 시간 |
 | --- | --- | --- | --- |
@@ -124,6 +132,8 @@
 
 ### 2주차 — 첫 만남 세트
 
+> 🎬 [자기소개](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C)
+
 | 일 | 볼 것 | 할 것 |
 | --- | --- | --- |
 | 1–2 | [일본어 자기소개](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C) 검색 결과 중 **조회수 상위 2개** | 본 가이드 §5 스크립트와 대조하며 발음 확인 |
@@ -135,6 +145,8 @@
 ---
 
 ### 3주차 — 리액션 (가장 중요한 주)
+
+> 🎬 [맞장구](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%A7%9E%EC%9E%A5%EA%B5%AC%20%EB%A6%AC%EC%95%A1%EC%85%98)
 
 | 일 | 볼 것 | 할 것 |
 | --- | --- | --- |
@@ -155,6 +167,8 @@
 ---
 
 ### 4주차 — 실전 시뮬레이션
+
+> 🎬 [초면 회화](https://www.youtube.com/results?search_query=%E6%97%A5%E6%9C%AC%E8%AA%9E%20%E5%88%9D%E5%AF%BE%E9%9D%A2%20%E4%BC%9A%E8%A9%B1)
 
 | 일 | 볼 것 | 할 것 |
 | --- | --- | --- |
@@ -193,6 +207,8 @@
 
 ### 재생 설정 (모르면 손해)
 
+> 🎬 [자막 재생속도](https://www.youtube.com/results?search_query=%EC%9C%A0%ED%8A%9C%EB%B8%8C%20%EC%9E%AC%EC%83%9D%EC%86%8D%EB%8F%84%20%EC%9E%90%EB%A7%89%20%EC%84%A4%EC%A0%95)
+
 | 기능 | 방법 | 왜 |
 | --- | --- | --- |
 | **재생 속도 0.75배** | 톱니바퀴 → 재생 속도 | 입문자에겐 원속도가 너무 빠름. 익숙해지면 1.0 → 1.25로 |
@@ -214,6 +230,8 @@
 특히 **「99_모임 직전 5분」** 재생목록을 만들어 두세요. 모임 가는 지하철에서 이것만 돌리면 됩니다.
 
 ### ⏱️ 시간이 없는 날 (10분 코스)
+
+> 🎬 [10분 공부](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%ED%95%98%EB%A3%A8%2010%EB%B6%84%20%EA%B3%B5%EB%B6%80)
 
 ```text
 1. Comprehensible Japanese 초급 영상 1개 틀기      (5분)
