@@ -3,7 +3,7 @@
 > **시나리오**: 일본 골프장에서 처음 만난 일본인들과 5시간을 함께 보내고 관계를 만든다
 > **핵심**: 일본에는 **혼자 예약하면 모르는 사람들과 한 조로 묶어주는 시스템(1人予約)** 이 있습니다
 >
-> 관련: [01-izakaya.md](./01-izakaya.md) · [03-conversation.md](./03-conversation.md) · [00-say.md](./00-say.md)
+> 관련: [01-izakaya.md](./01-izakaya.md) · [03-conversation.md](./03-conversation.md) · [00-say.md](../field/say.md)
 
 ---
 

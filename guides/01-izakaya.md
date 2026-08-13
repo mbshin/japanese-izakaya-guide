@@ -4,7 +4,7 @@
 > **난이도**: 일본어 입문자도 가능. 단, **가게를 잘못 고르면 절대 불가능**합니다
 >
 > 또 다른 네트워킹 채널: **[02-golf.md](./02-golf.md)** (골프 — 1人予約으로 5시간 동행)
-> 관련: [05-travel.md](./05-travel.md) · [03-conversation.md](./03-conversation.md) · [90-youtube.md](./90-youtube.md)
+> 관련: [05-travel.md](./05-travel.md) · [03-conversation.md](./03-conversation.md) · [90-youtube.md](../resources/youtube.md)
 
 ---
 
@@ -767,9 +767,9 @@ chaaji wa arimasu ka?
 
 ---
 
-## 14. 치트시트 — [00-say.md](./00-say.md)
+## 14. 치트시트 — [00-say.md](../field/say.md)
 
-현장에서 볼 문장은 **[00-say.md](./00-say.md)** 한 장에 통합했습니다.
+현장에서 볼 문장은 **[00-say.md](../field/say.md)** 한 장에 통합했습니다.
 이자카야 입장·말 걸기·마스터 공략·마무리·안전 표현이 모두 들어 있습니다.
 
 > 📱 가게 들어가기 전, 폰 앨범 맨 앞에서 30초만 훑어보세요.
@@ -784,7 +784,7 @@ chaaji wa arimasu ka?
 
 ```text
 □ LINE 계정 + QR 코드 화면 위치 숙지
-□ [00-say.md](./00-say.md) 캡처해서 폰 앨범 맨 앞에
+□ [00-say.md](../field/say.md) 캡처해서 폰 앨범 맨 앞에
 □ §4 첫 마디 3개 암기 (それ、おいしそうですね 필수)
 □ 아이즈치 6개 반사적으로 나오게
 □ 번역 앱 오프라인 팩 다운로드

@@ -10,22 +10,21 @@
 - **사용자 수준**: 절대 입문. **히라가나·가타카나를 읽지 못합니다**
 - **문서 언어**: 한국어. 일본어 예문에는 **반드시 한글 읽기**를 붙입니다
 
-## 문서 구조
+## 디렉터리 구조
 
-번호 = 최종 목적(네트워킹)에 대한 기여도 순입니다. 읽는 순서가 아닙니다.
+```text
+field/      현장에서 폰으로 여는 카드 — say.md(말하기) / see.md(읽기)
+guides/     미리 읽는 본문. 번호 = 네트워킹 목적에 대한 기여도
+            01-izakaya  02-golf  03-conversation  04-kana  05-travel
+resources/  youtube.md — 채널 카탈로그·4주 커리큘럼
+web/        index.html — 모바일 현장 카드 (단일 파일, 빌드 없음)
+data/       phrases.json — iOS 앱 시드 (web/index.html 의 DATA 배열에서 추출)
+```
 
-| 파일 | 역할 |
-| --- | --- |
-| `00-say.md` | 🗣️ 말하기 카드 — 입으로 말할 문장. 현장에서 폰으로 여는 것 |
-| `00-see.md` | 👀 읽기 카드 — 간판·가나·금액·메뉴. 눈으로 대조하는 것 |
-| `01-izakaya.md` | 🎯 네트워킹 ① 이자카야·다치노미 |
-| `02-golf.md` | 🎯 네트워킹 ② 골프 (1人予約) |
-| `03-conversation.md` | ⚙️ 대화 엔진 — 아이즈치, 위기 탈출, 자기소개, 존댓말 |
-| `04-kana.md` | 🧱 히라가나·가타카나 전체 |
-| `05-travel.md` | 🧳 여행 생존 — 교통·식당·편의점·면세 |
-| `90-youtube.md` | 🎬 학습 도구 — 채널 카탈로그, 4주 커리큘럼 |
+`field/`와 `guides/`의 분리 기준은 **언제 여는가**입니다.
+`field/`는 이자카야 카운터에서, `guides/`는 출발 전에 읽습니다.
 
-`00-`은 현장 카드, `01~02`는 목표 장면, `03~05`는 지원, `90-`은 도구입니다.
+`web/index.html` 의 문장을 고치면 `data/phrases.json` 도 다시 추출해야 합니다.
 
 ## 작성 규칙 (사용자가 명시적으로 정한 것)
 
@@ -39,7 +38,7 @@
    - 개별 영상 링크 금지. **퍼센트 인코딩된 검색어 링크**만 사용
      (`https://www.youtube.com/results?search_query=...`) — 영상은 삭제·비공개 전환이 잦습니다
    - 형식: `> 🎬 **영상으로 보기**: [라벨](url) · [라벨](url)`
-5. **치트시트는 `00-say.md` / `00-see.md` 두 개로만** 유지합니다. 문서마다 만들지 않습니다
+5. **치트시트는 `field/say.md` / `field/see.md` 두 개로만** 유지합니다. 문서마다 만들지 않습니다
 6. 2026년 기준 제도 정보(면세·IC카드·입국·예약)는 **출처 링크**를 문서 하단에 답니다
 
 ## 톤
@@ -59,12 +58,24 @@
 ## 향후 계획
 
 사용자는 **이 콘텐츠로 iOS 앱을 만들고 싶어 합니다.** 그래서 표의 칸 구조를 문서 간 일관되게 유지합니다.
-앱 작업을 시작한다면 첫 단계는 문서 재작성이 아니라 **`data/phrases.json` 추출**입니다.
-필드 예시: `id`, `ja`, `kana`, `ko_reading`, `ko_meaning`, `scene`, `priority`.
+`data/phrases.json` 에 시드 97건이 이미 있습니다 (say 75 / read 22).
+다음 단계는 `guides/` 의 표에서 나머지 문장을 같은 스키마로 추가 추출하는 것입니다.
+스키마는 `data/README.md` 참고.
 
 ## 작업 시 주의
 
 - 이 저장소는 **공개(public)** 입니다: https://github.com/mbshin/japanese-izakaya-guide
-- 파일을 재배치·개명할 때 **문서 간 상대 링크를 반드시 함께 갱신**하세요
-  검사: `grep -oh '\](\./[^)]*)' *.md | sed 's/](\.\///;s/)//' | sort -u | while read x; do [ -f "$x" ] || echo "MISSING: $x"; done`
+- 파일을 재배치·개명할 때 **문서 간 상대 링크를 반드시 함께 갱신**하세요. 디렉터리가 나뉘어 있어 깊이가 다릅니다
+  검사 스크립트:
+
+  ```bash
+  python3 - <<'EOF'
+  import os,re,glob
+  for p in [x for x in glob.glob('**/*.md',recursive=True) if '.git' not in x]:
+      d=os.path.dirname(p) or '.'
+      for m in re.finditer(r'\]\((\.{1,2}/[^)#]+)\)', open(p,encoding='utf-8').read()):
+          t=os.path.normpath(os.path.join(d,m.group(1)))
+          if not os.path.exists(t): print('MISSING',p,m.group(1))
+  EOF
+  ```
 - 편집기에 markdownlint가 켜져 있습니다. 표 구분줄은 `| --- | --- |`, 코드펜스에는 언어(` ```text `)를 붙입니다
