@@ -3,7 +3,7 @@
 > **목표**: 쓰기 말고 **읽기**. 간판·메뉴·LINE 메시지를 더듬거려도 읽을 수 있으면 성공입니다.
 > **소요**: 히라가나 3~5일, 가타카나 2~3일 (하루 30분 기준)
 >
-> 관련: [00-cheatsheet.md](./00-cheatsheet.md) · [02-conversation.md](./02-conversation.md) · [90-youtube.md](./90-youtube.md)
+> 관련: [00-say.md](./00-say.md) · [03-conversation.md](./03-conversation.md) · [90-youtube.md](./90-youtube.md)
 
 > 🎬 **영상으로 보기**: [히라가나 쓰기 읽기 강의](https://www.youtube.com/results?search_query=%ED%9E%88%EB%9D%BC%EA%B0%80%EB%82%98%20%EC%93%B0%EA%B8%B0%20%EC%9D%BD%EA%B8%B0%20%EA%B0%95%EC%9D%98) · [가타카나 강의](https://www.youtube.com/results?search_query=%EA%B0%80%ED%83%80%EC%B9%B4%EB%82%98%20%EA%B0%95%EC%9D%98) · [히라가나 외우는 법 연상법](https://www.youtube.com/results?search_query=%ED%9E%88%EB%9D%BC%EA%B0%80%EB%82%98%20%EC%99%B8%EC%9A%B0%EB%8A%94%20%EB%B2%95%20%EC%97%B0%EC%83%81%EB%B2%95) · [Learn Hiragana in 1 hour](https://www.youtube.com/results?search_query=Learn%20Hiragana%20in%201%20hour)
 
@@ -420,7 +420,9 @@ arigatou    →  ありがとう
 
 ## 다음 단계
 
-글자가 읽히기 시작하면 → [02-conversation.md](./02-conversation.md) 로 이동해 **§7 아이즈치**부터 보세요.
-현장에서 쓸 문장은 [00-cheatsheet.md](./00-cheatsheet.md) 에 정리돼 있습니다.
+> 🎬 **영상으로 보기**: [히라가나 다음 단계](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%ED%9E%88%EB%9D%BC%EA%B0%80%EB%82%98%20%EB%8B%A4%EC%9D%8C%20%EB%8B%A8%EA%B3%84%20%EA%B3%B5%EB%B6%80) · [기초 문법 입문](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EA%B8%B0%EC%B4%88%20%EB%AC%B8%EB%B2%95%20%EC%B4%88%EB%B3%B4)
+
+글자가 읽히기 시작하면 → [03-conversation.md](./03-conversation.md) 로 이동해 **§7 아이즈치**부터 보세요.
+현장에서 쓸 문장은 [00-say.md](./00-say.md) 에 정리돼 있습니다.
 
 **がんばって！** ✍️

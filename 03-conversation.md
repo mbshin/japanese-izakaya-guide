@@ -12,6 +12,8 @@
 
 ## 0. 이 가이드 사용법
 
+> 🎬 **영상으로 보기**: [한글 표기의 한계](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%B0%9C%EC%9D%8C%20%ED%95%9C%EA%B8%80%20%ED%91%9C%EA%B8%B0%20%EC%A3%BC%EC%9D%98) · [로마자 표기 읽는 법](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%A1%9C%EB%A7%88%EC%9E%90%20%ED%91%9C%EA%B8%B0%20%EC%9D%BD%EB%8A%94%20%EB%B2%95)
+
 | 표기 | 의미 |
 | --- | --- |
 | `こんにちは` | 실제 일본어 |
@@ -23,6 +25,8 @@
 ---
 
 ## 1. 마인드셋: 입문자가 모임에서 살아남는 법
+
+> 🎬 **영상으로 보기**: [리액션이 중요한 이유](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%9D%B8%EA%B3%BC%20%EB%8C%80%ED%99%94%ED%95%98%EB%8A%94%20%EB%B2%95%20%EB%A6%AC%EC%95%A1%EC%85%98) · [초보 회화 마인드](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%B4%88%EB%B3%B4%20%ED%9A%8C%ED%99%94%20%EB%A7%88%EC%9D%B8%EB%93%9C)
 
 일본어 실력이 낮아도 모임에서 인기 있는 사람의 공통점은 **말을 많이 하는 사람이 아니라, 상대가 말하기 편한 사람**입니다.
 
@@ -45,6 +49,8 @@
 ---
 
 ## 2. 4주 학습 플랜
+
+> 🎬 **영상으로 보기**: [일본어 독학 방법](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%8F%85%ED%95%99%20%EB%B0%A9%EB%B2%95%20%EC%B4%88%EB%B3%B4) · [한 달 공부 후기](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%ED%95%9C%EB%8B%AC%20%EA%B3%B5%EB%B6%80%20%ED%9B%84%EA%B8%B0) · [회화 공부 순서](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%ED%9A%8C%ED%99%94%20%EA%B3%B5%EB%B6%80%EB%B2%95%20%EC%88%9C%EC%84%9C)
 
 실제로 모임에 나가는 날을 **4주 뒤로 잡고** 역산하세요.
 
@@ -90,10 +96,10 @@
 
 ---
 
-## 3. 문자 — [03-kana.md](./03-kana.md) 로 분리했습니다
+## 3. 문자 — [04-kana.md](./04-kana.md) 로 분리했습니다
 
 히라가나·가타카나 전체표, 탁음·요음·촉음·장음, 헷갈리는 짝 구분법, 이름 가타카나 표기,
-일본어 타이핑 설정까지 **[03-kana.md](./03-kana.md)** 에 정리했습니다.
+일본어 타이핑 설정까지 **[04-kana.md](./04-kana.md)** 에 정리했습니다.
 
 > 🎬 **영상으로 보기**: [히라가나 쓰기 읽기 강의](https://www.youtube.com/results?search_query=%ED%9E%88%EB%9D%BC%EA%B0%80%EB%82%98%20%EC%93%B0%EA%B8%B0%20%EC%9D%BD%EA%B8%B0%20%EA%B0%95%EC%9D%98) · [가타카나 강의](https://www.youtube.com/results?search_query=%EA%B0%80%ED%83%80%EC%B9%B4%EB%82%98%20%EA%B0%95%EC%9D%98)
 
@@ -609,6 +615,8 @@ ii desu ne! raishuu no doyou toka dou desu ka?
 
 ## 12. 식사·술자리 — [01-izakaya.md](./01-izakaya.md) 참고
 
+> 🎬 **영상으로 보기**: [노미카이(飲み会) 문화](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%88%A0%EC%9E%90%EB%A6%AC%20%EB%AC%B8%ED%99%94%20%EB%85%B8%EB%AF%B8%EC%B9%B4%EC%9D%B4) · [와리캉(割り勘)](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EB%8D%94%EC%B9%98%ED%8E%98%EC%9D%B4%20%EC%99%80%EB%A6%AC%EC%BA%89)
+
 이 문서는 원래 모임·밋업 기준으로 쓰였습니다.
 **여행 중 이자카야에서의 주문·술 종류·계산·퇴장 표현**은 [01-izakaya.md §3·§10](./01-izakaya.md) 에 더 자세히 있습니다.
 
@@ -697,9 +705,9 @@ sumimasen, gofun hodo okuremasu
 
 ---
 
-## 14. 치트시트 — [00-cheatsheet.md](./00-cheatsheet.md)
+## 14. 치트시트 — [00-say.md](./00-say.md)
 
-현장용 문장은 **[00-cheatsheet.md](./00-cheatsheet.md)** 한 장에 모두 통합했습니다.
+현장용 문장은 **[00-say.md](./00-say.md)** 한 장에 모두 통합했습니다.
 폰 앨범 맨 앞에 캡처해 두세요. 이 문서의 인사·아이즈치·질문·위기탈출이 모두 들어 있습니다.
 
 ---

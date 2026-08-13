@@ -1,6 +1,6 @@
 # 유튜브 기반 일본어 학습 로드맵
 
-> [02-conversation.md](./02-conversation.md) 의 **실행 편**입니다.
+> [03-conversation.md](./03-conversation.md) 의 **실행 편**입니다.
 > 본 가이드가 "무엇을 말할지"라면, 이 문서는 "어디서 배울지"입니다.
 >
 > **대상**: 입문자 (히라가나부터) / **목표**: 캐주얼 모임 대화
@@ -17,6 +17,8 @@
 ---
 
 ## 1. 유튜브로 일본어를 배울 때의 원칙
+
+> 🎬 **영상으로 보기**: [유튜브 공부법](https://www.youtube.com/results?search_query=%EC%9C%A0%ED%8A%9C%EB%B8%8C%EB%A1%9C%20%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94%20%EB%B2%95) · [섀도잉 방법](https://www.youtube.com/results?search_query=%EC%84%80%EB%8F%84%EC%9E%89%20%ED%95%98%EB%8A%94%20%EB%B2%95%20%EC%9D%BC%EB%B3%B8%EC%96%B4)
 
 ### 원칙 ①: 채널 수를 줄이세요
 
@@ -171,7 +173,7 @@
 
 | 가이드 섹션 | 볼 채널 / 검색어 |
 | --- | --- |
-| [03-kana.md](./03-kana.md) 문자 | 유하다요, 시원스쿨, PuniPuniJapan / [히라가나 강의](https://www.youtube.com/results?search_query=%ED%9E%88%EB%9D%BC%EA%B0%80%EB%82%98%20%EC%93%B0%EA%B8%B0%20%EC%9D%BD%EA%B8%B0%20%EA%B0%95%EC%9D%98) |
+| [04-kana.md](./04-kana.md) 문자 | 유하다요, 시원스쿨, PuniPuniJapan / [히라가나 강의](https://www.youtube.com/results?search_query=%ED%9E%88%EB%9D%BC%EA%B0%80%EB%82%98%20%EC%93%B0%EA%B8%B0%20%EC%9D%BD%EA%B8%B0%20%EA%B0%95%EC%9D%98) |
 | §4 발음 | [일본어 발음 장음 촉음](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%B0%9C%EC%9D%8C%20%EC%9E%A5%EC%9D%8C%20%EC%B4%89%EC%9D%8C), Onomappu(발음 편) |
 | §5 첫 만남 | [Japanese self introduction beginner](https://www.youtube.com/results?search_query=Japanese%20self%20introduction%20beginner) |
 | §6 자기소개 | [일본어 자기소개](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C) |
@@ -186,6 +188,8 @@
 ---
 
 ## 5. 유튜브 200% 활용법
+
+> 🎬 **영상으로 보기**: [재생속도·자막 설정](https://www.youtube.com/results?search_query=%EC%9C%A0%ED%8A%9C%EB%B8%8C%20%EC%9E%AC%EC%83%9D%EC%86%8D%EB%8F%84%20%EC%9E%90%EB%A7%89%20%EC%84%A4%EC%A0%95) · [구간 반복 설정](https://www.youtube.com/results?search_query=%EC%9C%A0%ED%8A%9C%EB%B8%8C%20%EB%B0%98%EB%B3%B5%20%EC%9E%AC%EC%83%9D%20%EA%B5%AC%EA%B0%84%20%EC%84%A4%EC%A0%95)
 
 ### 재생 설정 (모르면 손해)
 
@@ -223,6 +227,8 @@
 ---
 
 ## 6. 흔한 함정
+
+> 🎬 **영상으로 보기**: [공부 실패 이유](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EA%B3%B5%EB%B6%80%20%EC%8B%A4%ED%8C%A8%20%EC%9D%B4%EC%9C%A0) · [애니 말투 주의](https://www.youtube.com/results?search_query=%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%20%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%B0%B0%EC%9A%B0%EB%A9%B4%20%EC%95%88%EB%90%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0)
 
 | 함정 | 왜 문제인가 | 대신 |
 | --- | --- | --- |

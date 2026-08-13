@@ -3,11 +3,13 @@
 > **목적이 여행이라면 우선순위가 완전히 달라집니다.**
 > 모임에서는 "관계를 만드는 것"이 목표라 리액션이 핵심이었지만, 여행에서는 **필요한 것을 얻고 길을 잃지 않는 것**이 목표입니다.
 >
-> 관련 문서: [02-conversation.md](./02-conversation.md) · [90-youtube.md](./90-youtube.md)
+> 관련 문서: [03-conversation.md](./03-conversation.md) · [90-youtube.md](./90-youtube.md)
 
 ---
 
 ## 0. 여행 vs 네트워킹 — 무엇이 달라지나
+
+> 🎬 **영상으로 보기**: [자유여행 준비 순서](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%9E%90%EC%9C%A0%EC%97%AC%ED%96%89%20%EC%A4%80%EB%B9%84%20%EC%88%9C%EC%84%9C)
 
 | | 네트워킹 | **여행** |
 | --- | --- | --- |
@@ -33,6 +35,8 @@
 ---
 
 ## 1. 현실 점검: 일본어 없이도 여행은 됩니다
+
+> 🎬 **영상으로 보기**: [일본어 없이 여행 가능한가](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%97%AC%ED%96%89%20%EC%9D%BC%EB%B3%B8%EC%96%B4%20%ED%95%84%EC%9A%94%ED%95%9C%EA%B0%80) · [영어 통하는지](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%97%AC%ED%96%89%20%EC%98%81%EC%96%B4%20%ED%86%B5%ED%95%98%EB%82%98)
 
 솔직하게 말하면, **주요 관광지에서는 일본어 없이도 여행이 가능합니다.** 영어 표기·번역 앱·손가락 가리키기로 대부분 해결됩니다.
 
@@ -636,6 +640,8 @@ kono juusho ni ikitai n desu ga
 
 ## 14. 여행 전 준비 체크리스트
 
+> 🎬 **영상으로 보기**: [여행 준비물 체크리스트](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%97%AC%ED%96%89%20%EC%A4%80%EB%B9%84%EB%AC%BC%20%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8) · [필수 앱 추천](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%97%AC%ED%96%89%20%ED%95%84%EC%88%98%20%EC%95%B1)
+
 ### 출발 4주 전
 
 ```text
@@ -678,9 +684,9 @@ kono juusho ni ikitai n desu ga
 
 ---
 
-## 15. 치트시트 — [00-cheatsheet.md](./00-cheatsheet.md)
+## 15. 치트시트 — [00-say.md](./00-say.md)
 
-만능 문장·간판 한자·숫자·식당·편의점·교통 표현은 **[00-cheatsheet.md](./00-cheatsheet.md)** 한 장에 통합했습니다.
+만능 문장·간판 한자·숫자·식당·편의점·교통 표현은 **[00-say.md](./00-say.md)** 한 장에 통합했습니다.
 
 ---
 
@@ -709,7 +715,7 @@ kono juusho ni ikitai n desu ga
 | 2주 | 1–2 | §8 식당 + 관련 영상 |
 | | 3 | §9 편의점 (3문장뿐) |
 | | 4–5 | §6 교통 + IC 카드 발급 |
-| | 6–7 | [00-cheatsheet.md](./00-cheatsheet.md) 캡처, 앱 설치, 롤플레잉 |
+| | 6–7 | [00-say.md](./00-say.md) 캡처, 앱 설치, 롤플레잉 |
 
 > 🎬 여행 준비에는 **한국인 여행 유튜버의 현지 브이로그**가 강의보다 유용합니다. 실제 자판기 화면, 개찰구, 편의점 계산대를 눈으로 보고 가는 것과 아닌 것은 차이가 큽니다.
 

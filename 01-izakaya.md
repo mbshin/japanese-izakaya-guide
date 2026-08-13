@@ -3,11 +3,14 @@
 > **시나리오**: 일본 여행 중 이자카야·서서마시는집에서 **현지인과 말을 트고 관계를 만든다**
 > **난이도**: 일본어 입문자도 가능. 단, **가게를 잘못 고르면 절대 불가능**합니다
 >
-> 관련: [04-travel.md](./04-travel.md) · [02-conversation.md](./02-conversation.md) · [90-youtube.md](./90-youtube.md)
+> 또 다른 네트워킹 채널: **[02-golf.md](./02-golf.md)** (골프 — 1人予約으로 5시간 동행)
+> 관련: [05-travel.md](./05-travel.md) · [03-conversation.md](./03-conversation.md) · [90-youtube.md](./90-youtube.md)
 
 ---
 
 ## 0. 핵심 명제
+
+> 🎬 **영상으로 보기**: [이자카야 문화](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%9D%B4%EC%9E%90%EC%B9%B4%EC%95%BC%20%EB%AC%B8%ED%99%94%20%EC%84%A4%EB%AA%85) · [일본 혼술 문화](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%ED%98%BC%EC%88%A0%20%EB%AC%B8%ED%99%94%20%E4%B8%80%E4%BA%BA%E9%A3%B2%E3%81%BF)
 
 ```text
 이자카야 네트워킹의 성패는
@@ -400,6 +403,8 @@ kono hen de osusume no omise, arimasu ka?
 
 ## 7. 한국인 카드 — 적극 활용하세요
 
+> 🎬 **영상으로 보기**: [일본인이 좋아하는 한국 화제](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%9D%B8%EC%9D%B4%20%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94%20%ED%95%9C%EA%B5%AD%20%EC%9D%B4%EC%95%BC%EA%B8%B0) · [한국어 가르쳐 주기](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%9D%B8%EC%97%90%EA%B2%8C%20%ED%95%9C%EA%B5%AD%EC%96%B4%20%EA%B0%80%EB%A5%B4%EC%B9%98%EA%B8%B0) · [한국 여행 반응](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%9D%B8%20%ED%95%9C%EA%B5%AD%20%EC%97%AC%ED%96%89%20%EB%B0%98%EC%9D%91)
+
 일본 이자카야에서 **한국인이라는 사실 자체가 대화 자원**입니다. 숨기지 말고 먼저 꺼내세요.
 
 ```text
@@ -447,7 +452,7 @@ kankoku kara kimashita
 
 > 🎬 **영상으로 보기**: [일본어 맞장구](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EB%A7%9E%EC%9E%A5%EA%B5%AC%20%EB%A6%AC%EC%95%A1%EC%85%98) · [あいづち (JP)](https://www.youtube.com/results?search_query=%E6%97%A5%E6%9C%AC%E8%AA%9E%20%E3%81%82%E3%81%84%E3%81%A5%E3%81%A1%20%E7%B7%B4%E7%BF%92)
 
-[네트워킹 가이드 §7](./02-conversation.md)의 아이즈치가 **이자카야에서 그대로, 아니 더 중요하게** 작동합니다.
+[네트워킹 가이드 §7](./03-conversation.md)의 아이즈치가 **이자카야에서 그대로, 아니 더 중요하게** 작동합니다.
 다만 시끄러워서 **못 알아듣는 상황이 훨씬 잦습니다.**
 
 ### 이자카야용 아이즈치 (짧고 큰 소리로)
@@ -553,6 +558,8 @@ issho ni shashin, ii desu ka?
 ---
 
 ## 10. 계산과 퇴장
+
+> 🎬 **영상으로 보기**: [일본 계산 방법](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%8B%9D%EB%8B%B9%20%EA%B3%84%EC%82%B0%20%EB%B0%A9%EB%B2%95) · [일본 팁 문화](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%ED%8C%81%20%EB%AC%B8%ED%99%94%20%EC%97%86%EB%8A%94%20%EC%9D%B4%EC%9C%A0)
 
 ### 계산
 
@@ -705,6 +712,8 @@ chaaji wa arimasu ka?
 
 ## 13. 전체 시뮬레이션
 
+> 🎬 **영상으로 보기**: [이자카야 상황극](https://www.youtube.com/results?search_query=%EC%9D%B4%EC%9E%90%EC%B9%B4%EC%95%BC%20%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%83%81%ED%99%A9%EA%B7%B9%20%ED%9A%8C%ED%99%94) · [실제 대화 영상](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%9D%B4%EC%9E%90%EC%B9%B4%EC%95%BC%20%EC%8B%A4%EC%A0%9C%20%EB%8C%80%ED%99%94)
+
 실제 흐름입니다. 소리 내어 3회 읽어보세요.
 
 ```text
@@ -758,9 +767,9 @@ chaaji wa arimasu ka?
 
 ---
 
-## 14. 치트시트 — [00-cheatsheet.md](./00-cheatsheet.md)
+## 14. 치트시트 — [00-say.md](./00-say.md)
 
-현장에서 볼 문장은 **[00-cheatsheet.md](./00-cheatsheet.md)** 한 장에 통합했습니다.
+현장에서 볼 문장은 **[00-say.md](./00-say.md)** 한 장에 통합했습니다.
 이자카야 입장·말 걸기·마스터 공략·마무리·안전 표현이 모두 들어 있습니다.
 
 > 📱 가게 들어가기 전, 폰 앨범 맨 앞에서 30초만 훑어보세요.
@@ -769,11 +778,13 @@ chaaji wa arimasu ka?
 
 ## 15. 실전 체크리스트
 
+> 🎬 **영상으로 보기**: [혼자 여행 준비물](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%ED%98%BC%EC%9E%90%20%EC%97%AC%ED%96%89%20%EC%A4%80%EB%B9%84%EB%AC%BC) · [LINE 설치·사용법](https://www.youtube.com/results?search_query=%EC%9D%BC%EB%B3%B8%20%EC%97%AC%ED%96%89%20%EB%9D%BC%EC%9D%B8%20LINE%20%EC%84%A4%EC%B9%98)
+
 ### 출발 전
 
 ```text
 □ LINE 계정 + QR 코드 화면 위치 숙지
-□ [00-cheatsheet.md](./00-cheatsheet.md) 캡처해서 폰 앨범 맨 앞에
+□ [00-say.md](./00-say.md) 캡처해서 폰 앨범 맨 앞에
 □ §4 첫 마디 3개 암기 (それ、おいしそうですね 필수)
 □ 아이즈치 6개 반사적으로 나오게
 □ 번역 앱 오프라인 팩 다운로드
